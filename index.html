@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Every picture in the game comes from this one host. Opening the
+         connection while the bundle is still parsing takes the DNS lookup, TCP
+         handshake and TLS negotiation off the critical path of the first
+         artwork. -->
+    <link rel="preconnect" href="https://upload.wikimedia.org" crossorigin />
+    <link rel="dns-prefetch" href="https://upload.wikimedia.org" />
+    <title>Artguessr — guess the artist</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

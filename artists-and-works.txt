@@ -1,0 +1,1105 @@
+ARTGUESSR — ARTISTS AND THEIR WORKS
+125 artists, 814 works
+
+Leonardo da Vinci — Italian, 1452–1519
+  - Mona Lisa (1500s)
+  - The Last Supper (1490s)
+  - Vitruvian Man (1490)
+  - Lady with an Ermine (1490)
+  - Salvator Mundi (1490)
+  - Virgin of the Rocks
+  - Ginevra de' Benci (1470s)
+  - The Virgin and Child with Saint Anne (16th century)
+
+Michelangelo — Italian, 1475–1564
+  - David (1500s)
+  - The Creation of Adam (1511)
+  - Pietà (Michelangelo) (1499)
+  - The Last Judgment (16th century)
+  - Sistine Chapel ceiling (1508)
+  - Madonna of Bruges (1503)
+  - Moses (1510s)
+  - Doni Tondo (1500s)
+
+Raphael — Italian, 1483–1520
+  - The School of Athens (1512)
+  - Sistine Madonna (1510s)
+  - Raphael Rooms (1508)
+  - La fornarina (16th century)
+  - Madonna of the Goldfinch (1500s)
+  - The Marriage of the Virgin (1504)
+  - Disputation of the Holy Sacrament (1509)
+  - La velata (1510s)
+
+Titian — Italian, 1488–1576
+  - Venus of Urbino (1538)
+  - Sleeping Venus (16th century)
+  - Assumption of the Virgin (1510s)
+  - Sacred and Profane Love (1510s)
+  - Equestrian Portrait of Charles V (1548)
+  - Flora (1517)
+  - The Feast of the Gods (1529)
+  - Allegory of Prudence (1550)
+
+Sandro Botticelli — Italian, 1445–1510
+  - The Birth of Venus (1485)
+  - Primavera (1480s)
+  - Venus and Mars (1485)
+  - Adoration of the Magi (1470s)
+  - Madonna of the Magnificat (1483)
+  - Calumny of Apelles (1490s)
+  - Pallas and the Centaur (1482)
+  - Idealized Portrait of a Lady (Portrait of Simonetta Vespucci as Nymph) (1480)
+
+Albrecht Dürer — German, 1471–1528
+  - The Rhinoceros (1515)
+  - Self-Portrait with Fur-Trimmed Robe (1500)
+  - Melencolia I (1514)
+  - The Four Apostles (1526)
+  - Adoration of the Magi (1504)
+  - Knight, Death, and the Devil (1513)
+  - Young Hare (1502)
+  - Feast of the Rosary (1506)
+
+Hieronymus Bosch — Netherlandish, 1450–1516
+  - The Garden of Earthly Delights (15th century)
+  - Ship of Fools (1500s)
+  - Temptation of Saint Anthony (1501)
+  - The Seven Deadly Sins and the Four Last Things (1500)
+  - The Haywain Triptych (1510s)
+  - Christ Carrying the Cross (1510s)
+  - The Wayfarer (1494)
+  - Death and the Miser (1480s)
+
+Pieter Bruegel the Elder — Flemish, 1525–1569
+  - The Hunters in the Snow (1565)
+  - Netherlandish Proverbs (1551)
+  - The Tower of Babel (1563)
+  - The Triumph of Death (1562)
+  - The Blind Leading the Blind (1568)
+  - The Peasant Wedding (1568)
+  - The Magpie on the Gallows (1568)
+  - The Harvesters (1565)
+
+Jan van Eyck — Netherlandish, 1390–1441
+  - Arnolfini Portrait (1434)
+  - Ghent Altarpiece (1432)
+  - Madonna of Chancellor Rolin (15th century)
+  - Madonna with Canon Joris van der Paele (1436)
+  - The Madonna in the Church (1440)
+  - Lucca Madonna (1437)
+  - Portrait of a Man (Self      Portrait?) (1433)
+  - Annunciation (1430s)
+
+El Greco — Greek-Spanish, 1541–1614
+  - The Burial of the Count of Orgaz (1586)
+  - View of Toledo (1596)
+  - The Disrobing of Christ (1570s)
+  - The Nobleman with his Hand on his Chest (1580)
+  - Opening of the Fifth Seal (1610)
+  - Laocoön (1610s)
+  - Saint Martin and the Beggar (1597)
+  - Portrait of Jorge Manuel Theotocópuli (1600s)
+
+Caravaggio — Italian, 1571–1610
+  - The Calling of Saint Matthew (1609)
+  - The Beheading of Saint John the Baptist (1608)
+  - Supper at Emmaus (1601)
+  - Medusa (1597)
+  - Judith Beheading Holofernes (1598)
+  - Amor Vincit Omnia (1600s)
+  - Self-Portrait as Bacchus (1595)
+  - Death of the Virgin (1604)
+
+Artemisia Gentileschi — Italian, 1593–1653
+  - Judith Slaying Holofernes (1613)
+  - Judith and Her Maidservant (1618)
+  - Susanna and the Elders (1610)
+  - Self-Portrait as the Allegory of Painting (1638)
+  - Allegory of Inclination (1615)
+  - Judith Beheading Holofernes (1620)
+  - Danaë (1612)
+  - Esther before Ahasuerus (1620s)
+
+Peter Paul Rubens — Flemish, 1577–1640
+  - The Elevation of the Cross (1609)
+  - The Rape of the Daughters of Leucippus (1618)
+  - Rubens and Isabella Brant in the honeysuckle bower (1600s)
+  - The Three Graces (1630s)
+  - Samson and Delilah (1600s)
+  - The Descent from the Cross (1611)
+  - Massacre of the Innocents (1611)
+  - Romulus and Remus (1615)
+
+Rembrandt van Rijn — Dutch, 1606–1669
+  - The Night Watch (1642)
+  - The Anatomy Lesson of Dr. Nicolaes Tulp (1632)
+  - The Jewish Bride (1660s)
+  - The Storm on the Sea of Galilee (1633)
+  - The Return of the Prodigal Son (1665)
+  - Danaë (1636)
+  - Belshazzar's Feast (1636)
+  - Aristotle with a Bust of Homer (1653)
+
+Johannes Vermeer — Dutch, 1632–1675
+  - Girl with a Pearl Earring (1665)
+  - The Milkmaid (1660)
+  - View of Delft (1660s)
+  - The Astronomer (1664)
+  - The Art of Painting (1660s)
+  - The Little Street (1658)
+  - Woman Holding a Balance (1665)
+  - Girl Reading a Letter at an Open Window (1650s)
+
+Diego Velázquez — Spanish, 1599–1660
+  - Las Meninas (1656)
+  - The Surrender of Brea (1635)
+  - Rokeby Venus (1644)
+  - Las Hilanderas (17th century)
+  - The Lunch (1617)
+  - Portrait of Innocent X (17th century)
+  - Old Woman Cooking Eggs (1618)
+  - The Triumph of Bacchus (1628)
+
+Frans Hals — Dutch, 1582–1666
+  - A Militiaman Holding a Berkemeyer, Known as the ‘Merry Drinker’ (1620s)
+  - Laughing Cavalier (1624)
+  - Gipsy Girl (1626)
+  - Portrait of a young man with a skull (1628)
+  - Malle Babbe (1640s)
+  - Willem van Heythuysen posing with a sword (1625)
+  - Portrait of a Couple probably Isaac Massa and Beatrix van der Laen (1622)
+  - Militia Company of District XI under the Command of Captain Reynier Reael (1637)
+
+Gian Lorenzo Bernini — Italian, 1598–1680
+  - Ecstasy of Saint Teresa (1647)
+  - Four Rivers Fountain (1640s)
+  - Triton Fountain
+  - Apollo and Daphne (1622)
+  - Chair of Saint Peter (1658)
+  - The Rape of Proserpina (1624)
+  - David (1624)
+  - St. Peter's Baldachin (1620s)
+
+Jean-Honoré Fragonard — French, 1732–1806
+  - The Swing (1760s)
+  - A Young Girl Reading (1770)
+  - The Stolen Kiss (1790)
+  - The Lock (1770s)
+  - Blind Man's Bluff (1757)
+
+Antoine Watteau — French, 1684–1721
+  - The Embarkation for Cythera (1717)
+  - Pierrot (1718)
+  - The Shop Sign of Gersaint (1720)
+  - L'Indifférent (1710s)
+  - Fêtes Vénitiennes (1719)
+  - Nymph and Satyr (1716)
+
+Thomas Gainsborough — British, 1727–1788
+  - The Blue Boy (1770)
+  - Mr and Mrs Andrews (1748)
+  - Portrait of a Lady in Blue (1780)
+
+Élisabeth Vigée Le Brun — French, 1755–1842
+  - Marie Antoinette and Her Children (1787)
+  - Marie Antoinette with a Rose (1783)
+  - Self-Portrait with Her Daughter, Julie (1789)
+  - Self Portrait in a Straw Hat (1782)
+  - Portrait of Princess Maria Christina (1790)
+  - Peace bringing back Prosperity (1780)
+  - Portrait of countess Yekaterina Skavronskaya (1790)
+  - Self-portrait of Élisabeth Louise Vigée Le Brun (1790)
+
+Jacques-Louis David — French, 1748–1825
+  - The Death of Socrates (1787)
+  - The Oath of the Horatii (1784)
+  - The Death of Marat (1793)
+  - The Coronation of Napoleon (1807)
+  - Napoleon Crossing the Alps (1801)
+  - The Intervention of the Sabine Women (1799)
+  - The Emperor Napoleon in His Study at the Tuileries (1812)
+  - Mars Being Disarmed by Venus (1824)
+
+Jean-Auguste-Dominique Ingres — French, 1780–1867
+  - Grande Odalisque (1810)
+  - The Source (1856)
+  - The Turkish Bath (1862)
+  - The Valpinçon Bather (1808)
+  - Napoleon I on his Imperial Throne (1806)
+  - Madame Moitessier (1856)
+  - Portrait of Monsieur Bertin (1832)
+  - Vénus Anadyomène (1808)
+
+Antonio Canova — Italian, 1757–1822
+  - Psyche Revived by Cupid's Kiss (1794)
+  - Venus Victrix (1815)
+  - Napoleon as Mars the Peacemaker (1806)
+  - Venus Italica (1804)
+  - The Three Graces (1814)
+  - Aphrodite of Syracuse
+  - Monument to the Royal Stuarts
+
+Francisco Goya — Spanish, 1746–1828
+  - La maja desnuda (1800)
+  - The Third of May 1808 (1814)
+  - Saturn Devouring His Son (1819)
+  - Charles IV of Spain and His Family (1800)
+  - The Clothed Maja (1800)
+  - The Disasters of War (1810)
+  - The Second of May 1808 (1814)
+  - Caprichos (1799)
+
+Eugène Delacroix — French, 1798–1863
+  - Liberty Leading the People (1830)
+  - Death of Sardanapalus (1827)
+  - The Massacre at Chios (1824)
+  - The Barque of Dante (1822)
+  - The Women of Algiers (1834)
+  - Greece on the Ruins of Missolonghi (1826)
+  - Orphan Girl at the Cemetery (1824)
+  - Entry of the Crusaders in Constantinople (1840)
+
+Théodore Géricault — French, 1791–1824
+  - The Raft of the Medusa (1819)
+  - The 1821 Derby at Epsom (1821)
+  - Portrait of a Kleptomaniac (1820s)
+
+J. M. W. Turner — British, 1775–1851
+  - Rain, Steam and Speed – The Great Western Railway (1843)
+  - The Fighting Temeraire (1839)
+  - The Slave Ship (1840)
+  - Dido building Carthage (1815)
+  - The Battle of Trafalgar (1820s)
+  - Snow Storm: Hannibal and his Army Crossing the Alps (1812)
+  - Snow Storm: Steam-Boat off a Harbour's Mouth (1842)
+  - Sunrise with Sea Monsters (1845)
+
+Caspar David Friedrich — German, 1774–1840
+  - Wanderer above the Sea of Fog (1818)
+  - The Abbey in the Oakwood (1800s)
+  - The Sea of Ice (1820s)
+  - Chalk Cliffs at Ruegen (1818)
+  - The Monk by the Sea (1808)
+  - Life stages (1834)
+  - Two men contemplating the Moon (1810s)
+  - Mountain Landscape with Rainbow (1809)
+
+John Constable — British, 1776–1837
+  - The Hay Wain (1821)
+  - Salisbury Cathedral from the Bishop's Grounds (1823)
+  - Salisbury Cathedral from the Meadows (1831)
+  - The Cornfield (1826)
+
+William Blake — British, 1757–1827
+  - The Ancient of Days (1794)
+  - Newton (1795)
+  - The Great Red Dragon paintings (1805)
+  - Urizen
+  - The Ghost of a Flea (1810s)
+
+Katsushika Hokusai — Japanese, 1760–1849
+  - The Great Wave off Kanagawa (1830s)
+  - Fine Wind, Clear Morning (1830s)
+  - Lightnings below the summit (1831)
+
+Utagawa Hiroshige — Japanese, 1797–1858
+  - Sudden Shower over Shin-Ōhashi Bridge and Atake (1857)
+  - Plum Park in Kameido (1857)
+  - The Sea at Satta in Suruga Province (1858)
+
+Gustave Courbet — French, 1819–1877
+  - L'Origine du monde (1866)
+  - A Burial at Ornans (1846)
+  - The Sleepers (1866)
+  - The Painter's Studio (1855)
+  - Woman with a Parrot (1866)
+  - The Woman in the Waves (1868)
+  - The Meeting, or Bonjour, Monsieur Courbet! (1854)
+  - The Stone Breakers (1849)
+
+Jean-François Millet — French, 1814–1875
+  - The Gleaners (1857)
+  - The Angelus (1858)
+  - Death and the Woodcutter (1850s)
+  - The Potato Harvest (1855)
+  - Shepherdess with her Flock (1863)
+
+Rosa Bonheur — French, 1822–1899
+  - The Horse Fair (1850s)
+  - Ploughing in the Nivernais (1849)
+  - Haymaking in the Auvergne (1855)
+
+Dante Gabriel Rossetti — British, 1828–1882
+  - Beata Beatrix (1872)
+  - Proserpine (1874)
+  - Bocca Baciata (1859)
+  - Ecce Ancilla Domini (1850)
+  - Lady Lilith (1866)
+  - Dante's Dream (1871)
+  - Veronica Veronese (1872)
+  - The Beloved (1865)
+
+John Everett Millais — British, 1829–1896
+  - Ophelia (1851)
+  - The Blind Girl (1856)
+  - Christ in the House of His Parents (1849)
+  - Isabella (1849)
+  - Autumn Leaves (1856)
+  - Mariana (1851)
+  - The Vale of Rest (1850s)
+  - The Order of Release (1850s)
+
+James McNeill Whistler — American, 1834–1903
+  - Whistler's Mother (1871)
+  - Symphony in White, No. 1: The White Girl (1860s)
+  - Nocturne in Black and Gold – The Falling Rocket (1875)
+  - Symphony in White, No. 2: The Little White Girl (1864)
+  - Nocturne: Blue and Silver – Chelsea (1871)
+
+John Singer Sargent — American, 1856–1925
+  - Madame X (Virginie Amélie Avegno Gautreau) (1884)
+  - Carnation, Lily, Lily and Rose (1880s)
+  - The Daughters of Edward Darley Boit (1882)
+  - Gassed (1919)
+  - Lady Agnew of Lochnaw (1892)
+  - The Wyndham Sisters: Lady Elcho, Mrs. Adeane, and Mrs. Tennant (1899)
+  - Cashmere (1908)
+  - Street in Venice (1882)
+
+Édouard Manet — French, 1832–1883
+  - Luncheon on the Grass (1863)
+  - Olympia (1863)
+  - A Bar at the Folies-Bergère (1882)
+  - The Balcony (1868)
+  - Music in the Tuileries (1862)
+  - The Fif (1866)
+  - The Railway (1873)
+  - The Execution of Emperor Maximilian (1867)
+
+Claude Monet — French, 1840–1926
+  - Impression, Sunrise (1872)
+  - Water Lilies (1914)
+  - Garden at Sainte-Adresse (1867)
+  - Woman with a Parasol – Madame Monet and Her Son (1886)
+  - Women in the Garden (1866)
+  - Haystacks
+  - The Magpie (1868)
+  - Woman in the Garden (1867)
+
+Pierre-Auguste Renoir — French, 1841–1919
+  - Bal du moulin de la Galette (1876)
+  - Luncheon of the Boating Party (1880s)
+  - La Balançoire (1876)
+  - The Great Bathers (1884)
+  - Girls at the Piano (1892)
+  - La loge (1874)
+  - Two Sisters (1881)
+  - The Umbrellas (1880s)
+
+Edgar Degas — French, 1834–1917
+  - L'Absinthe (1875)
+  - The Bellelli Family (1858)
+  - Little Dancer of Fourteen Years (1881)
+  - Blue Dancers (1897)
+  - The Ballet Class (1871)
+  - Interior (1868)
+  - Miss La La at the Cirque Fernando (1879)
+  - The Millinery Shop by Edgar Degas (19th century)
+
+Camille Pissarro — French, 1830–1903
+  - Pont Boieldieu in Rouen, Rainy Weather (1896)
+  - Hay Harvest at Éragny (1901)
+  - The Red Roofs, Côte Saint-Denis at Pontoise, Winter Effect (1877)
+  - Steamboats in the Port of Rouen (1896)
+  - Boulevard Montmartre, Mardi Gras (1897)
+  - The Banks of the Oise near Pontoise (1873)
+  - The Côte des Bœufs, Pontoise (1877)
+  - The House of the Deaf Woman and the Belfry at Eragny (1886)
+
+Berthe Morisot — French, 1841–1895
+  - The Cradle (1872)
+  - Summer's Day (1879)
+  - The Psyche mirror (1876)
+  - In a Park (1874)
+  - The Mother and Sister of the Artist (19th century)
+  - The Port at Lorient (1869)
+  - Young girl in a park (1893)
+  - Eugène Manet on Isle of Wight (1875)
+
+Mary Cassatt — American, 1844–1926
+  - The Child's Bath (1893)
+  - Little Girl in a Blue Armchair (1878)
+  - Woman with a Pearl Necklace in a Loge (1879)
+  - The Cup of Tea (1880s)
+  - Girl Arranging Her Hair (1886)
+  - The Boating Party (1890s)
+  - Woman with a Sunflower (1905)
+  - Mother and Child (The Oval Mirror) (1899)
+
+Paul Cézanne — French, 1839–1906
+  - The Card Players (1890s)
+  - Les Grandes Baigneuses (1900s)
+  - Mont Sainte-Victoire (1902)
+  - Mardi Gras (1888)
+  - The Boy in the Red Vest (19th century)
+  - The Basket of Apples (1893)
+  - Lady in Blue (1904)
+  - Jeune Fille au piano (Girl at the Piano - The Overture to Tannhauser) (1869)
+
+Vincent van Gogh — Dutch, 1853–1890
+  - The Starry Night (1889)
+  - The Potato Eaters (1885)
+  - Sunflowers (1888)
+  - Wheatfield with Crows (1890)
+  - Irises
+  - Bedroom in Arles (1888)
+  - Café Terrace at Night (1888)
+  - The Night Café (1888)
+
+Paul Gauguin — French, 1848–1903
+  - Where Do We Come From? What Are We? Where Are We Going? (1890s)
+  - The Yellow Christ (1889)
+  - When Will You Marry? (1892)
+  - Tahitian Women on the Beach (1890)
+  - Manaò tupapaú (1892)
+  - The Green Christ (1889)
+  - Vincent van Gogh Painting Sunflowers (1888)
+  - Ia Orana Maria (1891)
+
+Georges Seurat — French, 1859–1891
+  - A Sunday Afternoon on the Island of La Grande Jatte (1884)
+  - Bathers at Asnières (1884)
+  - The Circus (1891)
+  - The Models (1886)
+  - Young Woman Powdering Herself (1889)
+  - Le Chahut (1889)
+  - The Circus Parade (1887)
+
+Henri de Toulouse-Lautrec — French, 1864–1901
+  - At the Moulin Rouge (1892)
+  - At the Moulin Rouge, The Dance (1890)
+  - La Toilette (1896)
+  - La Blanchisseuse (1889)
+  - The Hangover (Suzanne Valadon) (1889)
+  - In the Salon at the Rue des Moulins (1894)
+  - Equestrienne (At the Cirque Fernando) (1888)
+  - Self-portrait in front of a mirror (1882)
+
+Henri Rousseau — French, 1844–1910
+  - The Sleeping Gypsy (1897)
+  - Tiger in a Tropical Storm (1891)
+  - The Dream (1910)
+  - La encantadora de serpientes (1907)
+  - Myself: Portrait – Landscape (1890)
+  - Boy on the Rocks (1897)
+  - The Hungry Lion Throws Itself on the Antelope (1905)
+
+Gustav Klimt — Austrian, 1862–1918
+  - The Kiss (1907)
+  - Portrait of Adele Bloch-Bauer I (1907)
+  - Danaë (1907)
+  - Judith I (1901)
+  - The Three Ages of Woman (1905)
+  - The Maiden (1913)
+  - Woman With a Fan (1917)
+  - Death and Life (1910)
+
+Edvard Munch — Norwegian, 1863–1944
+  - The Scream (1893)
+  - Madonna (1894)
+  - Vampire (1893)
+  - Melancholy (1891)
+  - The Sick Child (1885)
+  - Dance of Life
+  - The Kiss (1897)
+  - Puberty (1895)
+
+Auguste Rodin — French, 1840–1917
+  - The Thinker (1882)
+  - The Burghers of Calais (1888)
+  - The Gates of Hell (1880)
+  - The Kiss (1880s)
+  - The Age of Bronze (1877)
+
+Constantin Brâncuși — Romanian, 1876–1957
+  - Sculptural Ensemble of Constantin Brâncuși at Târgu Jiu (1938)
+  - The Endless Column (1938)
+  - Bird in Space (1923)
+  - The Kiss (1907)
+  - Gate of the Kiss (1938)
+  - Table of Silence (1937)
+
+Henry Moore — British, 1898–1986
+  - Sundial (1980)
+  - Nuclear Energy (1967)
+  - Goslar Warrior (1977)
+  - Working Model for Three Piece No. 3: Vertebrae (1968)
+  - Large Two Forms (1969)
+  - The Arch (1980)
+  - Three Standing Figures (1948)
+  - Draped Reclining Woman (1950s)
+
+Alberto Giacometti — Swiss, 1901–1966
+  - L'Homme qui marche I (1956)
+  - L'Homme au doigt (1947)
+  - Grande tête mince (1955)
+  - Three Men Walking (1949)
+  - Tête qui regarde (1928)
+
+Henri Matisse — French, 1869–1954
+  - Dance (1910)
+  - Woman with a hat (1905)
+  - The Dessert: Harmony in Red (The Red Room) (1907)
+  - The Joy of Life (1906)
+  - The Green Stripe (1905)
+  - Woman Reading (1895)
+  - The Open Window (1905)
+  - Music (1910)
+
+Pablo Picasso — Spanish, 1881–1973
+  - Guernica (1937)
+  - Les Demoiselles d'Avignon (1907)
+  - Garçon à la pipe (1905)
+  - Dora Maar au Chat (1942)
+  - Weeping Woman (1937)
+  - Nude, Green Leaves and Bust (1932)
+  - Le Rêve (1932)
+  - The Old Guitarist (1903)
+
+Georges Braque — French, 1882–1963
+  - Woman with a Mandolin (1910)
+  - Fishing Boats (1909)
+  - Pitcher and Violin (1909)
+  - Houses at l'Estaque (1908)
+  - Mandola (20th century)
+  - The Viaduct at L'Estaque (1908)
+  - Fruit Dish (1908)
+  - Still Life (1911) (1911)
+
+Wassily Kandinsky — Russian, 1866–1944
+  - Composition VII (1913)
+  - The Blue Rider (1903)
+  - Composition VI (1913)
+  - On White II (1923)
+  - Yellow-Red-Blue (1925)
+  - Composition X (1939)
+  - Colorful Life (1907)
+  - Composition VIII (1923)
+
+Piet Mondrian — Dutch, 1872–1944
+  - Broadway Boogie Woogie (1942)
+  - Victory Boogie Woogie (1942)
+  - The Red Tree (1909)
+  - Gray Tree (1911)
+  - New York City (1942)
+  - Evolution (1911)
+  - New York City I (1941)
+  - Composition (1916)
+
+Kazimir Malevich — Russian, 1879–1935
+  - Black Square (1915) (1915)
+  - Suprematist Composition: White on White (1918)
+  - Red Square (1915)
+  - Suprematist Composition (1916)
+  - Red Cavalry Riding (1932)
+  - Black Circle (1924)
+  - Black Cross (1915)
+
+Hilma af Klint — Swedish, 1862–1944
+  - Late Summer (1903)
+  - Tree of Knowledge, No. 1 (1915)
+  - Tree of Knowledge, No. 2 (1915)
+  - The Ten Largest, No. 5, Adulthood (1907)
+  - The Ten Largest, No. 6 (1907)
+  - The Ten Largest, No. 7, Adulthood (1907)
+  - The Ten Largest, No. 8, Adulthood (1907)
+  - The Ten Largest, No. 10, Old Age (1907)
+
+Paul Klee — Swiss-German, 1879–1940
+  - Angelus Novus (1920)
+  - Twittering Machine (1922)
+  - Senecio (1922)
+  - Sumpflegende (1919)
+  - Villa R (1919)
+
+Ernst Ludwig Kirchner — German, 1880–1938
+  - Berlin Street Scene (1913)
+  - Five Women on the Street (1913)
+  - Half-Length Nude with Hat (1911)
+  - Self-portrait as a Soldier (1915)
+  - Street, Berlin (1913)
+  - Portrait of Erna Schilling (1913)
+  - Alpine Kitchen (1918)
+  - Potsdamer Platz (1914)
+
+Egon Schiele — Austrian, 1890–1918
+  - Portrait of Wally (1912)
+  - Death and the Maiden (1915)
+  - Dead City III (1911)
+  - The Family (1918)
+  - The embrace (1917)
+  - The Hermits (1912)
+  - The Port of Trieste (1907)
+  - Seated Woman with Bent Knees (1917)
+
+Käthe Kollwitz — German, 1867–1945
+  - Mourning Parents (1927)
+  - Mother with her dead son (1937)
+  - Woman with Dead Child (1903)
+
+Amedeo Modigliani — Italian, 1884–1920
+  - caryatid
+  - Nu couché (1910s)
+  - Alice (1918)
+  - Nude Sitting on a Divan (1917)
+  - Female Nude (1916)
+  - Seated Nude (1917)
+  - Jacques and Berthe Lipchitz (1916)
+  - The Little Peasant (1918)
+
+Marc Chagall — Russian-French, 1887–1985
+  - White Crucifixion (1938)
+  - I and the Village (1911)
+  - La Mariée (1950)
+  - Self-Portrait with Seven Fingers (1910s)
+  - The House in Grey (1917)
+  - Paris Through the Window (1912)
+  - Green Violinist (1920s)
+  - Four Seasons (1974)
+
+Marcel Duchamp — French, 1887–1968
+  - Fountain (1917)
+  - Nude Descending a Staircase, No. 2 (1912)
+  - L.H.O.O.Q. (1919)
+  - Bicycle Wheel (1951)
+  - The Bride Stripped Bare By Her Bachelors, Even (1915)
+  - Étant donnés (1966)
+  - Anemic Cinema
+  - Why Not Sneeze, Rose Sélavy? (1921)
+
+Salvador Dalí — Spanish, 1904–1989
+  - The Persistence of Memory (1931)
+  - The Great Masturbator (1929)
+  - The Face of War (1940)
+  - The Burning Giraffe (1937)
+  - Lobster Telephone (1936)
+  - Crucifixion (1954)
+  - Dream Caused by the Flight of a Bee Around a Pomegranate a Second Before Awakening (1944)
+  - Soft Construction with Boiled Beans (1936)
+
+René Magritte — Belgian, 1898–1967
+  - The Treachery of Images (1929)
+  - The Son of Man (1964)
+  - Golconda (1953)
+  - The Empire of Lights (1939)
+  - The Mysteries of the Horizon (1955)
+  - Not to be Reproduced (1937)
+  - The Portrait (1935)
+  - The lovers (1930)
+
+Max Ernst — German, 1891–1976
+  - The Elephant Celebes (1921)
+  - Aquis Submersus (1919)
+  - The Hat Makes the Man (1920)
+  - Napoleon in the Wilderness (1941)
+  - Forest and Dove (1927)
+  - Pietà or Revolution by Night (1923)
+
+Joan Miró — Spanish, 1893–1983
+  - Dona i Ocell (1983)
+  - The Farm (1920s)
+  - Still Life with Old Shoe (1937)
+  - Walls of the Sun and the Moon (1950s)
+  - The World Trade Center Tapestry (1974)
+  - The Hope of a Condemned Man (1974)
+  - The Harlequin's Carnival (1924)
+  - The Caress of a Bird (1967)
+
+Frida Kahlo — Mexican, 1907–1954
+  - The Two Fridas (1939)
+  - The Broken Column (1944)
+  - Self-Portrait with Thorn Necklace and Hummingbird (1940)
+  - The Wounded Deer (1946)
+  - Self-Portrait with Monkey (1938)
+  - Frieda and Diego Rivera (1931)
+  - The Frame (1937)
+  - The Wounded Table (1940)
+
+Diego Rivera — Mexican, 1886–1957
+  - The History of Mexico (1929)
+  - Teatro de los Insurgentes (1953)
+  - Man at the Crossroads (1934)
+  - Detroit Industry Murals (1933)
+  - Sueño de una Tarde Dominical en la Alameda Central (1947)
+  - Pan American Unity (1940)
+
+Georgia O'Keeffe — American, 1887–1986
+  - Blue and Green Music (20th century)
+  - Black Iris (1926)
+  - A Storm (1922)
+
+Edward Hopper — American, 1882–1967
+  - Nighthawks (1942)
+  - Automat (1927)
+  - Girl at Sewing Machine (1921)
+  - Early Sunday Morning (1930)
+  - House by the Railroad (1925)
+  - Gas (1940)
+  - New York Movie (1939)
+  - Office in a Small City (1953)
+
+Grant Wood — American, 1891–1942
+  - American Gothic (1930)
+  - The Midnight Ride of Paul Revere (1931)
+  - Daughters of Revolution (1932)
+  - Arnold Comes of Age (1930)
+  - Woman with Plants (1929)
+  - Sentimental Ballad (1940)
+  - Death on the Ridge Road (1935)
+  - Fall Plowing (1931)
+
+Andrew Wyeth — American, 1917–2009
+  - Christina's World (1948)
+  - Winter 1946 (1946)
+  - Wind from the Sea (1947)
+
+Jackson Pollock — American, 1912–1956
+  - No. 5, 1948 (1948)
+  - Autumn Rhythm (Number 30) (1950)
+  - Blue Poles (1952)
+  - Number 17A (1948)
+
+Mark Rothko — American, 1903–1970
+  - Rothko Chapel (1971)
+  - Orange, Red, Yellow (1961)
+  - No 1 (1954)
+
+Willem de Kooning — Dutch-American, 1904–1997
+  - Woman III (1953)
+  - Interchange (1955)
+  - Seated Woman on a Bench (1972)
+
+Andy Warhol — American, 1928–1987
+  - Campbell's Soup Cans (1962)
+  - Marilyn Diptyque (1962)
+  - Silver Car Crash (Double Disaster) (1963)
+  - Triple Elvis (1963)
+  - Eight Elvises (1963)
+  - Cow Wallpaper (Pink on Yellow) (1966)
+  - Green Coca-Cola Bottles (1962)
+  - Ethel Scull 36 Times (1963)
+
+Roy Lichtenstein — American, 1923–1997
+  - The Face of Barcelona (1992)
+  - Whaam! (1963)
+  - Look Mickey (1961)
+  - M-Maybe (1965)
+  - Drowning Girl (1963)
+  - Grrrrrrrrrrr!! (1965)
+  - Girl with Ball (1961)
+  - Girl in Mirror (1964)
+
+David Hockney — British, 1937–
+  - Portrait of an Artist (Pool with Two Figures) (1972)
+  - A Bigger Splash (1967)
+  - Mr and Mrs Clark and Percy (1971)
+
+Francis Bacon — British, 1909–1992
+  - Three Studies of Lucian Freud (1969)
+  - Three Studies for Figures at the Base of a Crucifixion (1944)
+  - Head VI (1949)
+  - Fragment of a Crucifixion (1950)
+  - Painting (1946)
+  - Triptych, May–June 1973 (1973)
+
+Lucian Freud — British, 1922–2011
+  - Benefits Supervisor Sleeping (1995)
+  - Portrait of Kitty (1949)
+  - Portrait of Queen Elizabeth II (2000s)
+  - Head on a Green Sofa (1960)
+  - After Cézanne (1999)
+
+Gerhard Richter — German, 1932–
+  - Cathedral Window (2007)
+  - Birkenau (2014)
+  - Wand (1994)
+
+Louise Bourgeois — French-American, 1911–2010
+  - Maman (1999)
+  - Steilneset Memorial
+  - Father and Son (2005)
+  - Spider (1996)
+  - Femme Maison (1946)
+
+Jean-Michel Basquiat — American, 1960–1988
+  - Gem Spa (Basquiat) (1982)
+  - A Panel of Experts (1982)
+  - Untitled (1982)
+  - La Hara (1981)
+  - Hollywood Africans (1983)
+  - Irony of Negro Policeman (1981)
+  - Dos Cabezas (Two Heads) (1982)
+  - Taxi, 45th/Broadway (1985)
+
+Keith Haring — American, 1958–1990
+  - Tuttomondo (1989)
+  - The Boxers (1987)
+  - Together we can stop AIDS (1989)
+  - mural of Keith Haring (1986)
+  - Tower (1987)
+  - We the Youth
+  - Crack Is Wack (1986)
+  - A Pile of Crowns, for Jean-Michel Basquiat (1988)
+
+Kehinde Wiley — American, 1977–
+  - President Barack Obama (2018)
+  - Rumors of War
+  - Saint Adelaide (2014)
+
+Marina Abramović — Serbian, 1946–
+  - The Artist Is Present
+  - Seven Easy Pieces (2005)
+  - Spirit of Mozart
+
+Ai Weiwei — Chinese, 1957–
+  - Sunflower Seeds (2010)
+  - Circle of Animals/Zodiac Heads
+  - Man in a cube
+
+Banksy — British, 1974–
+  - Dismaland
+  - Balloon Girl (2002)
+  - Love is in the Bin (2006)
+  - The Walled Off Hotel
+  - The Son of a Migrant from Syria (2015)
+  - untitled (2026)
+  - One Nation Under CCTV (2007)
+  - Slave Labour (2012)
+
+Cindy Sherman — American, 1954–
+  - Untitled 96 (1981)
+  - Untitled 153 (1985)
+  - Untitled Film Still #21
+  - Untitled Film Still #48
+  - Untitled #93
+
+Jeff Koons — American, 1955–
+  - Puppy (1992)
+  - Kiepenkerl (1987)
+  - Bouquet of Tulips (2019)
+  - Michael Jackson and Bubbles (1988)
+  - Balloon Dog (1994)
+
+Anish Kapoor — British-Indian, 1954–
+  - Cloud Gate (2004)
+  - ArcelorMittal Orbit (2012)
+  - Turning the World Upside Down (2010)
+
+Yoko Ono — Japanese-American, 1933–
+  - Imagine Peace Tower (2007)
+  - Grapefruit (1964)
+  - Wish Tree for Washington, DC (2007)
+  - Half-A-Room (1967)
+  - Wish Trees for London (2012)
+
+Damien Hirst — British, 1965–
+  - The Physical Impossibility of Death in the Mind of Someone Living (1991)
+  - For the Love of God (2007)
+  - Verity (2012)
+
+Robert Rauschenberg — American, 1925–2008
+  - Erased de Kooning Drawing (1953)
+  - 9 Evenings: Theatre and Engineering (1966)
+  - Monogram (1955)
+  - Riding Bikes (1998)
+  - Canyon (1959)
+  - Reservoir (1961)
+
+Barbara Hepworth — British, 1903–1975
+  - Figure for Landscape (1965)
+  - Single Form (1961)
+  - Winged Figure (1963)
+  - Three Obliques (Walk In) (1968)
+  - Square Forms and Circles (1963)
+  - Sphere with Inner Form
+  - Two Forms (Divided Circle)
+  - Squares with two circles (1963)
+
+Sonia Delaunay — Ukrainian-French, 1885–1979
+  - Simultaneous Contrasts (1913)
+  - Portuguese Market (1915)
+  - Simultaneous Solar Prism (1914)
+
+Tamara de Lempicka — Polish, 1898–1980
+  - Autoportrait (1929)
+  - The Communicant (1929)
+  - The Dream (1927)
+
+Winslow Homer — American, 1836–1910
+  - The Fog Warning (1885)
+  - Breezing Up (1873)
+  - The Gulf Stream (1899)
+  - Fox Hunt (1893)
+  - A Basket of Clams (1873)
+  - Dressing for the Carnival (1877)
+  - The Cotton Pickers (1876)
+  - The Herring Net (1885)
+
+Ilya Repin — Russian, 1844–1930
+  - Reply of the Zaporozhian Cossacks (1890s)
+  - Barge Haulers on the Volga (1870)
+  - Ivan the Terrible and his son Ivan on November 16, 1581 (1883)
+  - They Did Not Expect Him (1888)
+  - Religious Procession in Kursk Province (1880)
+  - Sadko (1876)
+  - Ceremonial Sitting of the State Council on 7 May 1901 Marking the Centenary of its Foundation (1903)
+
+Canaletto — Italian, 1697–1768
+  - The Stonemason's Yard (1725)
+  - The Entrance to the Grand Canal, Venice (1730)
+  - The Piazza San Marco in Venice (1723)
+  - Arrival of the French Ambassador in Venice (1720s)
+  - View of the Bacino di San Marco from the Punta della Dogana (1743)
+  - Perspective View with Portico (1765)
+  - A View of Walton Bridge (1754)
+  - Pra' della Valle in Padua (1740s)
+
+Utagawa Kuniyoshi — Japanese, 1798–1861
+  - Takiyasha the Witch and the Skeleton Spectre (1844)
+  - Sketches of the Life of the Great Priest (1831)
+  - The daughter of Dainagon Yukinari (Dainagon Yukinari musume, 大納言行成女) (1842)
+
+Nicolas Poussin — French, 1594–1665
+  - The Flight into Egypt (1658)
+  - The Adoration of the Golden Calf (1634)
+  - Massacre of the Innocents (1620s)
+  - A Dance to the Music of Time (1630s)
+  - The Abduction of the Sabine Women (1630s)
+  - Echo and Narcissus (1629)
+  - Landscape with Polyphemus (1649)
+  - The Funeral of Phocion (1648)
+
+Anthony van Dyck — Flemish, 1599–1641
+  - Amor and Psyche (17th century)
+  - Charles I in Three Positions (1635)
+  - Charles I (1600-1649) with M. de St Antoine (1636)
+  - Charles I at the Hunt (1635)
+  - The Crown of Thorns (1620)
+  - Self-portrait with a Sunflower (1632)
+  - Samson and Delilah (1630)
+  - Lord John Stuart and His Brother, Lord Bernard Stuart (1638)
+
+Jan Steen — Dutch, 1626–1679
+  - The Feast of Saint Nicholas (1660s)
+  - A Mayor of Delft and his Daughter (1655)
+  - Girl eating oysters (1658)
+  - The Happy Family (1668)
+  - The Doctor's Visit in a Rich Interior (1661)
+  - Beware of Luxury (“In Weelde Siet Toe”) (1663)
+  - Wine is a Mocker (17th century)
+  - 'As the Old Sing, So Pipe the Young' (1665)
+
+Fernand Léger — French, 1881–1955
+  - Ballet Mécanique (1924)
+  - The City (1919)
+  - Still Life with Candlestick (1922)
+
+Umberto Boccioni — Italian, 1882–1916
+  - Unique Forms of Continuity in Space (1913)
+  - The City Rises (1910)
+  - The Street Enters the House (1911)
+  - Dynamism of a Cyclist (1913)
+  - Dynamism of a Soccer Player (1913)
+  - Three Women (1909)
+  - Riot in the Gallery (1910)
+  - Development of a Bottle in Space (1913)
+
+Man Ray — American, 1890–1976
+  - Le Retour à la Raison
+  - Noire et Blanche (1927)
+  - Gift (1958)
+
+Odilon Redon — French, 1840–1916
+  - The Cyclops (1914)
+  - The Birth of Venus (1912)
+  - Les Yeux clos (1890)
+
+Camille Claudel — French, 1864–1943
+  - The Waltz (1883)
+  - The Mature Age (1898)
+  - Sakuntala (Claudel) (1888)
+  - The Implorer (1907)
+  - Perseus and the Gorgon (1902)
+  - La Vague by Camille Claudel (1900s)
+  - Clotho (1893)
+  - The Confidence
+
+André Derain — French, 1880–1954
+  - Mountains at Collioure (1905)
+  - Woman in a Chemise (1906)
+  - The Golden Age (1905)
+  - Big Ben (1906)
+  - Portrait of Madame Guillaume with pamela (1920s)
+  - Le Faubourg de Collioure (1905)
+  - The Pool of London (1906)
+  - The Port of Collioure (1905)
+
+Juan Gris — Spanish, 1887–1927
+  - The Bottle of Anís del Mono (1914)
+  - Portrait of Pablo Picasso (1912)
+  - Le Canigou (1921)
+  - Violin and Playing Cards on a Table (1913)
+
+Jasper Johns — American, 1930–
+  - Three Flags (1958)
+  - Flag (1954)
+  - Map (1961)
+  - White Flag (1955)
+
+Olafur Eliasson — Danish-Icelandic, 1967–
+  - New York City Waterfalls (2008)
+  - The Weather Project (2003)
+  - Scent Tunnel (2000)
+  - Umschreibung (2004)
+  - Your Star (2015)
+  - Gesellschaftsspiegel (2020)
+
+
+NOT IN PLAY — fewer than 3 works with a usable image
+
+Jacob Lawrence — American, 1917–2000
+  - Untitled (1938)
+  - Frederick Douglass listened to William Lloyd Garrison denounce slavery
+
+Lee Krasner — American, 1908–1984
+
+Yayoi Kusama — Japanese, 1929–
+  - Shangri-La Tulips
+
+Anselm Kiefer — German, 1945–
+  - The Seven Heavenly Palaces
+  - Osiris und Isis
+
+Kerry James Marshall — American, 1955–
+  - Great America (1994)
+
+Takashi Murakami — Japanese, 1962–
+
+Agnes Martin — Canadian-American, 1912–2004
+
+Cy Twombly — American, 1928–2011
+
+Joan Mitchell — American, 1925–1992
+  - City Landscape (1955)
+
+Helen Frankenthaler — American, 1928–2011
+  - Mountains and Sea (1952)
+
+El Anatsui — Ghanaian, 1944–
+  - Man's Cloth (2001)
+
+Amy Sherald — American, 1973–
+  - First Lady Michelle Obama (2018)
+
+Jenny Saville — British, 1970–

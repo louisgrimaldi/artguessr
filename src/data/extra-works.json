@@ -1,0 +1,151 @@
+{
+  "_comment": [
+    "Hand-added works, merged in by scripts/build-artworks.mjs after selection.",
+    "",
+    "For artists the automatic pipeline cannot serve. Wikidata only surfaces a",
+    "work if someone has modelled it as an item with a creator and an image, and",
+    "for artists still in copyright almost nobody has: Giacometti died in 1966,",
+    "so his sculptures are protected until 2036, there are no free photographs of",
+    "them, and Wikidata carried five items in total — one of which was a snapshot",
+    "of a grave in Pere-Lachaise.",
+    "",
+    "Entries here bypass the fame threshold entirely and are always included, so",
+    "only add works that are genuinely well known and genuinely by that artist.",
+    "'title' and 'image' are required; everything else is optional and matches",
+    "the shape build-artworks.mjs writes. Run npm run data, then npm run",
+    "data:images to resolve sizes."
+  ],
+
+  "giacometti": [
+    {
+      "title": "Three Men Walking",
+      "year": 1949,
+      "dateLabel": "1949",
+      "image": "https://en.wikipedia.org/wiki/Special:FilePath/Three%20Men%20Walking.jpg?width=1200",
+      "source": "wikipedia",
+      "links": 1,
+      "item": "Q1799016",
+      "locations": [],
+      "genre": null
+    },
+    {
+      "title": "Tête qui regarde",
+      "year": 1928,
+      "dateLabel": "1928",
+      "image": "https://en.wikipedia.org/wiki/Special:FilePath/T%C3%AAte%20qui%20regarde.jpg?width=1200",
+      "source": "wikipedia",
+      "links": 1,
+      "item": "Q65120595",
+      "locations": [],
+      "genre": null
+    }
+  ],
+
+  "louise-bourgeois": [
+    {
+      "title": "Spider",
+      "year": 1996,
+      "dateLabel": "1996",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MAM%20-%20Aranha%20-%20Louise%20Bourgeois%20-%20Parque%20do%20Ibirapuera%20-%20panoramio.jpg?width=1200",
+      "source": "commons",
+      "links": 2,
+      "item": "Q7577002",
+      "locations": [
+        { "name": "Museu de Arte Moderna de São Paulo", "lat": -23.5874, "lon": -46.6576 }
+      ],
+      "genre": null
+    },
+    {
+      "title": "Femme Maison",
+      "year": 1946,
+      "dateLabel": "1946",
+      "image": "https://en.wikipedia.org/wiki/Special:FilePath/Femme%20Maison.jpg?width=1200",
+      "source": "wikipedia",
+      "links": 1,
+      "item": "Q20087520",
+      "locations": [],
+      "genre": null
+    }
+  ],
+
+  "kehinde-wiley": [
+    {
+      "title": "Saint Adelaide",
+      "year": 2014,
+      "dateLabel": "2014",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Adelaide%2C%20Kehinde%20Wiley%202014%20-%20Stained%20Glass%20Museum.jpg?width=1200",
+      "source": "commons",
+      "links": 1,
+      "locations": [],
+      "genre": null
+    }
+  ],
+
+  "lucian-freud": [
+    {
+      "title": "Head on a Green Sofa",
+      "year": 1960,
+      "dateLabel": "1960",
+      "image": "https://en.wikipedia.org/wiki/Special:FilePath/Lucian%20Freud%20-%20Head%20on%20a%20Green%20Sofa%20(reduced%20300px).jpg?width=1200",
+      "source": "wikipedia",
+      "links": 1,
+      "item": "Q17126771",
+      "locations": [],
+      "genre": null
+    },
+    {
+      "title": "After Cézanne",
+      "year": 1999,
+      "dateLabel": "1999",
+      "image": "https://en.wikipedia.org/wiki/Special:FilePath/After%20C%C3%A9zanne%20%E2%80%93%20Lucian%20Freud.jpg?width=1200",
+      "source": "wikipedia",
+      "links": 1,
+      "item": "Q106777898",
+      "locations": [
+        { "name": "National Gallery of Australia", "lat": -35.2975, "lon": 149.1358 }
+      ],
+      "genre": null
+    }
+  ],
+
+  "mondrian": [
+    {
+      "title": "Composition",
+      "year": 1916,
+      "dateLabel": "1916",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Composition%2C%20Piet%20Mondrian%2C%201916.jpg?width=1200",
+      "source": "commons",
+      "links": 1,
+      "item": "Q19882855",
+      "locations": [
+        { "name": "Solomon R. Guggenheim Museum", "lat": 40.7829, "lon": -73.959 }
+      ],
+      "genre": null
+    }
+  ],
+
+  "yoko-ono": [
+    {
+      "title": "Half-A-Room",
+      "year": 1967,
+      "dateLabel": "1967",
+      "image": "https://en.wikipedia.org/wiki/Special:FilePath/Yoko%20Ono.%20Half-A-Room.%201967.jpg?width=1200",
+      "source": "wikipedia",
+      "links": 1,
+      "locations": [],
+      "genre": null
+    },
+    {
+      "title": "Wish Trees for London",
+      "year": 2012,
+      "dateLabel": "2012",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yoko%20Ono%20Wish%20Tree%20B.JPG?width=1200",
+      "source": "commons",
+      "links": 1,
+      "locations": [
+        { "name": "Serpentine Gallery", "lat": 51.5045, "lon": -0.1749 }
+      ],
+      "genre": null
+    }
+  ]
+}

@@ -1,0 +1,2172 @@
+:root {
+  --bg: #f4f1ea;
+  --surface: #fffefb;
+  --surface-2: #ece7dc;
+  --ink: #1b1a17;
+  --ink-soft: #5c574d;
+  --ink-faint: #8c857a;
+  --line: #ddd6c7;
+  --accent: #7a1f1f;
+  --right: #1f6b43;
+  --wrong: #a3341f;
+  --shadow: 0 1px 2px rgb(27 26 23 / 8%), 0 12px 32px -12px rgb(27 26 23 / 22%);
+
+  --serif: 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif;
+  --sans: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+
+  --sidebar: 232px;
+
+  color-scheme: light dark;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    --bg: #16151a;
+    --surface: #1f1e24;
+    --surface-2: #272630;
+    --ink: #f0ece4;
+    --ink-soft: #b3aca0;
+    --ink-faint: #837c72;
+    --line: #332f38;
+    --accent: #d99b7c;
+    --right: #6fd39b;
+    --wrong: #ef8a6d;
+    --shadow: 0 1px 2px rgb(0 0 0 / 40%), 0 16px 40px -14px rgb(0 0 0 / 70%);
+  }
+}
+
+:root[data-theme='dark'] {
+  --bg: #16151a;
+  --surface: #1f1e24;
+  --surface-2: #272630;
+  --ink: #f0ece4;
+  --ink-soft: #b3aca0;
+  --ink-faint: #837c72;
+  --line: #332f38;
+  --accent: #d99b7c;
+  --right: #6fd39b;
+  --wrong: #ef8a6d;
+  --shadow: 0 1px 2px rgb(0 0 0 / 40%), 0 16px 40px -14px rgb(0 0 0 / 70%);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button {
+  font: inherit;
+  color: inherit;
+  cursor: pointer;
+}
+
+kbd {
+  font-family: var(--sans);
+  font-size: 0.72em;
+  font-weight: 600;
+  min-width: 1.35em;
+  padding: 0.1em 0.35em;
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  color: var(--ink-faint);
+  text-align: center;
+}
+
+cite {
+  font-style: italic;
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+/* ---------- shell ---------- */
+
+.shell {
+  display: grid;
+  grid-template-columns: var(--sidebar) minmax(0, 1fr);
+  height: 100vh;
+  overflow: hidden;
+}
+
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 1.75rem;
+  padding: 1.35rem 1rem;
+  border-right: 1px solid var(--line);
+  background: var(--surface);
+  height: 100vh;
+  overflow-y: auto;
+  scrollbar-gutter: stable;
+}
+
+.brand {
+  font-family: var(--serif);
+  font-size: 1.35rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  padding: 0 0.5rem;
+}
+
+.brand span {
+  color: var(--accent);
+  font-style: italic;
+}
+
+.nav {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 0.15rem;
+}
+
+.nav a {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+  padding: 0.6rem 0.7rem;
+  border-radius: 6px;
+  font-size: 0.92rem;
+  color: var(--ink-soft);
+  transition: background 0.15s ease, color 0.15s ease;
+}
+
+.nav a:hover {
+  background: var(--surface-2);
+  color: var(--ink);
+}
+
+.nav a.active {
+  background: var(--surface-2);
+  color: var(--ink);
+  font-weight: 600;
+}
+
+.nav-icon {
+  width: 1.1rem;
+  text-align: center;
+  color: var(--ink-faint);
+}
+
+.nav a.active .nav-icon {
+  color: var(--accent);
+}
+
+.badge {
+  margin-left: auto;
+  min-width: 1.4rem;
+  padding: 0.05rem 0.35rem;
+  border-radius: 999px;
+  background: var(--accent);
+  color: var(--surface);
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-align: center;
+}
+
+/* A count of what's left rather than a backlog to clear, so it shouldn't shout
+   the way the mistakes badge does. */
+.badge.quiet {
+  background: transparent;
+  color: var(--muted);
+  border: 1px solid var(--line);
+  font-weight: 600;
+}
+
+.sidebar-stats {
+  margin: auto 0 0;
+  display: grid;
+  gap: 0.9rem;
+  padding: 0.9rem 0.7rem 0;
+  border-top: 1px solid var(--line);
+}
+
+.sidebar-stats dt {
+  font-size: 0.6rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+}
+
+.sidebar-stats dd {
+  margin: 0.1rem 0 0;
+  font-family: var(--serif);
+  font-size: 1.15rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.sidebar-stats .of {
+  color: var(--ink-faint);
+  font-size: 0.85rem;
+}
+
+/* Scrolling happens here rather than on the document, so a full-height view
+   like the game board can't push the page taller than the screen. */
+.content {
+  min-width: 0;
+  height: 100vh;
+  overflow-y: auto;
+  /* Always reserve the scrollbar's width. Without this the column narrows and
+     widens as content length changes between rounds, shifting the whole board. */
+  scrollbar-gutter: stable;
+}
+
+/* ---------- generic page furniture ---------- */
+
+.page {
+  max-width: 1080px;
+  padding: clamp(1.5rem, 4vw, 3rem) clamp(1rem, 4vw, 3rem) 4rem;
+}
+
+.eyebrow {
+  margin: 0 0 0.3rem;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+}
+
+.page-title {
+  margin: 0 0 1rem;
+  font-family: var(--serif);
+  font-size: clamp(1.8rem, 3.6vw, 2.6rem);
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 1.15;
+}
+
+.page-title.big {
+  font-size: clamp(2rem, 5vw, 3.4rem);
+}
+
+.section-title {
+  margin: 2.25rem 0 0.5rem;
+  font-family: var(--serif);
+  font-size: 1.3rem;
+  font-weight: 600;
+}
+
+.lede {
+  max-width: 62ch;
+  margin: 0 0 1.75rem;
+  font-size: 1rem;
+  line-height: 1.6;
+  color: var(--ink-soft);
+}
+
+.empty {
+  max-width: 56ch;
+  margin: 0 0 1.5rem;
+  font-size: 1rem;
+  line-height: 1.6;
+  color: var(--ink-soft);
+}
+
+.crumb {
+  display: inline-block;
+  margin-bottom: 1rem;
+  font-size: 0.85rem;
+  color: var(--ink-faint);
+}
+
+.crumb:hover {
+  color: var(--ink);
+}
+
+.button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.7rem 1.4rem;
+  border: 0;
+  border-radius: 4px;
+  background: var(--ink);
+  color: var(--bg);
+  font-family: var(--serif);
+  font-size: 1.02rem;
+}
+
+.button:hover {
+  opacity: 0.86;
+}
+
+.button.ghost {
+  background: none;
+  color: var(--ink-soft);
+  border: 1px solid var(--line);
+}
+
+.button.ghost:hover {
+  color: var(--ink);
+  border-color: var(--accent);
+  opacity: 1;
+}
+
+.row-actions {
+  display: flex;
+  gap: 0.75rem;
+  margin-bottom: 2rem;
+}
+
+.muted {
+  color: var(--ink-faint);
+  font-size: 0.85rem;
+}
+
+.year {
+  font-variant-numeric: tabular-nums;
+  color: var(--ink-faint);
+}
+
+.meta {
+  margin: 0 0 1.35rem;
+  font-size: 0.95rem;
+  color: var(--ink-soft);
+  font-variant-numeric: tabular-nums;
+}
+
+/* ---------- progress bars ---------- */
+
+.bar {
+  height: 5px;
+  border-radius: 999px;
+  background: var(--surface-2);
+  overflow: hidden;
+}
+
+.bar span {
+  display: block;
+  height: 100%;
+  border-radius: 999px;
+  background: var(--accent);
+  transition: width 0.4s ease;
+}
+
+.bar.done span {
+  background: var(--right);
+}
+
+.overall {
+  max-width: 460px;
+  margin: 0 0 2.5rem;
+}
+
+.result {
+  margin: 0.5rem 0 1rem;
+  font-family: var(--serif);
+  font-size: clamp(2.4rem, 6vw, 3.6rem);
+  font-variant-numeric: tabular-nums;
+  line-height: 1;
+}
+
+.result span {
+  font-size: 0.32em;
+  color: var(--ink-faint);
+  letter-spacing: 0.02em;
+}
+
+.bar-label {
+  margin: 0.5rem 0 0;
+  font-size: 0.82rem;
+  color: var(--ink-faint);
+  font-variant-numeric: tabular-nums;
+}
+
+/* ---------- home: mode cards ---------- */
+
+.modes {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1rem;
+}
+
+.mode {
+  display: block;
+  padding: 1.4rem;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  transition: border-color 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.mode:hover {
+  border-color: var(--accent);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow);
+}
+
+.mode-icon {
+  display: block;
+  font-size: 1.5rem;
+  color: var(--accent);
+  margin-bottom: 0.6rem;
+}
+
+.mode h2 {
+  margin: 0 0 0.4rem;
+  font-family: var(--serif);
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.mode p {
+  margin: 0;
+  font-size: 0.9rem;
+  line-height: 1.55;
+  color: var(--ink-soft);
+}
+
+/* ---------- movement grid ---------- */
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(268px, 1fr));
+  gap: 1rem;
+}
+
+.card {
+  display: flex;
+  gap: 0.9rem;
+  padding: 0.75rem;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  transition: border-color 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.card:hover {
+  border-color: var(--accent);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow);
+}
+
+.card-thumb {
+  flex: 0 0 62px;
+  width: 62px;
+  height: 62px;
+  border-radius: 3px;
+  overflow: hidden;
+  background: var(--surface-2);
+}
+
+.card-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.card-body {
+  min-width: 0;
+  flex: 1;
+}
+
+.card-body h2 {
+  margin: 0;
+  font-family: var(--serif);
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+.card-years {
+  margin: 0.15rem 0 0.6rem;
+  font-size: 0.75rem;
+  color: var(--ink-faint);
+  font-variant-numeric: tabular-nums;
+}
+
+.card-count {
+  margin: 0.4rem 0 0;
+  font-size: 0.75rem;
+  color: var(--ink-faint);
+  font-variant-numeric: tabular-nums;
+}
+
+/* ---------- list of artists (mistakes) ---------- */
+
+.tablist {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border-top: 1px solid var(--line);
+}
+
+.tablist li {
+  border-bottom: 1px solid var(--line);
+}
+
+.tablist a {
+  display: grid;
+  grid-template-columns: minmax(0, 1.1fr) minmax(0, 1.4fr) auto;
+  gap: 1rem;
+  align-items: baseline;
+  padding: 0.8rem 0.3rem;
+}
+
+.tablist a:hover {
+  background: var(--surface);
+}
+
+.tablist-name {
+  font-family: var(--serif);
+  font-size: 1.05rem;
+}
+
+.tablist-meta {
+  font-size: 0.85rem;
+  color: var(--ink-soft);
+}
+
+.tablist-score {
+  font-size: 0.78rem;
+  color: var(--wrong);
+  font-variant-numeric: tabular-nums;
+}
+
+/* ---------- artist portraits ---------- */
+
+.face {
+  flex: 0 0 auto;
+  border-radius: 50%;
+  object-fit: cover;
+  /* Portraits are cropped square from wildly varying originals; biasing to the
+     top keeps heads in frame on tall paintings. */
+  object-position: 50% 22%;
+  background: var(--surface-2);
+}
+
+.face-ring {
+  box-shadow: 0 0 0 1px var(--line);
+}
+
+.face-initials {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--serif);
+  font-size: 0.9rem;
+  letter-spacing: 0.02em;
+  color: var(--ink-faint);
+}
+
+/* Name-with-face header, used on the reveal card and artist pages. */
+.who {
+  display: flex;
+  align-items: center;
+  gap: 0.9rem;
+  margin-bottom: 0.85rem;
+}
+
+.who-large {
+  gap: 1.25rem;
+  margin-bottom: 1.5rem;
+}
+
+.who .page-title,
+.who .artist-name {
+  margin-bottom: 0.15rem;
+}
+
+.meta-tight {
+  margin-bottom: 0 !important;
+}
+
+/* Portrait grid in the study guide — the actual face-learning view. */
+.faces {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(116px, 1fr));
+  gap: 1rem 0.75rem;
+  margin: 0 0 0.5rem;
+  padding: 0;
+}
+
+.faces a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.6rem 0.35rem;
+  border: 1px solid transparent;
+  border-radius: 6px;
+  text-align: center;
+  transition: border-color 0.15s ease, background 0.15s ease;
+}
+
+.faces a:hover {
+  background: var(--surface);
+  border-color: var(--accent);
+}
+
+.faces .face {
+  box-shadow: 0 0 0 1px var(--line);
+}
+
+.faces a.known .face {
+  box-shadow: 0 0 0 2px color-mix(in srgb, var(--right) 60%, transparent);
+}
+
+.face-name {
+  font-family: var(--serif);
+  font-size: 0.86rem;
+  line-height: 1.25;
+}
+
+.face-years {
+  font-size: 0.68rem;
+  color: var(--ink-faint);
+  font-variant-numeric: tabular-nums;
+}
+
+.tablist-who {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  min-width: 0;
+}
+
+/* ---------- study guide ---------- */
+
+.search {
+  width: 100%;
+  max-width: 440px;
+  margin-bottom: 1rem;
+  padding: 0.7rem 0.9rem;
+  font: inherit;
+  font-size: 0.95rem;
+  color: var(--ink);
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 4px;
+}
+
+.study-group {
+  margin-bottom: 0.5rem;
+}
+
+.group-blurb {
+  max-width: 68ch;
+  margin: 0 0 0.85rem;
+  font-size: 0.88rem;
+  line-height: 1.55;
+  color: var(--ink-soft);
+}
+
+.chips {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin: 0;
+  padding: 0;
+}
+
+.chips a {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.45rem;
+  padding: 0.4rem 0.75rem;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  font-size: 0.9rem;
+  transition: border-color 0.15s ease;
+}
+
+.chips a:hover {
+  border-color: var(--accent);
+}
+
+.chips a.known {
+  border-color: color-mix(in srgb, var(--right) 45%, var(--line));
+}
+
+.tick {
+  color: var(--right);
+  font-size: 0.8rem;
+}
+
+.chip-years {
+  font-size: 0.72rem;
+  color: var(--ink-faint);
+  font-variant-numeric: tabular-nums;
+}
+
+.study-bio {
+  max-width: 64ch;
+}
+
+.plates {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1.25rem;
+}
+
+.plate {
+  margin: 0;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.plate-img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 220px;
+  padding: 0.75rem;
+  background: var(--surface-2);
+}
+
+.plate-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.plate-cap {
+  padding: 0.85rem;
+}
+
+.plate cite {
+  font-family: var(--serif);
+  font-size: 1.02rem;
+}
+
+/* Plates are links into each artwork's own page. */
+a.plate {
+  display: block;
+  transition: border-color 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+a.plate:hover {
+  border-color: var(--accent);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow);
+}
+
+a.plate:hover cite {
+  color: var(--accent);
+}
+
+/* ---------- artwork page ---------- */
+
+.work-hero {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: clamp(0.75rem, 2vw, 1.5rem);
+  margin-bottom: 1.5rem;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  box-shadow: var(--shadow);
+  height: min(58vh, 560px);
+}
+
+.work-hero img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.work-title {
+  margin-bottom: 0.75rem;
+}
+
+.work-by {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.65rem;
+  margin-bottom: 1.35rem;
+  font-size: 0.95rem;
+}
+
+.work-by:hover strong {
+  color: var(--accent);
+}
+
+/* ---------- longform + fun facts ---------- */
+
+.longform {
+  max-width: 64ch;
+  margin: 0 0 1.4rem;
+  font-size: 0.97rem;
+  line-height: 1.68;
+  color: var(--ink-soft);
+}
+
+/* The identification tips — the most useful block on the card, so it reads as a
+   panel rather than another paragraph. */
+.recognise {
+  max-width: 64ch;
+  margin: 0 0 0.85rem;
+  padding: 0.7rem 0.9rem;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--ink-faint);
+  border-radius: 4px;
+}
+
+.recognise h3 {
+  margin: 0 0 0.4rem;
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+}
+
+.recognise p {
+  margin: 0;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+.funfact {
+  max-width: 64ch;
+  margin: 0 0 1.5rem;
+  padding: 0.85rem 1rem;
+  background: var(--surface);
+  border: 1px dashed var(--line);
+  border-radius: 4px;
+  font-size: 0.92rem;
+  line-height: 1.6;
+}
+
+.funfact.tight {
+  margin: 0.9rem 0 0;
+  padding: 0.7rem 0.85rem;
+  font-size: 0.86rem;
+  color: var(--ink-soft);
+}
+
+.funfact > span {
+  display: block;
+  margin-bottom: 0.25rem;
+  font-size: 0.6rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+/* The artist block on the reveal card is itself the link to their page. */
+.who-link {
+  border-radius: 6px;
+  transition: color 0.15s ease;
+}
+
+.who-link:hover .artist-name {
+  color: var(--accent);
+}
+
+.label-title a:hover cite {
+  color: var(--accent);
+}
+
+/* ---------- map ---------- */
+
+.map-wrap {
+  margin: 0 0 1rem;
+}
+
+.map {
+  width: 100%;
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  /* Leaflet panes otherwise sit above the sticky sidebar. */
+  z-index: 0;
+  background: var(--surface-2);
+}
+
+.map-loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.9rem;
+  color: var(--ink-faint);
+}
+
+.map-note {
+  margin: 0.5rem 0 0;
+  font-size: 0.78rem;
+  color: var(--ink-faint);
+}
+
+/* Leaflet's own chrome, retuned to the page palette. */
+.leaflet-container {
+  font: inherit;
+  background: var(--surface-2);
+}
+
+.leaflet-popup-content-wrapper,
+.leaflet-popup-tip {
+  background: var(--surface);
+  color: var(--ink);
+  border-radius: 3px;
+  box-shadow: var(--shadow);
+}
+
+.leaflet-popup-content {
+  margin: 0.7rem 0.85rem;
+  font-size: 0.85rem;
+  line-height: 1.5;
+}
+
+.leaflet-bar a {
+  background: var(--surface);
+  color: var(--ink);
+  border-bottom-color: var(--line);
+}
+
+.leaflet-bar a:hover {
+  background: var(--surface-2);
+  color: var(--ink);
+}
+
+.leaflet-control-attribution {
+  background: color-mix(in srgb, var(--surface) 85%, transparent) !important;
+  color: var(--ink-faint);
+  font-size: 0.65rem;
+}
+
+.leaflet-control-attribution a {
+  color: var(--ink-soft);
+}
+
+/* ---------- filter + tally ---------- */
+
+.filter {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  margin-bottom: 1.1rem;
+}
+
+.filter label {
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+}
+
+.filter select {
+  font: inherit;
+  font-size: 0.92rem;
+  padding: 0.5rem 0.7rem;
+  color: var(--ink);
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 4px;
+}
+
+.tally {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  columns: 2;
+  column-gap: 2.5rem;
+  max-width: 620px;
+}
+
+.tally li {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.4rem 0;
+  border-bottom: 1px solid var(--line);
+  font-size: 0.9rem;
+  break-inside: avoid;
+}
+
+.tally-count {
+  color: var(--ink-faint);
+  font-variant-numeric: tabular-nums;
+}
+
+/* ---------- factsheet ---------- */
+
+.factsheet {
+  margin: 0.75rem 0 1.35rem;
+  display: grid;
+  gap: 0.4rem;
+}
+
+.factsheet > div {
+  display: grid;
+  grid-template-columns: 6rem minmax(0, 1fr);
+  gap: 0.5rem;
+  align-items: baseline;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--line);
+}
+
+.factsheet.tight {
+  margin-bottom: 0;
+}
+
+.factsheet.tight > div:last-child {
+  border-bottom: 0;
+  padding-bottom: 0;
+}
+
+.factsheet dt {
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+}
+
+.factsheet dd {
+  margin: 0;
+  font-size: 0.92rem;
+}
+
+/* ---------- play screen ---------- */
+
+/* The whole round should sit on one screen. The page itself never scrolls here;
+   if a column overflows on a short viewport it scrolls inside its own box. */
+.play {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  padding: clamp(0.9rem, 2vw, 1.5rem) clamp(1rem, 3vw, 2.5rem) clamp(1rem, 2vw, 1.5rem);
+}
+
+.play-head {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+  margin-bottom: 0.7rem;
+}
+
+.play-head > div {
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+}
+
+/* Shortcut legend, kept in one place rather than repeated around the board. */
+.keys {
+  flex: 0 0 auto;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.3rem 1.1rem;
+  margin: 0.75rem 0 0;
+  padding: 0;
+}
+
+.keys li {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-size: 0.78rem;
+  color: var(--ink-faint);
+  white-space: nowrap;
+}
+
+.keys kbd {
+  font-size: 0.7rem;
+  padding: 0.1em 0.4em;
+}
+
+.play-head .eyebrow {
+  margin: 0;
+}
+
+.play-head .page-title {
+  font-size: 1.25rem;
+}
+
+.play-head .page-title {
+  margin: 0;
+  font-size: clamp(1.5rem, 2.8vw, 2rem);
+}
+
+.scores {
+  display: flex;
+  gap: clamp(1rem, 3vw, 2.25rem);
+  margin: 0;
+}
+
+.scores div {
+  text-align: right;
+}
+
+.scores dt {
+  font-size: 0.62rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+}
+
+.scores dd {
+  margin: 0.15rem 0 0;
+  font-family: var(--serif);
+  font-size: 1.3rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.pct {
+  color: var(--ink-faint);
+  font-size: 0.85rem;
+}
+
+.stage {
+  flex: 1 1 auto;
+  min-height: 0;
+  display: grid;
+  grid-template-columns: minmax(0, 1.85fr) minmax(0, 1fr);
+  gap: clamp(1.25rem, 3vw, 2.75rem);
+  align-items: stretch;
+}
+
+.viewer {
+  min-width: 0;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+  /* The frame below is a fixed height, so on a short window a long caption can
+     run past the bottom. Scroll the column rather than let `.play`'s overflow
+     clip it away. */
+  overflow-y: auto;
+  scrollbar-width: thin;
+}
+
+.frame {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 3px;
+  box-shadow: var(--shadow);
+  padding: clamp(0.5rem, 1.2vw, 0.9rem);
+  /* A fixed box, not a flexible one. As `flex: 1 1 auto` with a max-height it
+     absorbed whatever space the rest of the column left over — so the pane
+     changed size with the *caption*, and a work with a two-line title
+     ("Militia Company of District XI under the Command of Captain Reynier
+     Reael") got a visibly shorter frame than one with a short title. The
+     picture is centred and contained inside, so the pane now stays put whatever
+     the work's shape or the length of its name. */
+  flex: 0 0 auto;
+  /* Measured off the column, not the content. `.viewer` is stretched by the
+     grid, so its height is the same on every round — which makes this constant
+     too, while still reserving room for the filmstrip, caption and shortcut
+     legend below. Sizing it off the viewport instead pushed the legend out of
+     the bottom of the page on shorter windows. */
+  height: min(62vh, calc(100% - 16rem));
+  min-height: 200px;
+}
+
+.frame-stack {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.frame-stack img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+/* Scaled-up thumbnail: visible only until the real image loads over it. */
+.frame-preview {
+  filter: blur(8px);
+  transform: scale(1.02);
+  /* Delayed by the length of the crossfade below, so the stand-in only leaves
+     once the sharp picture has fully arrived over it. */
+  transition: opacity 0.15s ease 0.25s;
+}
+
+/* Both layers are `object-fit: contain`, so they occupy the same box — but a
+   blur spreads pixels outward past it, and the 1.02 scale pushes them further.
+   Left showing, that fringe reads as a glow around every picture. Once the real
+   image is there the stand-in has no job left, so it goes. */
+.frame-stack:has(> .frame-full.ready) .frame-preview {
+  opacity: 0;
+}
+
+.frame-full {
+  opacity: 0;
+  transition: opacity 0.25s ease;
+}
+
+.frame-full.ready {
+  opacity: 1;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .frame-full,
+  .frame-preview {
+    transition: none;
+  }
+}
+
+.frame img {
+  /* width/height rather than max-*: max-* only ever scales down, so smaller
+     sources sat marooned in the middle of a large empty frame. These scale the
+     image up to fill too, with object-fit preserving the aspect ratio. */
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+@keyframes fade {
+  from {
+    opacity: 0;
+  }
+}
+
+/* ---------- full-screen viewer ---------- */
+
+.zoom-btn {
+  position: absolute;
+  bottom: 0.6rem;
+  right: 0.6rem;
+  width: 2rem;
+  height: 2rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  background: color-mix(in srgb, var(--surface) 88%, transparent);
+  color: var(--ink-soft);
+  line-height: 0;
+  opacity: 0;
+  transition: opacity 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+}
+
+.frame:hover .zoom-btn,
+.work-hero:hover .zoom-btn,
+.zoom-btn:focus-visible {
+  opacity: 1;
+}
+
+.zoom-btn:hover {
+  color: var(--ink);
+  border-color: var(--accent);
+}
+
+/* Touch devices have no hover, so the control has to stay visible. */
+@media (hover: none) {
+  .zoom-btn {
+    opacity: 1;
+  }
+}
+
+/* ---------- spectator mode ---------- */
+
+.spectator {
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  display: flex;
+  flex-direction: column;
+  background: #0f0e12;
+  color: #ece7dd;
+  animation: fade 0.2s ease;
+}
+
+.spectator-bar {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5rem clamp(0.75rem, 2vw, 1.25rem);
+  border-bottom: 1px solid rgb(255 255 255 / 12%);
+}
+
+.spectator-bar .eyebrow {
+  margin: 0;
+  color: rgb(236 231 221 / 55%);
+}
+
+.spectator-close {
+  width: 2.2rem;
+  height: 2.2rem;
+  padding: 0;
+  border: 1px solid rgb(255 255 255 / 25%);
+  border-radius: 50%;
+  background: transparent;
+  color: inherit;
+  line-height: 1;
+}
+
+.spectator-close:hover {
+  background: rgb(255 255 255 / 12%);
+}
+
+.spectator-body {
+  flex: 1 1 auto;
+  min-height: 0;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(290px, 360px);
+  gap: clamp(0.75rem, 2vw, 1.5rem);
+  padding: clamp(0.5rem, 1.2vw, 0.9rem) clamp(0.75rem, 2vw, 1.25rem)
+    clamp(0.5rem, 1.2vw, 0.9rem);
+}
+
+.spectator-stage {
+  position: relative;
+  min-width: 0;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+/* Matches the picture's own aspect ratio, which is what lets percentage
+   hotspots sit exactly where they should at any window size.
+   `height: 100%` gives it a basis to grow from — with only max-* constraints
+   it sized to its content and sat marooned in the middle of the stage. The
+   aspect ratio then derives the width, and max-width caps it for wide pictures. */
+.spectator-frame {
+  position: relative;
+  height: 100%;
+  width: auto;
+  max-width: 100%;
+  max-height: 100%;
+  min-height: 0;
+  aspect-ratio: 4 / 3;
+}
+
+.spectator-frame img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.hotspot {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  width: 1.75rem;
+  height: 1.75rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  border: 1.5px solid rgb(255 255 255 / 85%);
+  border-radius: 50%;
+  background: rgb(15 14 18 / 55%);
+  color: #fff;
+  font-size: 0.72rem;
+  font-weight: 700;
+  line-height: 1;
+  backdrop-filter: blur(2px);
+  transition: transform 0.15s ease, background 0.15s ease;
+}
+
+.hotspot:hover,
+.hotspot.open {
+  background: var(--accent);
+  border-color: #fff;
+  transform: translate(-50%, -50%) scale(1.15);
+}
+
+/* ---------- the note, pinned to its marker ---------- */
+
+/* Positioned at the hotspot's own coordinates and pushed clear of the marker by
+   its translate, so the bubble travels with the point it explains. Sitting on
+   the picture is the whole idea: the text used to print in a line underneath,
+   which had you reading about a detail while looking away from it. */
+.callout {
+  position: absolute;
+  z-index: 3;
+  width: max-content;
+  max-width: min(28ch, 42vw);
+  padding: 0.6rem 0.75rem;
+  border-radius: 6px;
+  background: rgb(18 16 22 / 92%);
+  border: 1px solid rgb(255 255 255 / 18%);
+  box-shadow: 0 10px 30px rgb(0 0 0 / 45%);
+  backdrop-filter: blur(6px);
+  color: #f2ede4;
+  text-align: left;
+  /* Never eats the pointer: the marker keeps hover while the bubble is up, so
+     moving the mouse a few pixels can't make it flicker away. */
+  pointer-events: none;
+  animation: callout-in 0.13s ease-out;
+}
+
+/* Which way it hangs off the marker. Chosen from the hotspot's own position so
+   a point near an edge opens inward instead of off the picture. */
+.callout.to-right {
+  margin-left: 1.15rem;
+}
+
+.callout.to-left {
+  transform: translateX(-100%);
+  margin-left: -1.15rem;
+}
+
+.callout.to-bottom {
+  margin-top: 0.2rem;
+}
+
+.callout.to-top {
+  margin-top: -0.2rem;
+  translate: 0 -100%;
+}
+
+/* The arrow: a rotated square tucked under the bubble's edge, sharing its
+   background and picking up the two borders that face outward. */
+.callout::after {
+  content: '';
+  position: absolute;
+  width: 0.55rem;
+  height: 0.55rem;
+  background: rgb(18 16 22 / 92%);
+  border: 1px solid rgb(255 255 255 / 18%);
+  transform: rotate(45deg);
+}
+
+.callout.to-right::after {
+  left: -0.3rem;
+  border-right: 0;
+  border-top: 0;
+}
+
+.callout.to-left::after {
+  right: -0.3rem;
+  border-left: 0;
+  border-bottom: 0;
+}
+
+.callout.to-bottom::after {
+  top: 0.85rem;
+}
+
+.callout.to-top::after {
+  bottom: 0.85rem;
+}
+
+.callout-label {
+  margin: 0 0 0.15rem;
+  font-family: var(--serif);
+  font-size: 0.95rem;
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+.callout-text {
+  margin: 0;
+  font-size: 0.84rem;
+  line-height: 1.45;
+  color: rgb(242 237 228 / 82%);
+}
+
+@keyframes callout-in {
+  from {
+    opacity: 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .callout {
+    animation: none;
+  }
+}
+
+.spectator-hint {
+  flex: 0 0 auto;
+  margin: 0;
+  max-width: 70ch;
+  min-height: 1.5em;
+  text-align: center;
+  font-size: 0.92rem;
+  line-height: 1.5;
+  color: rgb(236 231 221 / 85%);
+}
+
+.spectator-hint .muted {
+  color: rgb(236 231 221 / 45%);
+}
+
+.spectator-info {
+  min-width: 0;
+  max-width: 100%;
+  overflow-x: hidden;
+  overflow-wrap: anywhere;
+  overflow-y: auto;
+  scrollbar-width: thin;
+  padding-right: 0.4rem;
+}
+
+.spectator-info h2 {
+  margin: 0 0 0.2rem;
+  font-family: var(--serif);
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+.spectator-by {
+  margin: 0 0 1rem;
+  font-size: 0.95rem;
+  color: rgb(236 231 221 / 70%);
+}
+
+.spectator-info .factsheet > div {
+  border-bottom-color: rgb(255 255 255 / 12%);
+}
+
+.spectator-info .factsheet dt {
+  color: rgb(236 231 221 / 45%);
+}
+
+.spectator-text {
+  margin: 0 0 1.4rem;
+  font-size: 0.95rem;
+  line-height: 1.65;
+  color: rgb(236 231 221 / 88%);
+}
+
+.spectator-sub {
+  margin: 0 0 0.6rem;
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: rgb(236 231 221 / 45%);
+}
+
+.spectator-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 0.3rem;
+}
+
+.spectator-list button {
+  width: 100%;
+  display: flex;
+  gap: 0.6rem;
+  padding: 0.5rem 0.6rem;
+  border: 0;
+  border-radius: 5px;
+  background: transparent;
+  text-align: left;
+  font-size: 0.86rem;
+  line-height: 1.5;
+  color: rgb(236 231 221 / 78%);
+}
+
+.spectator-list button:hover,
+.spectator-list button.active {
+  background: rgb(255 255 255 / 8%);
+  color: #fff;
+}
+
+.spectator-num {
+  flex: 0 0 auto;
+  width: 1.3rem;
+  height: 1.3rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  border: 1px solid rgb(255 255 255 / 30%);
+  font-size: 0.66rem;
+  font-weight: 700;
+}
+
+.spectator-list button.active .spectator-num {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+
+/* Before the answer there is no info panel, so the picture takes the room. */
+.spectator-body:has(> .spectator-stage:only-child) {
+  grid-template-columns: minmax(0, 1fr);
+}
+
+@media (max-width: 900px) {
+  .spectator-body {
+    grid-template-columns: 1fr;
+    overflow-y: auto;
+  }
+}
+
+.broken {
+  margin: 0;
+  text-align: center;
+  font-size: 0.95rem;
+  color: var(--ink-soft);
+  line-height: 1.7;
+}
+
+.filmstrip {
+  flex: 0 0 auto;
+  display: flex;
+  gap: 0.45rem;
+  margin-top: 0.6rem;
+  /* Up to eight works per artist, so scroll rather than squeeze on narrow screens. */
+  overflow-x: auto;
+  padding-bottom: 0.3rem;
+  scrollbar-width: thin;
+}
+
+.thumb {
+  flex: 0 0 auto;
+  width: 46px;
+  height: 46px;
+  padding: 0;
+  background: var(--surface);
+  border: 2px solid var(--line);
+  border-radius: 2px;
+  overflow: hidden;
+  opacity: 0.5;
+  transition: opacity 0.18s ease, border-color 0.18s ease;
+}
+
+.thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.thumb:hover,
+.thumb:focus-visible {
+  opacity: 0.85;
+}
+
+.thumb.active {
+  opacity: 1;
+  border-color: var(--accent);
+}
+
+.caption {
+  margin: 0.9rem 0 0;
+  font-size: 0.95rem;
+  color: var(--ink-soft);
+}
+
+.caption cite {
+  font-family: var(--serif);
+  font-size: 1.1rem;
+  color: var(--ink);
+}
+
+.panel {
+  min-width: 0;
+  min-height: 0;
+  height: 100%;
+  overflow-y: auto;
+  padding-right: 0.4rem;
+  scrollbar-width: thin;
+  scrollbar-gutter: stable;
+}
+
+.prompt {
+  margin: 0 0 1.1rem;
+  font-family: var(--serif);
+  font-size: clamp(1.35rem, 2.2vw, 1.8rem);
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+.choices {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 0.6rem;
+}
+
+.choice {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.95rem 1.1rem;
+  text-align: left;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 3px;
+  font-family: var(--serif);
+  font-size: 1.1rem;
+  transition: border-color 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.choice:hover {
+  border-color: var(--accent);
+  transform: translateX(3px);
+  box-shadow: var(--shadow);
+}
+
+/* ---------- reveal ---------- */
+
+.reveal {
+  animation: rise 0.3s ease;
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+}
+
+/* The result needs to register instantly, so it's a filled banner rather than a
+   line of small caps. */
+.verdict-banner {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.7rem 0.9rem;
+  margin: 0 0 0.9rem;
+  border-radius: 6px;
+  border: 1px solid;
+}
+
+.verdict-banner.right {
+  color: var(--right);
+  border-color: color-mix(in srgb, var(--right) 40%, transparent);
+  background: color-mix(in srgb, var(--right) 12%, var(--surface));
+}
+
+.verdict-banner.wrong {
+  color: var(--wrong);
+  border-color: color-mix(in srgb, var(--wrong) 40%, transparent);
+  background: color-mix(in srgb, var(--wrong) 12%, var(--surface));
+}
+
+.verdict-mark {
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1;
+}
+
+/* The fill has to be stated per state rather than via currentColor: setting the
+   glyph colour on this element would redefine currentColor for its own
+   background too, painting a white tick on a white disc. */
+.verdict-banner.right .verdict-mark {
+  background: var(--right);
+  color: var(--surface);
+}
+
+.verdict-banner.wrong .verdict-mark {
+  background: var(--wrong);
+  color: var(--surface);
+}
+
+.verdict-copy {
+  min-width: 0;
+}
+
+.verdict-word {
+  margin: 0;
+  font-family: var(--serif);
+  font-size: 1.3rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  line-height: 1.1;
+}
+
+.verdict-sub {
+  margin: 0.15rem 0 0;
+  font-size: 0.88rem;
+  color: var(--ink-soft);
+}
+
+/* ---------- museum label, under the artwork ---------- */
+
+.label {
+  flex: 0 0 auto;
+  margin-top: 0.7rem;
+  max-width: 62ch;
+}
+
+.label-title {
+  margin: 0 0 0.5rem;
+  font-family: var(--serif);
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+.label-title cite {
+  font-style: italic;
+}
+
+.label-title .year {
+  font-style: normal;
+  font-weight: 400;
+}
+
+.label-facts {
+  display: grid;
+  /* Fixed label column so the values line up across every work, whether or not
+     a Genre row is present. */
+  grid-template-columns: 6rem minmax(0, 1fr);
+  align-items: baseline;
+  gap: 0.25rem 0.5rem;
+  margin: 0 0 0.6rem;
+  padding-bottom: 0.6rem;
+  border-bottom: 1px solid var(--line);
+}
+
+.label-facts > div {
+  display: contents;
+}
+
+.label-facts dt {
+  font-size: 0.6rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+}
+
+.label-facts dd {
+  margin: 0;
+  min-width: 0;
+  font-size: 0.9rem;
+  overflow-wrap: anywhere;
+}
+
+.label-text {
+  margin: 0;
+  font-size: 0.92rem;
+  line-height: 1.55;
+  color: var(--ink-soft);
+}
+
+.artist-name {
+  margin: 0 0 0.3rem;
+  font-family: var(--serif);
+  font-size: clamp(1.5rem, 2.6vw, 1.95rem);
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+.movement {
+  padding: 0.75rem 0.9rem;
+  margin-bottom: 0.8rem;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--accent);
+  border-radius: 2px;
+}
+
+.movement h3 {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.15rem 0.5rem;
+  margin: 0 0 0.35rem;
+  font-family: var(--serif);
+  font-size: 1.05rem;
+  font-weight: 600;
+}
+
+.movement-years {
+  color: var(--ink-faint);
+  font-size: 0.85rem;
+  font-weight: 400;
+  font-variant-numeric: tabular-nums;
+}
+
+.movement p {
+  margin: 0;
+  font-size: 0.88rem;
+  line-height: 1.45;
+  color: var(--ink-soft);
+}
+
+.movement-long {
+  margin-top: 0.7rem !important;
+  font-size: 0.88rem !important;
+}
+
+.movement-era {
+  font-size: 0.78rem;
+  font-weight: 400;
+  color: var(--ink-faint);
+  white-space: nowrap;
+}
+
+.peers-label {
+  margin: 0.55rem 0 0.35rem !important;
+  font-size: 0.62rem !important;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ink-faint) !important;
+}
+
+/* Leading figures of a movement, with faces. */
+.peers-faces {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 0.7rem;
+  margin: 0;
+  padding: 0;
+}
+
+.peers-faces a,
+.peers-faces .peer-static {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.3rem;
+  width: 62px;
+  text-align: center;
+  font-size: 0.68rem;
+  line-height: 1.2;
+  color: var(--ink-soft);
+}
+
+/* Names are shortened to surnames already; this is the backstop for the long
+   ones ("de Toulouse-Lautrec") so a card can never grow a third row of text. */
+.peers-faces span {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.peers-faces a:hover {
+  color: var(--accent);
+}
+
+.flag {
+  font-size: 1.1em;
+  /* Emoji flags carry their own colour; keep them from inheriting muted text. */
+  line-height: 1;
+}
+
+.bio {
+  margin: 0 0 0.85rem;
+  font-family: var(--serif);
+  font-size: 0.98rem;
+  line-height: 1.5;
+}
+
+.worklist {
+  list-style: none;
+  margin: 0 0 1.5rem;
+  padding: 0;
+  border-top: 1px solid var(--line);
+}
+
+.worklist li {
+  border-bottom: 1px solid var(--line);
+}
+
+.worklist button {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.55rem 0.2rem;
+  background: none;
+  border: 0;
+  text-align: left;
+  font-size: 0.92rem;
+  color: var(--ink-soft);
+}
+
+/* Flex and grid children don't shrink below their content by default, so a long
+   title ("Self-Portrait with Thorn Necklace and Hummingbird") pushed the whole
+   document wider and let the page scroll sideways. */
+.worklist button cite,
+.caption,
+.factsheet dd,
+.who > div {
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+
+.worklist button .year {
+  flex: 0 0 auto;
+}
+
+.worklist button:hover,
+.worklist button.active {
+  color: var(--ink);
+}
+
+.worklist button.active cite {
+  color: var(--accent);
+}
+
+.worklist cite {
+  font-family: var(--serif);
+}
+
+.reveal-actions {
+  display: grid;
+  gap: 0.75rem;
+  justify-items: center;
+}
+
+.next {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+  padding: 0.8rem;
+  background: var(--ink);
+  color: var(--bg);
+  border: 0;
+  border-radius: 3px;
+  font-family: var(--serif);
+  font-size: 1.1rem;
+  transition: opacity 0.15s ease;
+}
+
+.next:hover {
+  opacity: 0.86;
+}
+
+.next kbd {
+  border-color: color-mix(in srgb, var(--bg) 40%, transparent);
+  color: var(--bg);
+}
+
+.link-study {
+  font-size: 0.85rem;
+  color: var(--ink-faint);
+}
+
+.link-study:hover {
+  color: var(--accent);
+}
+
+/* ---------- narrow screens ---------- */
+
+@media (prefers-reduced-motion: reduce) {
+  .frame img,
+  .reveal {
+    animation: none;
+  }
+
+  .mode:hover,
+  .card:hover,
+  .choice:hover {
+    transform: none;
+  }
+}
+
+@media (max-width: 1000px) {
+  /* Below this the board can't fit anyway, so go back to a scrolling page. */
+  .shell,
+  .content {
+    height: auto;
+    overflow: visible;
+  }
+
+  .shell {
+    min-height: 100vh;
+  }
+
+  .play {
+    height: auto;
+    overflow: visible;
+  }
+
+  .stage {
+    grid-template-columns: 1fr;
+  }
+
+  .panel,
+  .label {
+    height: auto;
+    overflow: visible;
+  }
+
+  .frame {
+    flex: 0 0 auto;
+    height: min(46vh, 400px);
+  }
+}
+
+@media (max-width: 720px) {
+  .shell {
+    grid-template-columns: 1fr;
+  }
+
+  .sidebar {
+    position: static;
+    height: auto;
+    flex-direction: row;
+    align-items: center;
+    gap: 1rem;
+    overflow-x: auto;
+    border-right: 0;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .nav {
+    grid-auto-flow: column;
+    gap: 0.25rem;
+  }
+
+  .nav a {
+    white-space: nowrap;
+  }
+
+  .sidebar-stats,
+  .nav-icon {
+    display: none;
+  }
+
+  .tablist a {
+    grid-template-columns: 1fr;
+    gap: 0.2rem;
+  }
+}

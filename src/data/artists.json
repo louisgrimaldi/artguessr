@@ -1,0 +1,1244 @@
+[
+  {
+    "id": "leonardo-da-vinci",
+    "name": "Leonardo da Vinci",
+    "birth": 1452,
+    "death": 1519,
+    "nationality": "Italian",
+    "movement": "high-renaissance",
+    "bio": "The archetypal Renaissance polymath, Leonardo left barely twenty finished paintings but changed how art sees. He dissolved outlines in smoky sfumato, studied anatomy by dissecting corpses, and filled thousands of mirror-written notebook pages with flying machines and water studies. Trained in Florence under Verrocchio, he worked for Milanese and French courts, dying at Amboise under royal patronage."
+  },
+  {
+    "id": "michelangelo",
+    "name": "Michelangelo",
+    "birth": 1475,
+    "death": 1564,
+    "nationality": "Italian",
+    "movement": "high-renaissance",
+    "bio": "Michelangelo Buonarroti considered himself a sculptor above all, claiming he merely freed figures already trapped in the marble. He carved the Pietà at twenty-three and David at twenty-nine, then spent four punishing years on the Sistine Chapel ceiling. Fiercely solitary and famously difficult, he also wrote sonnets and, late in life, designed St Peter's dome."
+  },
+  {
+    "id": "raphael",
+    "name": "Raphael",
+    "birth": 1483,
+    "death": 1520,
+    "nationality": "Italian",
+    "movement": "high-renaissance",
+    "bio": "Raphael Sanzio absorbed Leonardo's grace and Michelangelo's power into an effortless clarity that academies would treat as the standard for centuries. Charming and prodigiously productive, he ran a large Roman workshop and decorated the Vatican Stanze for two popes. His serene Madonnas remain the popular image of Renaissance beauty. He died at thirty-seven, reportedly on his birthday."
+  },
+  {
+    "id": "titian",
+    "name": "Titian",
+    "birth": 1488,
+    "death": 1576,
+    "nationality": "Italian",
+    "movement": "high-renaissance",
+    "bio": "The towering figure of Venetian painting, Titian built form from colour rather than line, loosening his touch into near-abstract smears in old age. He served emperors and popes, and Charles V famously stooped to retrieve his fallen brush. Working into his eighties, he shaped mythological painting, portraiture and altarpieces alike before dying in a plague year."
+  },
+  {
+    "id": "botticelli",
+    "name": "Sandro Botticelli",
+    "birth": 1445,
+    "death": 1510,
+    "nationality": "Italian",
+    "movement": "early-renaissance",
+    "bio": "Botticelli painted with a linear, dreamlike elegance that ignored the era's obsession with solid volume. Patronised by the Medici, he wove Neoplatonic philosophy into pagan mythologies of unprecedented scale. Later he fell under the sway of the fundamentalist preacher Savonarola, turning to harsher religious work. Forgotten for centuries, he was rediscovered by the Pre-Raphaelites."
+  },
+  {
+    "id": "durer",
+    "name": "Albrecht Dürer",
+    "birth": 1471,
+    "death": 1528,
+    "nationality": "German",
+    "movement": "northern-renaissance",
+    "bio": "Dürer carried Italian Renaissance theory north and made printmaking a major art. His woodcuts and engravings circulated across Europe, spreading his monogram like a brand. A goldsmith's son from Nuremberg, he wrote treatises on proportion and perspective, and painted himself with a directness bordering on the Christlike, asserting the artist as intellectual rather than craftsman."
+  },
+  {
+    "id": "bosch",
+    "name": "Hieronymus Bosch",
+    "birth": 1450,
+    "death": 1516,
+    "nationality": "Netherlandish",
+    "movement": "northern-renaissance",
+    "bio": "Bosch populated his panels with hybrid monsters, bird-headed devils and grotesque punishments that still resist confident interpretation. He lived his whole life in 's-Hertogenbosch, a prosperous member of a religious brotherhood rather than the deranged outsider legend suggests. Fewer than thirty works are securely his. The Surrealists claimed him four centuries later as a founding ancestor."
+  },
+  {
+    "id": "bruegel-elder",
+    "name": "Pieter Bruegel the Elder",
+    "birth": 1525,
+    "death": 1569,
+    "nationality": "Flemish",
+    "movement": "northern-renaissance",
+    "bio": "Bruegel turned peasant life, proverbs and seasonal labour into panoramic human comedy, watching from a high vantage as tiny figures skate, harvest and brawl. Despite the nickname Peasant Bruegel he was an educated humanist with sophisticated Antwerp patrons. Beneath the bustle run bleak themes of folly and indifference, as in his falling Icarus nobody notices."
+  },
+  {
+    "id": "van-eyck",
+    "name": "Jan van Eyck",
+    "birth": 1390,
+    "death": 1441,
+    "nationality": "Netherlandish",
+    "movement": "northern-renaissance",
+    "bio": "Van Eyck did not invent oil paint, but he perfected its layered glazes to achieve a jewel-like realism no one had approached — every hair, mirror reflection and brass stud recorded. Court painter and occasional diplomat to Philip the Good of Burgundy, he signed works with the motto 'Als ich can', as best I can."
+  },
+  {
+    "id": "el-greco",
+    "name": "El Greco",
+    "birth": 1541,
+    "death": 1614,
+    "nationality": "Greek-Spanish",
+    "movement": "mannerism",
+    "bio": "Born Doménikos Theotokópoulos on Crete, El Greco trained as an icon painter, absorbed Venetian colour, then settled in Toledo where his style turned visionary. Figures stretch like flames, colours turn acidic, and space dissolves into spiritual turbulence. Dismissed as eccentric for centuries, he was embraced by the modernists — Picasso studied him closely."
+  },
+  {
+    "id": "caravaggio",
+    "name": "Caravaggio",
+    "birth": 1571,
+    "death": 1610,
+    "nationality": "Italian",
+    "movement": "baroque",
+    "bio": "Caravaggio dragged sacred drama into the street, using prostitutes and labourers as models and lighting them with a raking beam out of surrounding darkness. His tenebrism reset European painting within a decade. Violent and litigious, he killed a man in a brawl, fled Rome under a death sentence, and died at thirty-eight in murky circumstances."
+  },
+  {
+    "id": "artemisia-gentileschi",
+    "name": "Artemisia Gentileschi",
+    "birth": 1593,
+    "death": 1653,
+    "nationality": "Italian",
+    "movement": "baroque",
+    "bio": "The most accomplished Caravaggisti of her generation, Gentileschi painted biblical heroines with unusual physical force and psychological grip. Raped at seventeen by her tutor, she endured a public trial including torture by thumbscrew to verify her testimony. She built an international career across Florence, Venice, Naples and London, becoming the first woman admitted to Florence's drawing academy."
+  },
+  {
+    "id": "rubens",
+    "name": "Peter Paul Rubens",
+    "birth": 1577,
+    "death": 1640,
+    "nationality": "Flemish",
+    "movement": "baroque",
+    "bio": "Rubens ran the most successful studio in Europe, producing altarpieces, hunts and mythologies of swirling flesh and movement on an industrial scale. Fluent in several languages, he doubled as a diplomat and was knighted by two kings. His late landscapes, painted for pleasure at his country estate, are quieter and among his finest work."
+  },
+  {
+    "id": "rembrandt",
+    "name": "Rembrandt van Rijn",
+    "birth": 1606,
+    "death": 1669,
+    "nationality": "Dutch",
+    "movement": "dutch-golden-age",
+    "bio": "Rembrandt used light as a moral instrument, finding dignity and doubt in faces others would have flattered. He painted roughly eighty self-portraits, charting his own decline with merciless honesty. Wildly successful young, he later went bankrupt, outlived his partner Hendrickje and son Titus, and died poor — his loosening late brushwork now considered his greatest."
+  },
+  {
+    "id": "vermeer",
+    "name": "Johannes Vermeer",
+    "birth": 1632,
+    "death": 1675,
+    "nationality": "Dutch",
+    "movement": "dutch-golden-age",
+    "bio": "Vermeer left only about thirty-five paintings, most showing a woman in a quiet Delft room lit from a left-hand window. He worked slowly, possibly aided by a camera obscura, rendering light as granular points of colour. An innkeeper's son with eleven children, he died in debt and was largely forgotten until the 1860s."
+  },
+  {
+    "id": "velazquez",
+    "name": "Diego Velázquez",
+    "birth": 1599,
+    "death": 1660,
+    "nationality": "Spanish",
+    "movement": "baroque",
+    "bio": "Court painter to Philip IV for most of his life, Velázquez painted royalty, dwarfs and gods with the same unflinching, unsentimental gaze. His brushwork dissolves into loose flecks that resolve only at a distance, a technique Manet and the Impressionists venerated. Las Meninas remains the most analysed puzzle in Western painting."
+  },
+  {
+    "id": "frans-hals",
+    "name": "Frans Hals",
+    "birth": 1582,
+    "death": 1666,
+    "nationality": "Dutch",
+    "movement": "dutch-golden-age",
+    "bio": "Hals caught people mid-laugh, mid-turn, mid-drink, with slashing visible strokes that look almost improvised. He specialised in portraits and vast civic guard group pieces that solved the problem of making committee portraits feel alive. He worked in Haarlem his whole career, fell out of fashion, and died in poverty on municipal relief."
+  },
+  {
+    "id": "bernini",
+    "name": "Gian Lorenzo Bernini",
+    "birth": 1598,
+    "death": 1680,
+    "nationality": "Italian",
+    "movement": "baroque",
+    "bio": "Bernini made marble behave like flesh, cloth and even breath, catching figures at the instant of maximum drama. Sculptor, architect, playwright and stage designer, he shaped the look of papal Rome — the St Peter's colonnade, the Baldacchino, the city's great fountains. He was a prodigy, working for cardinals before he turned twenty."
+  },
+  {
+    "id": "fragonard",
+    "name": "Jean-Honoré Fragonard",
+    "birth": 1732,
+    "death": 1806,
+    "nationality": "French",
+    "movement": "rococo",
+    "bio": "Fragonard abandoned prestigious history painting for private commissions of flirtation and pleasure, executed with a rapid, feathery touch. His scenes of swings, stolen kisses and boudoirs defined aristocratic Rococo taste. The Revolution destroyed his market and his patrons; he died in obscurity, his reputation only recovering in the later nineteenth century."
+  },
+  {
+    "id": "watteau",
+    "name": "Antoine Watteau",
+    "birth": 1684,
+    "death": 1721,
+    "nationality": "French",
+    "movement": "rococo",
+    "bio": "Watteau invented the fête galante — elegant figures drifting through parkland in a mood of wistful, faintly melancholy pleasure. Trained partly in theatre design, he filled his scenes with commedia dell'arte players. Tubercular and restless, he destroyed work and travelled compulsively, dying at thirty-six having reshaped French painting away from Baroque grandeur."
+  },
+  {
+    "id": "gainsborough",
+    "name": "Thomas Gainsborough",
+    "birth": 1727,
+    "death": 1788,
+    "nationality": "British",
+    "movement": "british-portraiture",
+    "bio": "Gainsborough painted portraits for money and landscapes for love, often smuggling the countryside into the background of his sitters. His touch is feathery and rapid, built from thin, nervous strokes. A founding member of the Royal Academy, he feuded with its president Joshua Reynolds over almost everything, including whether drawing mattered more than colour."
+  },
+  {
+    "id": "vigee-le-brun",
+    "name": "Élisabeth Vigée Le Brun",
+    "birth": 1755,
+    "death": 1842,
+    "nationality": "French",
+    "movement": "rococo",
+    "bio": "Vigée Le Brun became Marie Antoinette's favourite portraitist, painting the queen more than thirty times in a softer, more natural register than court convention allowed. Fleeing the Revolution, she rebuilt her career across Italy, Austria, Russia and England. She produced some six hundred portraits and left lively memoirs of a Europe that had vanished."
+  },
+  {
+    "id": "jacques-louis-david",
+    "name": "Jacques-Louis David",
+    "birth": 1748,
+    "death": 1825,
+    "nationality": "French",
+    "movement": "neoclassicism",
+    "bio": "David turned painting into political instrument, replacing Rococo froth with austere Roman virtue on the eve of revolution. He voted for the king's execution, staged republican festivals, and painted the martyred Marat as a secular pietà. He later became Napoleon's image-maker, then died exiled in Brussels after the emperor's fall."
+  },
+  {
+    "id": "ingres",
+    "name": "Jean-Auguste-Dominique Ingres",
+    "birth": 1780,
+    "death": 1867,
+    "nationality": "French",
+    "movement": "neoclassicism",
+    "bio": "Ingres worshipped line and Raphael, and defended classical draughtsmanship against Delacroix's colourist Romanticism for half a century. He willingly distorted anatomy — adding vertebrae, elongating necks — in pursuit of a sinuous ideal, which critics attacked and modernists later admired. He considered himself a history painter while excelling, reluctantly, at portraits."
+  },
+  {
+    "id": "canova",
+    "name": "Antonio Canova",
+    "birth": 1757,
+    "death": 1822,
+    "nationality": "Italian",
+    "movement": "neoclassicism",
+    "bio": "Canova was the most celebrated sculptor in Europe, polishing marble to a soft, almost erotic smoothness in the service of classical restraint. He carved Napoleon's family and, after Waterloo, negotiated the return of art the French had looted from Italy. He declined to restore the Elgin Marbles, calling them beyond improvement."
+  },
+  {
+    "id": "goya",
+    "name": "Francisco Goya",
+    "birth": 1746,
+    "death": 1828,
+    "nationality": "Spanish",
+    "movement": "romanticism",
+    "bio": "Goya rose to Spanish court painter, then an illness left him deaf and his art turned savage. He documented the atrocities of the Peninsular War with unprecedented brutality and etched satirical nightmares of superstition and folly. Late in life he covered his farmhouse walls with the Black Paintings, made for no one but himself."
+  },
+  {
+    "id": "delacroix",
+    "name": "Eugène Delacroix",
+    "birth": 1798,
+    "death": 1863,
+    "nationality": "French",
+    "movement": "romanticism",
+    "bio": "Delacroix led French Romanticism with turbulent compositions, exotic subjects and colour applied in vibrating complementary strokes. A journey to Morocco in 1832 permanently brightened his palette. Baudelaire championed him; the Impressionists studied his colour theory. His journals are among the most illuminating documents any painter has left about the act of painting."
+  },
+  {
+    "id": "gericault",
+    "name": "Théodore Géricault",
+    "birth": 1791,
+    "death": 1824,
+    "nationality": "French",
+    "movement": "romanticism",
+    "bio": "Géricault made contemporary catastrophe into monumental history painting, interviewing survivors and studying corpses to construct The Raft of the Medusa as an indictment of official incompetence. Obsessed with horses and with madness, he painted a remarkable series of psychiatric patients. He died at thirty-two after repeated riding falls."
+  },
+  {
+    "id": "turner",
+    "name": "J. M. W. Turner",
+    "birth": 1775,
+    "death": 1851,
+    "nationality": "British",
+    "movement": "romanticism",
+    "bio": "Turner pushed landscape towards dissolution, drowning ships, sunsets and steam trains in luminous atmospheric haze that critics said looked like tinted vapour. A barber's son and Royal Academy prodigy, he travelled obsessively and hoarded his own work. He left the nation thousands of paintings and sketches, and is claimed as a proto-Impressionist."
+  },
+  {
+    "id": "caspar-david-friedrich",
+    "name": "Caspar David Friedrich",
+    "birth": 1774,
+    "death": 1840,
+    "nationality": "German",
+    "movement": "romanticism",
+    "bio": "Friedrich placed small solitary figures before vast mountains, seas and fogs, their backs turned so viewers occupy their contemplation. His landscapes are spiritual allegories in disguise, filled with ruins, crosses and bare oaks. He fell into obscurity and depression, was rediscovered around 1900, and was later awkwardly appropriated by German nationalism."
+  },
+  {
+    "id": "constable",
+    "name": "John Constable",
+    "birth": 1776,
+    "death": 1837,
+    "nationality": "British",
+    "movement": "romanticism",
+    "bio": "Constable painted the Suffolk countryside of his childhood with an intensity usually reserved for grand subjects, studying clouds scientifically and flecking his canvases with white highlights critics mocked as snow. He sold poorly in England but caused a sensation in Paris, influencing Delacroix and the Barbizon painters who preceded Impressionism."
+  },
+  {
+    "id": "william-blake",
+    "name": "William Blake",
+    "birth": 1757,
+    "death": 1827,
+    "nationality": "British",
+    "movement": "romanticism",
+    "bio": "Poet, printmaker and visionary, Blake claimed to see angels from childhood and built a private mythology of gods and revolt. He invented a relief-etching method to print his own illuminated books, colouring each by hand. Dismissed as mad and dying unrecognised in poverty, he is now read as one of Britain's central imaginations."
+  },
+  {
+    "id": "hokusai",
+    "name": "Katsushika Hokusai",
+    "birth": 1760,
+    "death": 1849,
+    "nationality": "Japanese",
+    "movement": "ukiyo-e",
+    "bio": "Hokusai worked obsessively for seventy years under more than thirty names, producing perhaps thirty thousand designs. He created the Thirty-Six Views of Mount Fuji in his seventies, including the Great Wave that became the most reproduced image in Japanese art. He claimed nothing before seventy was worth counting, and hoped to keep improving past a hundred."
+  },
+  {
+    "id": "hiroshige",
+    "name": "Utagawa Hiroshige",
+    "birth": 1797,
+    "death": 1858,
+    "nationality": "Japanese",
+    "movement": "ukiyo-e",
+    "bio": "Hiroshige specialised in poetic travel landscapes, capturing rain, snow and mist along Japan's highways with a lyricism gentler than Hokusai's drama. A former fire warden, he made the road series that defined the genre. Van Gogh copied his prints in oil, and his bold croppings reshaped European composition."
+  },
+  {
+    "id": "courbet",
+    "name": "Gustave Courbet",
+    "birth": 1819,
+    "death": 1877,
+    "nationality": "French",
+    "movement": "realism",
+    "bio": "Courbet scandalised Paris by painting stone-breakers and a village funeral at the enormous scale reserved for kings and saints. Loudly self-taught and self-promoting, he declared he could not paint an angel because he had never seen one. A committed radical, he was jailed after the Paris Commune and died in Swiss exile."
+  },
+  {
+    "id": "millet",
+    "name": "Jean-François Millet",
+    "birth": 1814,
+    "death": 1875,
+    "nationality": "French",
+    "movement": "realism",
+    "bio": "Millet gave peasant labour a monumental, almost religious gravity, painting gleaners and sowers as timeless figures rather than picturesque rustics. Conservative critics read socialism into the work; Millet insisted he simply painted what he knew. Van Gogh copied him repeatedly and considered him a spiritual father to modern art."
+  },
+  {
+    "id": "rosa-bonheur",
+    "name": "Rosa Bonheur",
+    "birth": 1822,
+    "death": 1899,
+    "nationality": "French",
+    "movement": "realism",
+    "bio": "The most famous woman artist of the nineteenth century, Bonheur painted animals with anatomical exactitude gained in slaughterhouses and cattle markets. She held police permission to wear trousers for such work, smoked openly and lived with women partners for decades. She was the first woman awarded the Grand Cross of the Legion of Honour."
+  },
+  {
+    "id": "rossetti",
+    "name": "Dante Gabriel Rossetti",
+    "birth": 1828,
+    "death": 1882,
+    "nationality": "British",
+    "movement": "pre-raphaelite",
+    "bio": "Poet and painter, Rossetti co-founded the Pre-Raphaelite Brotherhood at twenty, rejecting academic convention for medieval subjects and intense colour. His later work fixated on languid, full-lipped women modelled on Elizabeth Siddal and Jane Morris. He buried his poems in Siddal's coffin after her overdose, then had them exhumed seven years later."
+  },
+  {
+    "id": "millais",
+    "name": "John Everett Millais",
+    "birth": 1829,
+    "death": 1896,
+    "nationality": "British",
+    "movement": "pre-raphaelite",
+    "bio": "A prodigy admitted to the Royal Academy schools at eleven, Millais painted Pre-Raphaelite works of hallucinatory botanical precision — his model for Ophelia caught a severe chill posing in a cold bath. He later abandoned the style for lucrative society portraits and sentimental subjects, and ended his life as president of the Academy."
+  },
+  {
+    "id": "whistler",
+    "name": "James McNeill Whistler",
+    "birth": 1834,
+    "death": 1903,
+    "nationality": "American",
+    "movement": "belle-epoque-portraiture",
+    "bio": "Whistler insisted paintings were arrangements of tone, not stories, titling them nocturnes and symphonies like music. When Ruskin accused him of flinging a paint pot in the public's face, he sued, won a farthing, and went bankrupt. Waspish and immaculately dressed, he was a central figure of Aestheticism's art-for-art's-sake creed."
+  },
+  {
+    "id": "sargent",
+    "name": "John Singer Sargent",
+    "birth": 1856,
+    "death": 1925,
+    "nationality": "American",
+    "movement": "belle-epoque-portraiture",
+    "bio": "Sargent was the supreme society portraitist of his era, capturing silk, skin and social confidence in astonishingly economical strokes. The scandal over Madame X's fallen strap drove him from Paris to London. He tired of what he called paughtraiture, and turned to watercolours, murals and searing First World War subjects."
+  },
+  {
+    "id": "manet",
+    "name": "Édouard Manet",
+    "birth": 1832,
+    "death": 1883,
+    "nationality": "French",
+    "movement": "impressionism",
+    "bio": "Manet detonated modern painting by placing a nude picnicker and a frankly staring courtesan into old-master compositions, flattening space and scandalising the Salon. A bourgeois who craved official approval he never quite received, he mentored the Impressionists without exhibiting alongside them. He died at fifty-one following a leg amputation caused by syphilis."
+  },
+  {
+    "id": "monet",
+    "name": "Claude Monet",
+    "birth": 1840,
+    "death": 1926,
+    "nationality": "French",
+    "movement": "impressionism",
+    "bio": "Monet gave Impressionism its name with a hazy harbour sketch a critic mocked. He painted the same haystacks, cathedral and poplars again and again to record shifting light, then spent his last decades on the water-lily pond he built at Giverny, working through cataracts on canvases that edge towards abstraction."
+  },
+  {
+    "id": "renoir",
+    "name": "Pierre-Auguste Renoir",
+    "birth": 1841,
+    "death": 1919,
+    "nationality": "French",
+    "movement": "impressionism",
+    "bio": "Renoir painted pleasure — dances, boating parties, dappled sunlight on skin — insisting a picture should be likeable, since there were enough unpleasant things in the world. A former porcelain painter, he later broke with Impressionism for a firmer classical manner. Crippled by rheumatoid arthritis, he kept painting with brushes strapped to his hands."
+  },
+  {
+    "id": "degas",
+    "name": "Edgar Degas",
+    "birth": 1834,
+    "death": 1917,
+    "nationality": "French",
+    "movement": "impressionism",
+    "bio": "Degas called himself a realist, not an Impressionist, and rarely painted outdoors. He studied dancers, laundresses and bathers in unposed, oddly cropped views borrowed from photography and Japanese prints. Wealthy, reactionary and increasingly reclusive, he turned to pastel and sculpture as his eyesight failed, leaving wax figures found only after his death."
+  },
+  {
+    "id": "pissarro",
+    "name": "Camille Pissarro",
+    "birth": 1830,
+    "death": 1903,
+    "nationality": "French",
+    "movement": "impressionism",
+    "bio": "Born in the Danish West Indies, Pissarro was the only artist to show in all eight Impressionist exhibitions and the group's steadying elder. An anarchist who painted rural labour with quiet conviction, he mentored Cézanne and Gauguin. He briefly adopted Seurat's pointillism before returning to a looser touch in late Paris cityscapes."
+  },
+  {
+    "id": "morisot",
+    "name": "Berthe Morisot",
+    "birth": 1841,
+    "death": 1895,
+    "nationality": "French",
+    "movement": "impressionism",
+    "bio": "A founding Impressionist who exhibited in nearly every group show, Morisot painted domestic interiors and women's private hours with feathery, unfinished-looking strokes that critics found alarming. She married Manet's brother and modelled for Manet repeatedly. Long filed as a minor figure, she is now recognised as among the movement's most radical technicians."
+  },
+  {
+    "id": "cassatt",
+    "name": "Mary Cassatt",
+    "birth": 1844,
+    "death": 1926,
+    "nationality": "American",
+    "movement": "impressionism",
+    "bio": "A Pittsburgh banker's daughter, Cassatt settled in Paris and was invited by Degas to join the Impressionists. She specialised in mothers and children, treated with unsentimental structural rigour, and made superb colour prints after discovering Japanese woodblocks. She also steered wealthy American collectors towards Impressionism, shaping US museum holdings."
+  },
+  {
+    "id": "cezanne",
+    "name": "Paul Cézanne",
+    "birth": 1839,
+    "death": 1906,
+    "nationality": "French",
+    "movement": "post-impressionism",
+    "bio": "Cézanne rebuilt the visible world from patches of colour and shifting viewpoints, tilting tabletops and letting apples defy gravity. Working in near-isolation near Aix, he painted Mont Sainte-Victoire more than eighty times. Ridiculed for most of his life, he was hailed by Picasso and Matisse as the father of modern art."
+  },
+  {
+    "id": "van-gogh",
+    "name": "Vincent van Gogh",
+    "birth": 1853,
+    "death": 1890,
+    "nationality": "Dutch",
+    "movement": "post-impressionism",
+    "bio": "Van Gogh painted for barely a decade, producing some 2,100 works in surges of extraordinary intensity. Failed preacher and art dealer, he was supported throughout by his brother Theo, to whom he wrote hundreds of luminous letters. Mental illness, the severed ear and his death at thirty-seven have obscured how deliberate his craft was."
+  },
+  {
+    "id": "gauguin",
+    "name": "Paul Gauguin",
+    "birth": 1848,
+    "death": 1903,
+    "nationality": "French",
+    "movement": "post-impressionism",
+    "bio": "A stockbroker who abandoned family and career for painting, Gauguin sought an imagined primitive purity in Brittany and then Tahiti, flattening space into bold zones of unnatural colour. His exoticism and relationships with adolescent Tahitian girls are now central to how he is judged. He died impoverished in the Marquesas."
+  },
+  {
+    "id": "seurat",
+    "name": "Georges Seurat",
+    "birth": 1859,
+    "death": 1891,
+    "nationality": "French",
+    "movement": "post-impressionism",
+    "bio": "Seurat applied contemporary colour science to painting, building images from tiny dots of pure pigment meant to fuse in the eye. Each major canvas took years of studies; the Grande Jatte occupied him for two. Reserved and secretive about his methods, he died suddenly at thirty-one, probably of meningitis."
+  },
+  {
+    "id": "toulouse-lautrec",
+    "name": "Henri de Toulouse-Lautrec",
+    "birth": 1864,
+    "death": 1901,
+    "nationality": "French",
+    "movement": "post-impressionism",
+    "bio": "An aristocrat whose legs stopped growing after childhood fractures, Toulouse-Lautrec made Montmartre's dance halls and brothels his subject, drawing performers with swift, caricatural sympathy. His lithographic posters turned advertising into art and shaped modern graphic design. Alcoholism and syphilis killed him at thirty-six, in his mother's care."
+  },
+  {
+    "id": "henri-rousseau",
+    "name": "Henri Rousseau",
+    "birth": 1844,
+    "death": 1910,
+    "nationality": "French",
+    "movement": "post-impressionism",
+    "bio": "A Paris toll collector who painted in his spare time, Rousseau was mocked for his flat, meticulous naivety. He conjured jungles he had never seen from botanical gardens and picture books. Picasso and the avant-garde adopted him as a genuine primitive and threw him a famous banquet; he died the year after."
+  },
+  {
+    "id": "klimt",
+    "name": "Gustav Klimt",
+    "birth": 1862,
+    "death": 1918,
+    "nationality": "Austrian",
+    "movement": "symbolism",
+    "bio": "Klimt led the Vienna Secession, dissolving bodies into shimmering fields of gold leaf, spirals and mosaic pattern. His erotically charged allegories for the university were denounced as pornographic and later destroyed by retreating SS troops. He lived quietly with his mother and sisters, produced thousands of frank erotic drawings, and died of a stroke."
+  },
+  {
+    "id": "munch",
+    "name": "Edvard Munch",
+    "birth": 1863,
+    "death": 1944,
+    "nationality": "Norwegian",
+    "movement": "symbolism",
+    "bio": "Munch translated grief, jealousy and dread into undulating lines and sour colour, drawing on a childhood shadowed by tuberculosis deaths. The Scream came from a moment when he felt an infinite cry passing through nature. After a breakdown and treatment in 1908 his work brightened. The Nazis condemned it as degenerate."
+  },
+  {
+    "id": "rodin",
+    "name": "Auguste Rodin",
+    "birth": 1840,
+    "death": 1917,
+    "nationality": "French",
+    "movement": "modern-sculpture",
+    "bio": "Rodin dragged sculpture out of academic polish into rough, unfinished surfaces that catch light like painting. Accused early on of casting from a live model because his work looked too real, he spent decades on an unfinished Gates of Hell that generated The Thinker and The Kiss. Camille Claudel was his collaborator and lover."
+  },
+  {
+    "id": "brancusi",
+    "name": "Constantin Brâncuși",
+    "birth": 1876,
+    "death": 1957,
+    "nationality": "Romanian",
+    "movement": "modern-sculpture",
+    "bio": "Brâncuși pared forms to gleaming essentials — an egg, a fish, a bird as pure upward motion — insisting simplicity was not an end but a by-product of approaching the real. He walked much of the way from Romania to Paris. His Bird in Space triggered a US customs trial over whether abstract art counts as art."
+  },
+  {
+    "id": "henry-moore",
+    "name": "Henry Moore",
+    "birth": 1898,
+    "death": 1986,
+    "nationality": "British",
+    "movement": "modern-sculpture",
+    "bio": "Moore made the reclining figure his lifelong motif, pierced by holes that let landscape through and drawn from pebbles, bones and Mesoamerican carving. A coal miner's son gassed in the First World War, he later drew Londoners sheltering in the Underground during the Blitz. His bronzes became the default postwar public monument."
+  },
+  {
+    "id": "giacometti",
+    "name": "Alberto Giacometti",
+    "birth": 1901,
+    "death": 1966,
+    "nationality": "Swiss",
+    "movement": "modern-sculpture",
+    "bio": "Giacometti whittled his figures down to fragile, corroded stalks that seem to recede even as you approach — a postwar image of human isolation. Once a Surrealist, he was expelled for returning to the model. He worked obsessively in a tiny, chaotic Paris studio, destroying far more than he kept."
+  },
+  {
+    "id": "matisse",
+    "name": "Henri Matisse",
+    "birth": 1869,
+    "death": 1954,
+    "nationality": "French",
+    "movement": "fauvism",
+    "bio": "Matisse began painting during a convalescence at twenty-one and went on to lead the Fauves, using colour as raw emotional force. He spent his career in productive rivalry with Picasso. Bedridden after cancer surgery in his seventies, he invented the cut-out — drawing with scissors into painted paper — and made some of his boldest work."
+  },
+  {
+    "id": "picasso",
+    "name": "Pablo Picasso",
+    "birth": 1881,
+    "death": 1973,
+    "nationality": "Spanish",
+    "movement": "cubism",
+    "bio": "Picasso reinvented himself relentlessly across Blue, Rose, Cubist, neoclassical and surrealist phases, co-founding Cubism with Braque and producing perhaps 50,000 works. Guernica made him the century's great political painter. His treatment of the women in his life, several of whom he devastated, is inseparable from his legend."
+  },
+  {
+    "id": "braque",
+    "name": "Georges Braque",
+    "birth": 1882,
+    "death": 1963,
+    "nationality": "French",
+    "movement": "cubism",
+    "bio": "Braque invented Cubism jointly with Picasso, the two working so closely that their canvases became hard to tell apart — roped together, Braque said, like mountaineers. A trained house painter, he introduced stencilled lettering, wood-graining and collage. Severely wounded in 1914, he returned to a quieter, more sombre and tactile art."
+  },
+  {
+    "id": "kandinsky",
+    "name": "Wassily Kandinsky",
+    "birth": 1866,
+    "death": 1944,
+    "nationality": "Russian",
+    "movement": "abstract-pioneers",
+    "bio": "A law lecturer until he was thirty, Kandinsky abandoned academia for painting and pushed towards pure abstraction, convinced colour and form could work like music on the soul. He wrote Concerning the Spiritual in Art, co-founded Der Blaue Reiter, taught at the Bauhaus, and fled the Nazis to die outside Paris."
+  },
+  {
+    "id": "mondrian",
+    "name": "Piet Mondrian",
+    "birth": 1872,
+    "death": 1944,
+    "nationality": "Dutch",
+    "movement": "abstract-pioneers",
+    "bio": "Mondrian reduced painting to black grids and the three primaries, seeking a universal harmony he called Neoplasticism. He arrived there slowly, through years of trees and piers dissolving into line. A theosophist who reportedly disliked the colour green, he ended up in New York, where jazz and the city loosened his grids."
+  },
+  {
+    "id": "malevich",
+    "name": "Kazimir Malevich",
+    "birth": 1879,
+    "death": 1935,
+    "nationality": "Russian",
+    "movement": "abstract-pioneers",
+    "bio": "Malevich launched Suprematism with a black square hung across a gallery corner where an Orthodox icon would sit — art reduced to pure feeling and nothing else. Initially celebrated by the revolution, he was later suppressed under Stalin, imprisoned briefly, and forced back into figurative work before dying of cancer."
+  },
+  {
+    "id": "hilma-af-klint",
+    "name": "Hilma af Klint",
+    "birth": 1862,
+    "death": 1944,
+    "nationality": "Swedish",
+    "movement": "abstract-pioneers",
+    "bio": "Af Klint painted large abstract canvases from 1906, years before Kandinsky, guided by séances and a spiritualist group of women called The Five. Convinced the world was not ready, she stipulated the work stay hidden for twenty years after her death. It surfaced properly only in the 1980s, rewriting abstraction's origin story."
+  },
+  {
+    "id": "paul-klee",
+    "name": "Paul Klee",
+    "birth": 1879,
+    "death": 1940,
+    "nationality": "Swiss-German",
+    "movement": "expressionism",
+    "bio": "Klee described drawing as taking a line for a walk, and produced nearly ten thousand works of childlike sign, arrow, fish and grid. A trained violinist, he taught at the Bauhaus and left dense theoretical notebooks. Declared degenerate by the Nazis, he fled to Switzerland and died of a wasting autoimmune disease."
+  },
+  {
+    "id": "kirchner",
+    "name": "Ernst Ludwig Kirchner",
+    "birth": 1880,
+    "death": 1938,
+    "nationality": "German",
+    "movement": "expressionism",
+    "bio": "Kirchner co-founded Die Brücke and painted Berlin's streets as jagged, poisonous corridors of hurrying strangers and prostitutes. A breakdown during First World War service left him addicted to morphine. He recovered in the Swiss Alps, but after the Nazis condemned and sold off his work as degenerate he shot himself."
+  },
+  {
+    "id": "schiele",
+    "name": "Egon Schiele",
+    "birth": 1890,
+    "death": 1918,
+    "nationality": "Austrian",
+    "movement": "expressionism",
+    "bio": "Klimt's protégé, Schiele stripped away decoration for raw, contorted bodies rendered in nervous line and bruised colour. He was briefly jailed in 1912 over drawings deemed obscene. Just as recognition arrived, he and his pregnant wife Edith died within days of each other in the 1918 influenza pandemic; he was twenty-eight."
+  },
+  {
+    "id": "kollwitz",
+    "name": "Käthe Kollwitz",
+    "birth": 1867,
+    "death": 1945,
+    "nationality": "German",
+    "movement": "expressionism",
+    "bio": "Kollwitz made prints and sculpture about poverty, war and maternal grief, working almost entirely in black and white. Her son Peter was killed in 1914 and her grandson in 1942, losses that drove decades of work. The first woman elected to the Prussian Academy of Arts, she was forced out by the Nazis in 1933."
+  },
+  {
+    "id": "modigliani",
+    "name": "Amedeo Modigliani",
+    "birth": 1884,
+    "death": 1920,
+    "nationality": "Italian",
+    "movement": "expressionism",
+    "bio": "Modigliani painted elongated necks, tilted heads and blank almond eyes, fusing African carving with Italian tradition into an instantly recognisable style. Handsome, tubercular and destructive, he lived hard in Montparnasse. He died at thirty-five of tubercular meningitis; his partner Jeanne Hébuterne, nine months pregnant, killed herself the next day."
+  },
+  {
+    "id": "chagall",
+    "name": "Marc Chagall",
+    "birth": 1887,
+    "death": 1985,
+    "nationality": "Russian-French",
+    "movement": "expressionism",
+    "bio": "Chagall floated fiddlers, lovers and goats through dream skies of saturated colour, drawing endlessly on his Hasidic childhood in Vitebsk. He survived two world wars, fled occupied France with American help, and lived to ninety-seven. Late in life he turned to stained glass and painted the ceiling of the Paris Opera."
+  },
+  {
+    "id": "duchamp",
+    "name": "Marcel Duchamp",
+    "birth": 1887,
+    "death": 1968,
+    "nationality": "French",
+    "movement": "dada",
+    "bio": "Duchamp detonated the idea that art must be made by hand, submitting a urinal as sculpture and proposing that choice alone could be the creative act. He largely abandoned art for chess, while secretly building a final installation over twenty years. Conceptual art, Pop and most of what followed descend from him."
+  },
+  {
+    "id": "dali",
+    "name": "Salvador Dalí",
+    "birth": 1904,
+    "death": 1989,
+    "nationality": "Spanish",
+    "movement": "surrealism",
+    "bio": "Dalí rendered melting watches and burning giraffes with academic precision, calling the results hand-painted dream photographs. Expelled from the Surrealist group for his politics and self-promotion, he became a global celebrity, designing for Hitchcock and Disney and advertising chocolate. His wife Gala managed the empire behind the moustache."
+  },
+  {
+    "id": "magritte",
+    "name": "René Magritte",
+    "birth": 1898,
+    "death": 1967,
+    "nationality": "Belgian",
+    "movement": "surrealism",
+    "bio": "Magritte painted ordinary objects with deadpan flatness in impossible relations — a pipe that is not a pipe, men raining from the sky. He worked in a suburban Brussels dining room wearing a suit, living a deliberately conventional life. His images were absorbed wholesale by advertising and album covers."
+  },
+  {
+    "id": "max-ernst",
+    "name": "Max Ernst",
+    "birth": 1891,
+    "death": 1976,
+    "nationality": "German",
+    "movement": "surrealism",
+    "bio": "Ernst invented frottage and grattage to let chance textures suggest forests, birds and ruined worlds. A key Dadaist turned Surrealist, he was interned in France as an enemy alien, then escaped to America with Peggy Guggenheim's help. His alter ego, the bird Loplop, recurs throughout his work."
+  },
+  {
+    "id": "miro",
+    "name": "Joan Miró",
+    "birth": 1893,
+    "death": 1983,
+    "nationality": "Spanish",
+    "movement": "surrealism",
+    "bio": "Miró developed a floating vocabulary of biomorphic blobs, stars and wiry lines on luminous grounds, claiming he wanted to assassinate painting. A fierce Catalan who worked through hunger-induced hallucinations early on, he outlasted Franco and moved into vast ceramics and public sculpture. His shapes remain among modern art's most imitated."
+  },
+  {
+    "id": "frida-kahlo",
+    "name": "Frida Kahlo",
+    "birth": 1907,
+    "death": 1954,
+    "nationality": "Mexican",
+    "movement": "surrealism",
+    "bio": "A bus accident at eighteen shattered Kahlo's spine and pelvis, leaving lifelong pain and around thirty operations that became her subject. She painted mostly small self-portraits fusing Mexican folk traditions, anatomy and myth. Married twice to Diego Rivera, she rejected the Surrealist label, saying she painted her own reality rather than dreams."
+  },
+  {
+    "id": "diego-rivera",
+    "name": "Diego Rivera",
+    "birth": 1886,
+    "death": 1957,
+    "nationality": "Mexican",
+    "movement": "mexican-muralism",
+    "bio": "Rivera covered public walls across Mexico and the United States with vast frescoes of indigenous history, labour and industry, aiming at an audience that never entered galleries. A committed communist who sheltered Trotsky, he had his Rockefeller Center mural destroyed for including Lenin. His marriage to Frida Kahlo was famously turbulent."
+  },
+  {
+    "id": "okeeffe",
+    "name": "Georgia O'Keeffe",
+    "birth": 1887,
+    "death": 1986,
+    "nationality": "American",
+    "movement": "american-modernism",
+    "bio": "O'Keeffe magnified flowers until they filled the canvas and pared New Mexico's bones and mesas into clean, sensuous abstraction. She spent decades rejecting Freudian readings of her work. Promoted and photographed by her husband Alfred Stieglitz, she moved permanently to the desert after his death and painted into her nineties."
+  },
+  {
+    "id": "hopper",
+    "name": "Edward Hopper",
+    "birth": 1882,
+    "death": 1967,
+    "nationality": "American",
+    "movement": "american-regionalism",
+    "bio": "Hopper painted diners, motel rooms and gas stations drenched in hard light, with figures who never quite meet. He worked slowly and said he was after nothing more than sunlight on the side of a house. His wife Jo modelled for every woman in his mature work and kept his ledgers."
+  },
+  {
+    "id": "grant-wood",
+    "name": "Grant Wood",
+    "birth": 1891,
+    "death": 1942,
+    "nationality": "American",
+    "movement": "american-regionalism",
+    "bio": "Wood painted the Midwest in a crisp, tightly finished manner learned from Northern Renaissance panels seen in Munich. American Gothic, modelled by his sister and his dentist, became one of the most parodied images ever made — endlessly debated as either satire or tribute. Wood always insisted it was affectionate."
+  },
+  {
+    "id": "andrew-wyeth",
+    "name": "Andrew Wyeth",
+    "birth": 1917,
+    "death": 2009,
+    "nationality": "American",
+    "movement": "american-regionalism",
+    "bio": "Wyeth worked in dry, meticulous egg tempera and watercolour, painting the same two rural places and a handful of neighbours for seventy years. Immensely popular and critically distrusted for resisting abstraction, he startled everyone in 1986 by revealing 240 secret pictures of a model named Helga."
+  },
+  {
+    "id": "jacob-lawrence",
+    "name": "Jacob Lawrence",
+    "birth": 1917,
+    "death": 2000,
+    "nationality": "American",
+    "movement": "harlem-renaissance",
+    "bio": "Lawrence told Black American history in serial panels of flat, angular colour he called dynamic cubism, researching each series at the Schomburg library. His sixty-panel Migration Series made him nationally famous at twenty-three, the first Black artist represented by a New York gallery. He taught for decades in Seattle."
+  },
+  {
+    "id": "pollock",
+    "name": "Jackson Pollock",
+    "birth": 1912,
+    "death": 1956,
+    "nationality": "American",
+    "movement": "abstract-expressionism",
+    "bio": "Pollock took the canvas off the easel and onto the floor, pouring and flicking household enamel into dense skeins with no single focal point. Life magazine asked in 1949 whether he was America's greatest living painter. A severe alcoholic, he made his drip works in a burst of about four years and died in a car crash at forty-four."
+  },
+  {
+    "id": "rothko",
+    "name": "Mark Rothko",
+    "birth": 1903,
+    "death": 1970,
+    "nationality": "American",
+    "movement": "abstract-expressionism",
+    "bio": "Rothko stacked soft-edged rectangles of colour on huge canvases meant to be viewed close up, insisting they expressed tragedy and ecstasy rather than pure form. Born in Latvia, he resisted the term abstractionist. He withdrew a lucrative Four Seasons commission rather than let his work decorate diners, and took his own life at sixty-six."
+  },
+  {
+    "id": "de-kooning",
+    "name": "Willem de Kooning",
+    "birth": 1904,
+    "death": 1997,
+    "nationality": "Dutch-American",
+    "movement": "abstract-expressionism",
+    "bio": "De Kooning refused to abandon the figure, tearing his Woman series out of slashing, scraped-back paint that scandalised purist abstractionists. He stowed away from Rotterdam to America at twenty-two and worked as a house painter for years. Late canvases made while suffering dementia are luminous, sparse, and still argued over."
+  },
+  {
+    "id": "lee-krasner",
+    "name": "Lee Krasner",
+    "birth": 1908,
+    "death": 1984,
+    "nationality": "American",
+    "movement": "abstract-expressionism",
+    "bio": "Krasner was a rigorously trained abstractionist before she met Jackson Pollock, and spent decades overshadowed by her marriage to him. She cut up and recombined her own rejected canvases into collages, and after Pollock's death produced enormous, surging paintings in a burst of insomniac energy. She was ruthless about destroying weak work."
+  },
+  {
+    "id": "warhol",
+    "name": "Andy Warhol",
+    "birth": 1928,
+    "death": 1987,
+    "nationality": "American",
+    "movement": "pop-art",
+    "bio": "Warhol took soup cans, dollar bills and Marilyn's face and silkscreened them in repetitive batches at a studio he called the Factory, saying he wanted to be a machine. A successful commercial illustrator first, he also made films, managed the Velvet Underground and survived being shot in 1968. His blankness was the point."
+  },
+  {
+    "id": "lichtenstein",
+    "name": "Roy Lichtenstein",
+    "birth": 1923,
+    "death": 1997,
+    "nationality": "American",
+    "movement": "pop-art",
+    "bio": "Lichtenstein enlarged romance and war comic panels into paintings complete with hand-painted Ben-Day dots, speech balloons and printing artefacts. A 1964 profile asked whether he was the worst artist in America. He later applied the same deadpan treatment to Monet's haystacks, brushstrokes themselves, and Greek temples."
+  },
+  {
+    "id": "hockney",
+    "name": "David Hockney",
+    "birth": 1937,
+    "death": null,
+    "nationality": "British",
+    "movement": "pop-art",
+    "bio": "Hockney left Bradford for Los Angeles and painted its swimming pools, sprinklers and flat light into an enduring image of Californian ease. Openly gay well before decriminalisation, he made that life visible in his work. Restlessly experimental, he has worked through photo collage, opera design, the iPad and Yorkshire landscapes."
+  },
+  {
+    "id": "francis-bacon",
+    "name": "Francis Bacon",
+    "birth": 1909,
+    "death": 1992,
+    "nationality": "British",
+    "movement": "expressionism",
+    "bio": "Bacon smeared and twisted the human figure into screaming popes and caged, meat-like bodies, aiming to record the nervous system directly. Self-taught, thrown out of home at sixteen, he painted in a famously chaotic London studio between bouts of drinking and gambling. He destroyed much of his own early work."
+  },
+  {
+    "id": "lucian-freud",
+    "name": "Lucian Freud",
+    "birth": 1922,
+    "death": 2011,
+    "nationality": "British",
+    "movement": "contemporary-figuration",
+    "bio": "Sigmund Freud's grandson painted flesh as thick, mottled and unglamorous, working from life in sessions that could run for hundreds of hours. Sitters ranged from the Queen to a benefits supervisor. Reclusive, prolific with debts, lovers and children, he made portraiture feel forensic rather than flattering."
+  },
+  {
+    "id": "gerhard-richter",
+    "name": "Gerhard Richter",
+    "birth": 1932,
+    "death": null,
+    "nationality": "German",
+    "movement": "contemporary-figuration",
+    "bio": "Richter has refused a signature style, alternating blurred photo-paintings, colour charts and vast squeegee abstractions across sixty years. Raised under Nazism then East German socialist realism, he fled west months before the Berlin Wall rose. His work circles memory, doubt and Germany's unresolved past, including a cycle on the Baader-Meinhof deaths."
+  },
+  {
+    "id": "louise-bourgeois",
+    "name": "Louise Bourgeois",
+    "birth": 1911,
+    "death": 2010,
+    "nationality": "French-American",
+    "movement": "contemporary-sculpture",
+    "bio": "Bourgeois mined a childhood wound — her father's long affair with her governess — for seventy years of cells, cages, fabric figures and giant steel spiders titled Maman, which she called a tribute to her weaver mother. Real fame arrived in her seventies, and she worked with ferocious productivity until her death at ninety-eight."
+  },
+  {
+    "id": "yayoi-kusama",
+    "name": "Yayoi Kusama",
+    "birth": 1929,
+    "death": null,
+    "nationality": "Japanese",
+    "movement": "contemporary-sculpture",
+    "bio": "Kusama has covered canvases, rooms and pumpkins in obsessive polka dots since childhood hallucinations first filled her vision with nets. She staged nude happenings in 1960s New York, then returned to Japan and has voluntarily lived in a psychiatric hospital since 1977, working daily in a nearby studio. Her mirror rooms draw enormous queues."
+  },
+  {
+    "id": "basquiat",
+    "name": "Jean-Michel Basquiat",
+    "birth": 1960,
+    "death": 1988,
+    "nationality": "American",
+    "movement": "neoexpressionism",
+    "bio": "Basquiat moved from the SAMO graffiti tag to gallery stardom in about three years, layering crowns, anatomy diagrams, jazz heroes and crossed-out words into dense, urgent canvases about Black history and power. He collaborated with Warhol, whose death shook him badly. He died of a heroin overdose at twenty-seven."
+  },
+  {
+    "id": "keith-haring",
+    "name": "Keith Haring",
+    "birth": 1958,
+    "death": 1990,
+    "nationality": "American",
+    "movement": "neoexpressionism",
+    "bio": "Haring drew radiant babies, barking dogs and dancing figures in chalk on New York subway ad panels, sometimes making forty a day. He built a bold public language to campaign against apartheid, crack and AIDS stigma, opening a Pop Shop so the work stayed affordable. He died of AIDS-related illness at thirty-one."
+  },
+  {
+    "id": "anselm-kiefer",
+    "name": "Anselm Kiefer",
+    "birth": 1945,
+    "death": null,
+    "nationality": "German",
+    "movement": "neoexpressionism",
+    "bio": "Kiefer builds enormous, scorched landscapes crusted with straw, ash, lead and dried flowers, forcing German painting to confront Nazism and myth when silence was the norm. His early photographs of himself giving the Nazi salute were deliberately provocative. He now works across a vast former silk factory compound in southern France."
+  },
+  {
+    "id": "kehinde-wiley",
+    "name": "Kehinde Wiley",
+    "birth": 1977,
+    "death": null,
+    "nationality": "American",
+    "movement": "contemporary-figuration",
+    "bio": "Wiley places young Black men and women in the poses of old-master portraits, set against lush decorative wallpaper that creeps over the figures. He casts sitters he meets on the street. His 2018 presidential portrait of Barack Obama, seated amid foliage, drew record crowds to the National Portrait Gallery."
+  },
+  {
+    "id": "kerry-james-marshall",
+    "name": "Kerry James Marshall",
+    "birth": 1955,
+    "death": null,
+    "nationality": "American",
+    "movement": "contemporary-figuration",
+    "bio": "Marshall paints figures in an emphatic, unmixed black, insisting on Black presence in a Western canon that excluded it, across barbershops, housing projects and garden parties. Born in Alabama and raised in Watts, he combines art-historical erudition with everyday subject matter. His painting Past Times set an auction record for a living Black artist."
+  },
+  {
+    "id": "marina-abramovic",
+    "name": "Marina Abramović",
+    "birth": 1946,
+    "death": null,
+    "nationality": "Serbian",
+    "movement": "conceptual-performance",
+    "bio": "Abramović has used her body as material for fifty years — inviting an audience to do anything to her with seventy objects, walking the Great Wall to end a relationship, sitting silently opposite strangers for 736 hours at MoMA. She calls herself the grandmother of performance art, and has trained a generation in endurance."
+  },
+  {
+    "id": "ai-weiwei",
+    "name": "Ai Weiwei",
+    "birth": 1957,
+    "death": null,
+    "nationality": "Chinese",
+    "movement": "conceptual-performance",
+    "bio": "Ai turns dissent into objects: a hundred million porcelain sunflower seeds, a hall of backpacks naming children killed in a school collapse, a Han urn dropped and smashed. Detained for eighty-one days in 2011 and stripped of his passport, he now works in exile on migration and human rights."
+  },
+  {
+    "id": "banksy",
+    "name": "Banksy",
+    "birth": 1974,
+    "death": null,
+    "nationality": "British",
+    "movement": "street-art",
+    "bio": "Working anonymously since the 1990s, Banksy stencils rats, riot police and a girl losing a balloon onto walls from Bristol to the West Bank. The satire targets war, surveillance and the art market itself — a framed canvas famously shredded seconds after selling for over a million pounds. His identity remains unconfirmed."
+  },
+  {
+    "id": "cindy-sherman",
+    "name": "Cindy Sherman",
+    "birth": 1954,
+    "death": null,
+    "nationality": "American",
+    "movement": "conceptual-performance",
+    "bio": "Sherman photographs only herself, yet makes no self-portraits — she is model, stylist, director and crew for hundreds of invented women drawn from B-movies, old-master paintings and society pages. The Untitled Film Stills of the late 1970s became foundational to debates about how images construct femininity."
+  },
+  {
+    "id": "jeff-koons",
+    "name": "Jeff Koons",
+    "birth": 1955,
+    "death": null,
+    "nationality": "American",
+    "movement": "contemporary-sculpture",
+    "bio": "A former Wall Street commodities broker, Koons has vacuum cleaners in vitrines, mirror-polished balloon animals and a giant floral puppy fabricated by large teams to industrial tolerances. Critics split over whether the relentless bright banality is critique or capitulation. His Rabbit sold for $91 million, a record for a living artist."
+  },
+  {
+    "id": "anish-kapoor",
+    "name": "Anish Kapoor",
+    "birth": 1954,
+    "death": null,
+    "nationality": "British-Indian",
+    "movement": "contemporary-sculpture",
+    "bio": "Kapoor makes voids feel physical — pigment-soaked forms, mirrored curves that swallow a skyline, and pits that read as bottomless dark. Chicago's Cloud Gate turned him into a public-art landmark. He caused a lasting art-world feud by securing exclusive rights to Vantablack, one of the blackest substances made."
+  },
+  {
+    "id": "yoko-ono",
+    "name": "Yoko Ono",
+    "birth": 1933,
+    "death": null,
+    "nationality": "Japanese-American",
+    "movement": "conceptual-performance",
+    "bio": "A key Fluxus figure before she met John Lennon, Ono wrote instruction pieces that exist as sentences until someone performs them, and sat still while an audience cut away her clothes in Cut Piece. Long caricatured for breaking up the Beatles, her conceptual work is now recognised as decades ahead of its moment."
+  },
+  {
+    "id": "damien-hirst",
+    "name": "Damien Hirst",
+    "birth": 1965,
+    "death": null,
+    "nationality": "British",
+    "movement": "contemporary-sculpture",
+    "bio": "The leading Young British Artist, Hirst suspended a tiger shark in formaldehyde, arranged butterflies and pills into vitrines and grids, and encrusted a human skull with diamonds. He bypassed his own dealers to auction new work directly in 2008, days before the financial crash. Death is his one subject."
+  },
+  {
+    "id": "takashi-murakami",
+    "name": "Takashi Murakami",
+    "birth": 1962,
+    "death": null,
+    "nationality": "Japanese",
+    "movement": "contemporary-sculpture",
+    "bio": "Murakami's Superflat theory links traditional Japanese painting's flat space to anime, manga and postwar consumer culture. Grinning flowers and cartoon characters appear on canvases, sculptures, Louis Vuitton bags and album covers with no hierarchy between them. He runs Kaikai Kiki, a large studio and management company for other artists."
+  },
+  {
+    "id": "agnes-martin",
+    "name": "Agnes Martin",
+    "birth": 1912,
+    "death": 2004,
+    "nationality": "Canadian-American",
+    "movement": "minimalism",
+    "bio": "Martin drew faint pencil grids and pale horizontal bands on six-foot square canvases, aiming at happiness and innocence rather than the coolness Minimalism is known for. She left New York abruptly in 1967, drove around North America, and settled alone in New Mexico. She lived with schizophrenia for most of her adult life."
+  },
+  {
+    "id": "cy-twombly",
+    "name": "Cy Twombly",
+    "birth": 1928,
+    "death": 2011,
+    "nationality": "American",
+    "movement": "abstract-expressionism",
+    "bio": "Twombly scribbled, smeared and scratched pencil and paint across pale grounds in marks that hover between graffiti, handwriting and erasure, often invoking Greek myth and poetry. He moved to Italy in 1957, well away from the New York scene. Early critics saw childish mess; the work now reads as a lifelong study of gesture."
+  },
+  {
+    "id": "robert-rauschenberg",
+    "name": "Robert Rauschenberg",
+    "birth": 1925,
+    "death": 2008,
+    "nationality": "American",
+    "movement": "pop-art",
+    "bio": "Rauschenberg worked in the gap between art and life, bolting a stuffed goat, a quilt and a car tyre into what he called Combines. He famously erased a de Kooning drawing and exhibited the result. His silkscreens mixed news photos with paint, opening the road from Abstract Expressionism to Pop."
+  },
+  {
+    "id": "joan-mitchell",
+    "name": "Joan Mitchell",
+    "birth": 1925,
+    "death": 1992,
+    "nationality": "American",
+    "movement": "abstract-expressionism",
+    "bio": "Mitchell painted vast, slashing abstractions rooted in remembered landscape — sunflowers, water, trees near her house at Vétheuil, once Monet's village. A competitive figure skater in her youth and famously combative in conversation, she spent most of her career in France, insisting she was painting feelings about places rather than the places themselves."
+  },
+  {
+    "id": "helen-frankenthaler",
+    "name": "Helen Frankenthaler",
+    "birth": 1928,
+    "death": 2011,
+    "nationality": "American",
+    "movement": "abstract-expressionism",
+    "bio": "Frankenthaler invented soak-stain painting at twenty-three, pouring thinned oil directly onto raw canvas so colour sank in like dye rather than sitting on the surface. Mountains and Sea sent Colour Field painting on its way. She resisted being labelled a woman artist, and worked prolifically for six more decades."
+  },
+  {
+    "id": "barbara-hepworth",
+    "name": "Barbara Hepworth",
+    "birth": 1903,
+    "death": 1975,
+    "nationality": "British",
+    "movement": "modern-sculpture",
+    "bio": "Hepworth pierced her carved wood and stone forms with holes, letting light and landscape pass through — a device she arrived at independently of her contemporary Henry Moore. She settled in St Ives, raising triplets while carving, and shaped British modernism. She died in a fire in her studio, now a museum."
+  },
+  {
+    "id": "sonia-delaunay",
+    "name": "Sonia Delaunay",
+    "birth": 1885,
+    "death": 1979,
+    "nationality": "Ukrainian-French",
+    "movement": "abstract-pioneers",
+    "bio": "With her husband Robert, Delaunay developed Simultanism, building abstract rhythm from discs and arcs of contrasting colour. She refused the boundary between fine and applied art, designing textiles, cars, costumes and a celebrated illustrated poem-scroll. She was the first living woman given a retrospective at the Louvre."
+  },
+  {
+    "id": "tamara-de-lempicka",
+    "name": "Tamara de Lempicka",
+    "birth": 1898,
+    "death": 1980,
+    "nationality": "Polish",
+    "movement": "art-deco",
+    "bio": "Lempicka gave Art Deco its definitive look: chrome-hard nudes and aristocrats with tubular limbs, lacquered surfaces and a cool erotic charge. She fled the Russian Revolution, conquered 1920s Paris society, and painted herself at the wheel of a green Bugatti as an emblem of modern female independence."
+  },
+  {
+    "id": "winslow-homer",
+    "name": "Winslow Homer",
+    "birth": 1836,
+    "death": 1910,
+    "nationality": "American",
+    "movement": "realism",
+    "bio": "Homer began as a Civil War illustrator and became America's great painter of the sea, pitting small boats and fishermen against enormous water. Largely self-taught, he grew increasingly solitary, settling on the Maine coast. His late watercolours are among the most fluent ever made in the medium."
+  },
+  {
+    "id": "ilya-repin",
+    "name": "Ilya Repin",
+    "birth": 1844,
+    "death": 1930,
+    "nationality": "Russian",
+    "movement": "realism",
+    "bio": "The leading Russian realist, Repin painted barge haulers straining on the Volga and Ivan the Terrible cradling the son he has just killed — a canvas twice attacked by visitors. Associated with the reformist Peredvizhniki, he chronicled Russian society for half a century and died in Finland after the revolution."
+  },
+  {
+    "id": "canaletto",
+    "name": "Canaletto",
+    "birth": 1697,
+    "death": 1768,
+    "nationality": "Italian",
+    "movement": "rococo",
+    "bio": "Canaletto painted Venice with crystalline light and near-topographic precision, selling to British aristocrats on the Grand Tour. He likely used a camera obscura, though he freely rearranged buildings for a better composition. When war interrupted the tourist trade he moved to London for a decade and painted the Thames."
+  },
+  {
+    "id": "kuniyoshi",
+    "name": "Utagawa Kuniyoshi",
+    "birth": 1798,
+    "death": 1861,
+    "nationality": "Japanese",
+    "movement": "ukiyo-e",
+    "bio": "Kuniyoshi specialised in wild warrior prints — tattooed heroes, giant skeletons and sea battles — plus satirical designs that smuggled criticism of the shogunate past the censors as cats or goldfish. His theatrical energy and love of the grotesque set him apart from the landscape masters of his generation."
+  },
+  {
+    "id": "poussin",
+    "name": "Nicolas Poussin",
+    "birth": 1594,
+    "death": 1665,
+    "nationality": "French",
+    "movement": "baroque",
+    "bio": "Poussin worked mostly in Rome, constructing calm, rigorously ordered classical scenes for a small circle of learned collectors rather than for churches or courts. He arranged wax figures in model stage sets to plan compositions. French academic painting treated him as the ultimate authority for the next two centuries."
+  },
+  {
+    "id": "van-dyck",
+    "name": "Anthony van Dyck",
+    "birth": 1599,
+    "death": 1641,
+    "nationality": "Flemish",
+    "movement": "baroque",
+    "bio": "Rubens's brilliant assistant became the defining court portraitist of Europe, giving Charles I of England an elegant, long-limbed grandeur that shaped British portraiture for two hundred years. He worked at speed with a large studio, painted his sitters' hands and heads himself, and died in London at forty-two."
+  },
+  {
+    "id": "jan-steen",
+    "name": "Jan Steen",
+    "birth": 1626,
+    "death": 1679,
+    "nationality": "Dutch",
+    "movement": "dutch-golden-age",
+    "bio": "Steen painted riotous households of drunks, flirts and misbehaving children so consistently that a Jan Steen household became Dutch shorthand for chaos. A tavern keeper as well as a painter, he embedded moral proverbs in the disorder and often cast himself as the grinning ringleader."
+  },
+  {
+    "id": "leger",
+    "name": "Fernand Léger",
+    "birth": 1881,
+    "death": 1955,
+    "nationality": "French",
+    "movement": "cubism",
+    "bio": "Léger built a Cubism of gleaming tubes and pistons, calling his early manner tubism. Service in the trenches left him permanently affected by machinery and by ordinary soldiers, and he devoted himself to an accessible art of workers, cyclists and construction. He also made one of the first abstract films."
+  },
+  {
+    "id": "boccioni",
+    "name": "Umberto Boccioni",
+    "birth": 1882,
+    "death": 1916,
+    "nationality": "Italian",
+    "movement": "futurism",
+    "bio": "The most gifted Futurist, Boccioni tried to sculpt motion itself, producing a striding bronze figure whose flesh streams backward like flame. He signed the movement's belligerent manifestos glorifying speed, machines and war. He then enlisted, and was killed at thirty-three after falling from a horse during training."
+  },
+  {
+    "id": "man-ray",
+    "name": "Man Ray",
+    "birth": 1890,
+    "death": 1976,
+    "nationality": "American",
+    "movement": "dada",
+    "bio": "Man Ray made cameraless rayographs by laying objects on photographic paper, and turned a metronome, an iron and a woman's back into Dada and Surrealist icons. Born Emmanuel Radnitzky in Philadelphia, he spent his best years in Paris photographing the avant-garde, insisting he painted what could not be photographed."
+  },
+  {
+    "id": "odilon-redon",
+    "name": "Odilon Redon",
+    "birth": 1840,
+    "death": 1916,
+    "nationality": "French",
+    "movement": "symbolism",
+    "bio": "Redon spent decades on charcoal noirs of floating eyes, spiders with human faces and severed heads, then burst into radiant pastel flowers and mythologies in his fifties. He described his aim as placing the logic of the visible at the service of the invisible. The Surrealists claimed him as a precursor."
+  },
+  {
+    "id": "camille-claudel",
+    "name": "Camille Claudel",
+    "birth": 1864,
+    "death": 1943,
+    "nationality": "French",
+    "movement": "modern-sculpture",
+    "bio": "Claudel was Rodin's student, collaborator and lover, and an original sculptor of intense psychological drama in her own right. After their break she worked alone, destroyed much of her output, and in 1913 was committed to an asylum by her family. She spent thirty years there and never sculpted again."
+  },
+  {
+    "id": "derain",
+    "name": "André Derain",
+    "birth": 1880,
+    "death": 1954,
+    "nationality": "French",
+    "movement": "fauvism",
+    "bio": "Derain painted a Fauve summer with Matisse at Collioure, producing London and harbour scenes in explosive unmixed colour. He later turned conservative and classical, disappointing the avant-garde. His acceptance of a Nazi-sponsored trip to Germany in 1941 damaged his reputation permanently, though he was never charged with collaboration."
+  },
+  {
+    "id": "juan-gris",
+    "name": "Juan Gris",
+    "birth": 1887,
+    "death": 1927,
+    "nationality": "Spanish",
+    "movement": "cubism",
+    "bio": "Gris brought crystalline order to Cubism, working from geometric structure toward the object rather than dismantling it. He arrived in Paris at nineteen, lived in the same building as Picasso, and made rigorous, jewel-bright papiers collés. Chronic illness killed him at forty, cutting short the movement's most systematic mind."
+  },
+  {
+    "id": "jasper-johns",
+    "name": "Jasper Johns",
+    "birth": 1930,
+    "death": null,
+    "nationality": "American",
+    "movement": "pop-art",
+    "bio": "Johns painted flags, targets and numbers — things the mind already knows — in thick encaustic that draws attention to the surface rather than the symbol. His 1958 debut sold out and helped end Abstract Expressionism's dominance. Reticent about meaning, he has kept working the same motifs for seven decades."
+  },
+  {
+    "id": "el-anatsui",
+    "name": "El Anatsui",
+    "birth": 1944,
+    "death": null,
+    "nationality": "Ghanaian",
+    "movement": "contemporary-sculpture",
+    "bio": "El Anatsui stitches thousands of flattened bottle caps and aluminium seals into vast shimmering cloths that drape over walls, taking a different shape at every installation. The materials trace trade routes between Africa, Europe and the Americas, including the liquor trade tied to slavery. He taught for decades in Nsukka, Nigeria."
+  },
+  {
+    "id": "amy-sherald",
+    "name": "Amy Sherald",
+    "birth": 1973,
+    "death": null,
+    "nationality": "American",
+    "movement": "contemporary-figuration",
+    "bio": "Sherald paints Black subjects in grisaille skin tones against flat, saturated colour fields, deliberately detaching them from expectations about race and narrative. Her 2018 portrait of Michelle Obama made her internationally known. She received a heart transplant at thirty-nine, and came to full-time painting relatively late."
+  },
+  {
+    "id": "jenny-saville",
+    "name": "Jenny Saville",
+    "birth": 1970,
+    "death": null,
+    "nationality": "British",
+    "movement": "contemporary-figuration",
+    "bio": "Saville paints bodies at enormous scale in thick, churning paint — flesh pressed against glass, surgical markings, faces in flux. She studied plastic surgery in New York to understand how skin is cut and moved. She holds the auction record for a living woman artist, and works in the tradition of Rubens and Freud."
+  },
+  {
+    "id": "olafur-eliasson",
+    "name": "Olafur Eliasson",
+    "birth": 1967,
+    "death": null,
+    "nationality": "Danish-Icelandic",
+    "movement": "contemporary-sculpture",
+    "bio": "Eliasson builds weather and perception into installations — an artificial sun that filled Tate Modern's Turbine Hall, rooms of coloured fog, glacial ice melting in city squares. Trained partly as a breakdancer, he runs a large Berlin studio of engineers and architects, and has made climate change a persistent subject."
+  }
+]

@@ -1,0 +1,1408 @@
+{
+  "monet": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Claude_Monet_1899_Nadar_crop.jpg",
+    "width": 2021,
+    "height": 2694,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Claude_Monet_1899_Nadar_crop.jpg/{w}px-Claude_Monet_1899_Nadar_crop.jpg"
+  },
+  "velazquez": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Vel%C3%A1zquez%20Autorretrato%2045%20x%2038%20cm%20-%20Colecci%C3%B3n%20Real%20Academia%20de%20Bellas%20Artes%20de%20San%20Carlos%20-%20Museo%20de%20Bellas%20Artes%20de%20Valencia.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Diego_Vel%C3%A1zquez_Autorretrato_45_x_38_cm_-_Colecci%C3%B3n_Real_Academia_de_Bellas_Artes_de_San_Carlos_-_Museo_de_Bellas_Artes_de_Valencia.jpg",
+    "width": 945,
+    "height": 1119,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Diego_Vel%C3%A1zquez_Autorretrato_45_x_38_cm_-_Colecci%C3%B3n_Real_Academia_de_Bellas_Artes_de_San_Carlos_-_Museo_de_Bellas_Artes_de_Valencia.jpg/{w}px-Diego_Vel%C3%A1zquez_Autorretrato_45_x_38_cm_-_Colecci%C3%B3n_Real_Academia_de_Bellas_Artes_de_San_Carlos_-_Museo_de_Bellas_Artes_de_Valencia.jpg"
+  },
+  "el-greco": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20Man%20-%20WGA10554.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/eb/El_Greco_-_Portrait_of_a_Man_-_WGA10554.jpg",
+    "width": 3312,
+    "height": 3668,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/El_Greco_-_Portrait_of_a_Man_-_WGA10554.jpg/{w}px-El_Greco_-_Portrait_of_a_Man_-_WGA10554.jpg"
+  },
+  "hokusai": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hokusai%20as%20an%20old%20man.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Hokusai_as_an_old_man.jpg",
+    "width": 4200,
+    "height": 8717,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Hokusai_as_an_old_man.jpg/{w}px-Hokusai_as_an_old_man.jpg"
+  },
+  "canova": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Canova%20Selfportrait%201792.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Antonio_Canova_Selfportrait_1792.jpg",
+    "width": 788,
+    "height": 983,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Antonio_Canova_Selfportrait_1792.jpg/{w}px-Antonio_Canova_Selfportrait_1792.jpg"
+  },
+  "durer": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/D%C3%BCrer%20Alte%20Pinakothek.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/40/D%C3%BCrer_Alte_Pinakothek.jpg",
+    "width": 2128,
+    "height": 3000,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/D%C3%BCrer_Alte_Pinakothek.jpg/{w}px-D%C3%BCrer_Alte_Pinakothek.jpg"
+  },
+  "michelangelo": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Michelangelo%20Daniele%20da%20Volterra%20%28dettaglio%29.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/02/Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg",
+    "width": 1382,
+    "height": 1600,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg/{w}px-Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg"
+  },
+  "van-gogh": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait%20-%20Vincent%20van%20Gogh.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Self-portrait_-_Vincent_van_Gogh.jpg",
+    "width": 4248,
+    "height": 5808,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Self-portrait_-_Vincent_van_Gogh.jpg/{w}px-Self-portrait_-_Vincent_van_Gogh.jpg"
+  },
+  "leonardo-da-vinci": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Melzi%20-%20Portrait%20of%20Leonardo.png?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Francesco_Melzi_-_Portrait_of_Leonardo.png",
+    "width": 1286,
+    "height": 1842,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Francesco_Melzi_-_Portrait_of_Leonardo.png/{w}px-Francesco_Melzi_-_Portrait_of_Leonardo.png"
+  },
+  "goya": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vicente%20L%C3%B3pez%20Porta%C3%B1a%20-%20el%20pintor%20Francisco%20de%20Goya.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Vicente_L%C3%B3pez_Porta%C3%B1a_-_el_pintor_Francisco_de_Goya.jpg",
+    "width": 1556,
+    "height": 1920,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vicente_L%C3%B3pez_Porta%C3%B1a_-_el_pintor_Francisco_de_Goya.jpg/{w}px-Vicente_L%C3%B3pez_Porta%C3%B1a_-_el_pintor_Francisco_de_Goya.jpg"
+  },
+  "gauguin": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%201891.png?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/53/Paul_Gauguin_1891.png",
+    "width": 3543,
+    "height": 4502,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Paul_Gauguin_1891.png/{w}px-Paul_Gauguin_1891.png"
+  },
+  "ingres": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Self-portrait.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/94/Ingres%2C_Self-portrait.jpg",
+    "width": 989,
+    "height": 1230,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ingres%2C_Self-portrait.jpg/{w}px-Ingres%2C_Self-portrait.jpg"
+  },
+  "rodin": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Auguste%20Rodin%20fotografato%20da%20Nadar%20nel%201891.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Auguste_Rodin_fotografato_da_Nadar_nel_1891.jpg",
+    "width": 747,
+    "height": 1024,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Auguste_Rodin_fotografato_da_Nadar_nel_1891.jpg/{w}px-Auguste_Rodin_fotografato_da_Nadar_nel_1891.jpg"
+  },
+  "delacroix": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Autoportrait%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%2025.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Autoportrait_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_25.jpg",
+    "width": 3867,
+    "height": 4715,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Autoportrait_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_25.jpg/{w}px-Autoportrait_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_25.jpg"
+  },
+  "rembrandt": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Rembrandt_van_Rijn_-_Self-Portrait_-_Google_Art_Project.jpg",
+    "width": 12243,
+    "height": 15859,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Rembrandt_van_Rijn_-_Self-Portrait_-_Google_Art_Project.jpg/{w}px-Rembrandt_van_Rijn_-_Self-Portrait_-_Google_Art_Project.jpg"
+  },
+  "rubens": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Peter%20Paul%20Rubens%20-%20Portrait%20of%20the%20Artist%20-%20Google%20Art%20Project.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Sir_Peter_Paul_Rubens_-_Portrait_of_the_Artist_-_Google_Art_Project.jpg",
+    "width": 3786,
+    "height": 5281,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Sir_Peter_Paul_Rubens_-_Portrait_of_the_Artist_-_Google_Art_Project.jpg/{w}px-Sir_Peter_Paul_Rubens_-_Portrait_of_the_Artist_-_Google_Art_Project.jpg"
+  },
+  "raphael": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Sanzio.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Raffaello_Sanzio.jpg",
+    "width": 3898,
+    "height": 5315,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Raffaello_Sanzio.jpg/{w}px-Raffaello_Sanzio.jpg"
+  },
+  "botticelli": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20Self-portrait%20ca%201475.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Sandro_Botticelli_Self-portrait_ca_1475.jpg",
+    "width": 1500,
+    "height": 2000,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sandro_Botticelli_Self-portrait_ca_1475.jpg/{w}px-Sandro_Botticelli_Self-portrait_ca_1475.jpg"
+  },
+  "renoir": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%2C%20uncropped%20image.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/67/Pierre_Auguste_Renoir%2C_uncropped_image.jpg",
+    "width": 525,
+    "height": 650,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Pierre_Auguste_Renoir%2C_uncropped_image.jpg/{w}px-Pierre_Auguste_Renoir%2C_uncropped_image.jpg"
+  },
+  "manet": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%2C%20en%20buste%2C%20de%20face%20-%20Nadar.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/20/%C3%89douard_Manet%2C_en_buste%2C_de_face_-_Nadar.jpg",
+    "width": 4701,
+    "height": 6253,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%89douard_Manet%2C_en_buste%2C_de_face_-_Nadar.jpg/{w}px-%C3%89douard_Manet%2C_en_buste%2C_de_face_-_Nadar.jpg"
+  },
+  "vermeer": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cropped%20version%20of%20Jan%20Vermeer%20van%20Delft%20002.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/46/Cropped_version_of_Jan_Vermeer_van_Delft_002.jpg",
+    "width": 1016,
+    "height": 1413,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cropped_version_of_Jan_Vermeer_van_Delft_002.jpg/{w}px-Cropped_version_of_Jan_Vermeer_van_Delft_002.jpg"
+  },
+  "seurat": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%201888%20%28cropped%29.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/14/Georges_Seurat_1888_%28cropped%29.jpg",
+    "width": 1116,
+    "height": 1644,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Georges_Seurat_1888_%28cropped%29.jpg/{w}px-Georges_Seurat_1888_%28cropped%29.jpg"
+  },
+  "courbet": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%2C%20photograph%20Atelier%20Nadar%2C%20c.%201860s.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Gustave_Courbet%2C_photograph_Atelier_Nadar%2C_c._1860s.jpg",
+    "width": 1405,
+    "height": 2079,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Gustave_Courbet%2C_photograph_Atelier_Nadar%2C_c._1860s.jpg/{w}px-Gustave_Courbet%2C_photograph_Atelier_Nadar%2C_c._1860s.jpg"
+  },
+  "klimt": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%20in%201887.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Gustav_Klimt_in_1887.jpg",
+    "width": 480,
+    "height": 717
+  },
+  "cezanne": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul-Cezanne.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Paul-Cezanne.jpg",
+    "width": 250,
+    "height": 333
+  },
+  "rosa-bonheur": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Andr%C3%A9%20Adolphe-Eug%C3%A8ne%20Disd%C3%A9ri%20%28French%20-%20%28Rosa%20Bonheur%29%20-%20Google%20Art%20Project.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/76/Andr%C3%A9_Adolphe-Eug%C3%A8ne_Disd%C3%A9ri_%28French_-_%28Rosa_Bonheur%29_-_Google_Art_Project.jpg",
+    "width": 2838,
+    "height": 4649,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Andr%C3%A9_Adolphe-Eug%C3%A8ne_Disd%C3%A9ri_%28French_-_%28Rosa_Bonheur%29_-_Google_Art_Project.jpg/{w}px-Andr%C3%A9_Adolphe-Eug%C3%A8ne_Disd%C3%A9ri_%28French_-_%28Rosa_Bonheur%29_-_Google_Art_Project.jpg"
+  },
+  "toulouse-lautrec": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Photolautrec.jpg",
+    "width": 1072,
+    "height": 1800,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Photolautrec.jpg/{w}px-Photolautrec.jpg"
+  },
+  "munch": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Munch%201933-2.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Edvard_Munch_1933-2.jpg",
+    "width": 2336,
+    "height": 3344,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Edvard_Munch_1933-2.jpg/{w}px-Edvard_Munch_1933-2.jpg"
+  },
+  "william-blake": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20by%20Thomas%20Phillips.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/00/William_Blake_by_Thomas_Phillips.jpg",
+    "width": 1196,
+    "height": 1536,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/William_Blake_by_Thomas_Phillips.jpg/{w}px-William_Blake_by_Thomas_Phillips.jpg"
+  },
+  "caravaggio": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bild-Ottavio%20Leoni%2C%20Caravaggio.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/73/Bild-Ottavio_Leoni%2C_Caravaggio.jpg",
+    "width": 1132,
+    "height": 1582,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bild-Ottavio_Leoni%2C_Caravaggio.jpg/{w}px-Bild-Ottavio_Leoni%2C_Caravaggio.jpg"
+  },
+  "bruegel-elder": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Painter%20and%20the%20Buyer%2C%20ca.%201566%20-%20Google%20Art%20Project.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/28/Pieter_Bruegel_the_Elder_-_The_Painter_and_the_Buyer%2C_ca._1566_-_Google_Art_Project.jpg",
+    "width": 2205,
+    "height": 2640,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Pieter_Bruegel_the_Elder_-_The_Painter_and_the_Buyer%2C_ca._1566_-_Google_Art_Project.jpg/{w}px-Pieter_Bruegel_the_Elder_-_The_Painter_and_the_Buyer%2C_ca._1566_-_Google_Art_Project.jpg"
+  },
+  "degas": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20self%20portrait%201855FXD.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Edgar_Degas_self_portrait_1855FXD.jpg",
+    "width": 454,
+    "height": 572
+  },
+  "titian": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vecellio%20di%20Gregorio%20Tiziano%20-%20autoritratto.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/12/Vecellio_di_Gregorio_Tiziano_-_autoritratto.jpg",
+    "width": 2247,
+    "height": 3051,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Vecellio_di_Gregorio_Tiziano_-_autoritratto.jpg/{w}px-Vecellio_di_Gregorio_Tiziano_-_autoritratto.jpg"
+  },
+  "jacques-louis-david": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/David%20Self%20Portrait.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c6/David_Self_Portrait.jpg",
+    "width": 2500,
+    "height": 3510,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/David_Self_Portrait.jpg/{w}px-David_Self_Portrait.jpg"
+  },
+  "van-eyck": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Eyck%20-%20Portrait%20of%20a%20Man%20%28Self%20Portrait%3F%29%201433.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/33/Jan_van_Eyck_-_Portrait_of_a_Man_%28Self_Portrait%3F%29_1433.jpg",
+    "width": 8889,
+    "height": 12230,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Jan_van_Eyck_-_Portrait_of_a_Man_%28Self_Portrait%3F%29_1433.jpg/{w}px-Jan_van_Eyck_-_Portrait_of_a_Man_%28Self_Portrait%3F%29_1433.jpg"
+  },
+  "caspar-david-friedrich": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%2C%20Selvportr%C3%A6t%2C%201800%2C%20KKSgb5006%2C%20Statens%20Museum%20for%20Kunst.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Caspar_David_Friedrich%2C_Selvportr%C3%A6t%2C_1800%2C_KKSgb5006%2C_Statens_Museum_for_Kunst.jpg",
+    "width": 2666,
+    "height": 4027,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Caspar_David_Friedrich%2C_Selvportr%C3%A6t%2C_1800%2C_KKSgb5006%2C_Statens_Museum_for_Kunst.jpg/{w}px-Caspar_David_Friedrich%2C_Selvportr%C3%A6t%2C_1800%2C_KKSgb5006%2C_Statens_Museum_for_Kunst.jpg"
+  },
+  "morisot": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20berthe%20photo.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/91/Morisot_berthe_photo.jpg",
+    "width": 564,
+    "height": 942,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Morisot_berthe_photo.jpg/{w}px-Morisot_berthe_photo.jpg"
+  },
+  "fragonard": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Honor%C3%A9%20Fragonard%20self-portrait.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/Jean-Honor%C3%A9_Fragonard_self-portrait.jpg",
+    "width": 535,
+    "height": 700,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Jean-Honor%C3%A9_Fragonard_self-portrait.jpg/{w}px-Jean-Honor%C3%A9_Fragonard_self-portrait.jpg"
+  },
+  "bosch": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20%28cropped%29.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Jheronimus_Bosch_%28cropped%29.jpg",
+    "width": 1658,
+    "height": 1932,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Jheronimus_Bosch_%28cropped%29.jpg/{w}px-Jheronimus_Bosch_%28cropped%29.jpg"
+  },
+  "pissarro": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-portrait-c1900.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/53/Pissarro-portrait-c1900.jpg",
+    "width": 1920,
+    "height": 2560,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pissarro-portrait-c1900.jpg/{w}px-Pissarro-portrait-c1900.jpg"
+  },
+  "millet": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-FrancoisMillet%28Nadar%29.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/Jean-FrancoisMillet%28Nadar%29.jpg",
+    "width": 1354,
+    "height": 1718,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Jean-FrancoisMillet%28Nadar%29.jpg/{w}px-Jean-FrancoisMillet%28Nadar%29.jpg"
+  },
+  "henry-moore": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Moore%205%20Allan%20Warren.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/39/Henry_Moore_5_Allan_Warren.jpg",
+    "width": 3186,
+    "height": 4144,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Henry_Moore_5_Allan_Warren.jpg/{w}px-Henry_Moore_5_Allan_Warren.jpg"
+  },
+  "brancusi": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Steichen%20-%20Brancusi.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Edward_Steichen_-_Brancusi.jpg",
+    "width": 1012,
+    "height": 1256,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Edward_Steichen_-_Brancusi.jpg/{w}px-Edward_Steichen_-_Brancusi.jpg"
+  },
+  "sargent": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/John%20Singer%20Sargent%201903.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a5/John_Singer_Sargent_1903.jpg",
+    "width": 608,
+    "height": 810,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/John_Singer_Sargent_1903.jpg/{w}px-John_Singer_Sargent_1903.jpg"
+  },
+  "henri-rousseau": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20Joyeux%20Farceurs%20Dornac%20crop.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Rousseau_Joyeux_Farceurs_Dornac_crop.jpg",
+    "width": 643,
+    "height": 672,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Rousseau_Joyeux_Farceurs_Dornac_crop.jpg/{w}px-Rousseau_Joyeux_Farceurs_Dornac_crop.jpg"
+  },
+  "giacometti": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Emmy%20Andriesse%20-%20Alberto%20Giacometti%20%28Ende%201940er%20PK-F-A.06801%29%20cut.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Emmy_Andriesse_-_Alberto_Giacometti_%28Ende_1940er_PK-F-A.06801%29_cut.jpg",
+    "width": 2800,
+    "height": 3400,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Emmy_Andriesse_-_Alberto_Giacometti_%28Ende_1940er_PK-F-A.06801%29_cut.jpg/{w}px-Emmy_Andriesse_-_Alberto_Giacometti_%28Ende_1940er_PK-F-A.06801%29_cut.jpg"
+  },
+  "constable": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/John%20Constable%20by%20Daniel%20Gardner%2C%201796.JPG?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/46/John_Constable_by_Daniel_Gardner%2C_1796.JPG",
+    "width": 2056,
+    "height": 3088,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/John_Constable_by_Daniel_Gardner%2C_1796.JPG/{w}px-John_Constable_by_Daniel_Gardner%2C_1796.JPG"
+  },
+  "millais": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Millais%20-%20Self-Portrait.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/14/Millais_-_Self-Portrait.jpg",
+    "width": 1000,
+    "height": 1403,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Millais_-_Self-Portrait.jpg/{w}px-Millais_-_Self-Portrait.jpg"
+  },
+  "turner": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20auto-retrato.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Joseph_Mallord_William_Turner_auto-retrato.jpg",
+    "width": 1182,
+    "height": 1536,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Joseph_Mallord_William_Turner_auto-retrato.jpg/{w}px-Joseph_Mallord_William_Turner_auto-retrato.jpg"
+  },
+  "bernini": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gian%20Lorenzo%20Bernini%2C%20self-portrait%2C%20c1623.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Gian_Lorenzo_Bernini%2C_self-portrait%2C_c1623.jpg",
+    "width": 3485,
+    "height": 4532,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Gian_Lorenzo_Bernini%2C_self-portrait%2C_c1623.jpg/{w}px-Gian_Lorenzo_Bernini%2C_self-portrait%2C_c1623.jpg"
+  },
+  "frans-hals": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Frans%20Hals%20%281582-83%E2%80%931666%29%20MET%20DP251935.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/38/Frans_Hals_%281582-83%E2%80%931666%29_MET_DP251935.jpg",
+    "width": 3200,
+    "height": 3722,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Frans_Hals_%281582-83%E2%80%931666%29_MET_DP251935.jpg/{w}px-Frans_Hals_%281582-83%E2%80%931666%29_MET_DP251935.jpg"
+  },
+  "cassatt": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/ec/1914_Mary_Cassatt.jpg",
+    "width": 3864,
+    "height": 5152,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/1914_Mary_Cassatt.jpg/{w}px-1914_Mary_Cassatt.jpg"
+  },
+  "watteau": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%28Treviso%29%20The%20painter%20Antoine%20Watteau%20by%20Rosalba%20Carriera%20-%20Museo%20civico%20di%20Santa%20Caterina.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/90/%28Treviso%29_The_painter_Antoine_Watteau_by_Rosalba_Carriera_-_Museo_civico_di_Santa_Caterina.jpg",
+    "width": 3669,
+    "height": 4690,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/%28Treviso%29_The_painter_Antoine_Watteau_by_Rosalba_Carriera_-_Museo_civico_di_Santa_Caterina.jpg/{w}px-%28Treviso%29_The_painter_Antoine_Watteau_by_Rosalba_Carriera_-_Museo_civico_di_Santa_Caterina.jpg"
+  },
+  "gericault": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Horace%20Vernet%2C%20Jean-Louis-Andr%C3%A9-Th%C3%A9odore%20Gericault%2C%20probably%201822%20or%201823%2C%201998.84%2C%20MET.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Horace_Vernet%2C_Jean-Louis-Andr%C3%A9-Th%C3%A9odore_Gericault%2C_probably_1822_or_1823%2C_1998.84%2C_MET.jpg",
+    "width": 3023,
+    "height": 3718,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Horace_Vernet%2C_Jean-Louis-Andr%C3%A9-Th%C3%A9odore_Gericault%2C_probably_1822_or_1823%2C_1998.84%2C_MET.jpg/{w}px-Horace_Vernet%2C_Jean-Louis-Andr%C3%A9-Th%C3%A9odore_Gericault%2C_probably_1822_or_1823%2C_1998.84%2C_MET.jpg"
+  },
+  "rossetti": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dante%20Gabriel%20Rossetti%20by%20George%20Frederic%20Watts.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/67/Dante_Gabriel_Rossetti_by_George_Frederic_Watts.jpg",
+    "width": 2400,
+    "height": 2957,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Dante_Gabriel_Rossetti_by_George_Frederic_Watts.jpg/{w}px-Dante_Gabriel_Rossetti_by_George_Frederic_Watts.jpg"
+  },
+  "gainsborough": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20by%20Thomas%20Gainsborough.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Thomas_Gainsborough_by_Thomas_Gainsborough.jpg",
+    "width": 2400,
+    "height": 2911,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Thomas_Gainsborough_by_Thomas_Gainsborough.jpg/{w}px-Thomas_Gainsborough_by_Thomas_Gainsborough.jpg"
+  },
+  "hiroshige": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Memorial%20Portrait%20of%20Hiroshige%2C%20by%20Kunisada.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Memorial_Portrait_of_Hiroshige%2C_by_Kunisada.jpg",
+    "width": 2631,
+    "height": 3841,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Memorial_Portrait_of_Hiroshige%2C_by_Kunisada.jpg/{w}px-Memorial_Portrait_of_Hiroshige%2C_by_Kunisada.jpg"
+  },
+  "whistler": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Whistler%20Selbstportr%C3%A4t.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Whistler_Selbstportr%C3%A4t.jpg",
+    "width": 6237,
+    "height": 8494,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Whistler_Selbstportr%C3%A4t.jpg/{w}px-Whistler_Selbstportr%C3%A4t.jpg"
+  },
+  "artemisia-gentileschi": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20Selfportrait%20Martyr.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/32/Artemisia_Gentileschi_Selfportrait_Martyr.jpg",
+    "width": 800,
+    "height": 1073,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Artemisia_Gentileschi_Selfportrait_Martyr.jpg/{w}px-Artemisia_Gentileschi_Selfportrait_Martyr.jpg"
+  },
+  "vigee-le-brun": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%89lisabeth%20Vig%C3%A9e-Lebrun%20-%20selfportrait%20%28Kimbell%20Art%20Museum%2C%201781-2%29.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/53/%C3%89lisabeth_Vig%C3%A9e-Lebrun_-_selfportrait_%28Kimbell_Art_Museum%2C_1781-2%29.jpg",
+    "width": 4557,
+    "height": 5496,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%C3%89lisabeth_Vig%C3%A9e-Lebrun_-_selfportrait_%28Kimbell_Art_Museum%2C_1781-2%29.jpg/{w}px-%C3%89lisabeth_Vig%C3%A9e-Lebrun_-_selfportrait_%28Kimbell_Art_Museum%2C_1781-2%29.jpg"
+  },
+  "dali": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Salvador%20Dal%C3%AD%201939.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/24/Salvador_Dal%C3%AD_1939.jpg",
+    "width": 2885,
+    "height": 3706,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Salvador_Dal%C3%AD_1939.jpg/{w}px-Salvador_Dal%C3%AD_1939.jpg"
+  },
+  "frida-kahlo": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Frida%20Kahlo%2C%20by%20Guillermo%20Kahlo%20%28cropped%29.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/09/Frida_Kahlo%2C_by_Guillermo_Kahlo_%28cropped%29.jpg",
+    "width": 1197,
+    "height": 1440,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Frida_Kahlo%2C_by_Guillermo_Kahlo_%28cropped%29.jpg/{w}px-Frida_Kahlo%2C_by_Guillermo_Kahlo_%28cropped%29.jpg"
+  },
+  "matisse": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Matisse%201933%20May%2020.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Portrait_of_Henri_Matisse_1933_May_20.jpg",
+    "width": 707,
+    "height": 925,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Portrait_of_Henri_Matisse_1933_May_20.jpg/{w}px-Portrait_of_Henri_Matisse_1933_May_20.jpg"
+  },
+  "marina-abramovic": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Marina%20Abramovi%C4%87.%20The%20Cleaner%20%2845524492341%29.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/34/Marina_Abramovi%C4%87._The_Cleaner_%2845524492341%29.jpg",
+    "width": 1386,
+    "height": 1727,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Marina_Abramovi%C4%87._The_Cleaner_%2845524492341%29.jpg/{w}px-Marina_Abramovi%C4%87._The_Cleaner_%2845524492341%29.jpg"
+  },
+  "miro": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joan%20Miro%20%28cropped%29.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Joan_Miro_%28cropped%29.jpg",
+    "width": 243,
+    "height": 283
+  },
+  "chagall": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shagal%20Choumoff.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Shagal_Choumoff.jpg",
+    "width": 1724,
+    "height": 2244,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Shagal_Choumoff.jpg/{w}px-Shagal_Choumoff.jpg"
+  },
+  "kandinsky": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wassily%20kandinsky.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Wassily_kandinsky.jpg",
+    "width": 567,
+    "height": 820,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Wassily_kandinsky.jpg/{w}px-Wassily_kandinsky.jpg"
+  },
+  "gerhard-richter": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gerhard%20Richter%2C%20Prague%20%282017%29.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Gerhard_Richter%2C_Prague_%282017%29.jpg",
+    "width": 1024,
+    "height": 1280,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Gerhard_Richter%2C_Prague_%282017%29.jpg/{w}px-Gerhard_Richter%2C_Prague_%282017%29.jpg"
+  },
+  "braque": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Braque%2C%201908%2C%20photograph%20published%20in%20Gelett%20Burgess%2C%20The%20Wild%20Men%20of%20Paris%2C%20Architectural%20Record%2C%20May%201910.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Georges_Braque%2C_1908%2C_photograph_published_in_Gelett_Burgess%2C_The_Wild_Men_of_Paris%2C_Architectural_Record%2C_May_1910.jpg",
+    "width": 391,
+    "height": 550
+  },
+  "francis-bacon": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bacon%20by%20Gray%20257.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Bacon_by_Gray_257.jpg",
+    "width": 1426,
+    "height": 1781,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bacon_by_Gray_257.jpg/{w}px-Bacon_by_Gray_257.jpg"
+  },
+  "lucian-freud": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/LucienFreud.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/LucienFreud.jpg",
+    "width": 427,
+    "height": 646
+  },
+  "max-ernst": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Max%20Ernst%201968.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/87/Max_Ernst_1968.jpg",
+    "width": 1506,
+    "height": 2004,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Max_Ernst_1968.jpg/{w}px-Max_Ernst_1968.jpg"
+  },
+  "hilma-af-klint": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hilma-af-Klint-uncropped.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Hilma-af-Klint-uncropped.jpg",
+    "width": 1920,
+    "height": 2696,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Hilma-af-Klint-uncropped.jpg/{w}px-Hilma-af-Klint-uncropped.jpg"
+  },
+  "joan-mitchell": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joan%20Mitchell.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/af/Joan_Mitchell.jpg",
+    "width": 463,
+    "height": 615
+  },
+  "keith-haring": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Keith%20Haring%20%281986%29.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Keith_Haring_%281986%29.jpg",
+    "width": 1287,
+    "height": 1716,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Keith_Haring_%281986%29.jpg/{w}px-Keith_Haring_%281986%29.jpg"
+  },
+  "basquiat": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Basquiat.png?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/75/Basquiat.png",
+    "width": 1106,
+    "height": 1422,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Basquiat.png/{w}px-Basquiat.png"
+  },
+  "louise-bourgeois": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Oliver%20Mark%20-%20Louise%20Bourgeois%2C%20New%20York%201996.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Oliver_Mark_-_Louise_Bourgeois%2C_New_York_1996.jpg",
+    "width": 2389,
+    "height": 2400,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Oliver_Mark_-_Louise_Bourgeois%2C_New_York_1996.jpg/{w}px-Oliver_Mark_-_Louise_Bourgeois%2C_New_York_1996.jpg"
+  },
+  "hockney": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/David%20Hockney%20in%20Washington%20Square%20Park%20%281977%29.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/9f/David_Hockney_in_Washington_Square_Park_%281977%29.jpg",
+    "width": 455,
+    "height": 607
+  },
+  "ai-weiwei": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aj%20Wej-wej%20I%20%282017%29.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Aj_Wej-wej_I_%282017%29.jpg",
+    "width": 886,
+    "height": 1197,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Aj_Wej-wej_I_%282017%29.jpg/{w}px-Aj_Wej-wej_I_%282017%29.jpg"
+  },
+  "rothko": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Consuelo%20Kanaga%2C%20Mark%20Rothko%2C%20Yorktown%20Heights%2C%20ca.%201949.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Consuelo_Kanaga%2C_Mark_Rothko%2C_Yorktown_Heights%2C_ca._1949.jpg",
+    "width": 1534,
+    "height": 1536,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Consuelo_Kanaga%2C_Mark_Rothko%2C_Yorktown_Heights%2C_ca._1949.jpg/{w}px-Consuelo_Kanaga%2C_Mark_Rothko%2C_Yorktown_Heights%2C_ca._1949.jpg"
+  },
+  "yoko-ono": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yoko%20Ono%202016%20%28facecrop%29.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/36/Yoko_Ono_2016_%28facecrop%29.jpg",
+    "width": 1194,
+    "height": 1418,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Yoko_Ono_2016_%28facecrop%29.jpg/{w}px-Yoko_Ono_2016_%28facecrop%29.jpg"
+  },
+  "modigliani": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%201918%20restored.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/24/Amedeo_Modigliani_1918_restored.jpg",
+    "width": 848,
+    "height": 1102,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Amedeo_Modigliani_1918_restored.jpg/{w}px-Amedeo_Modigliani_1918_restored.jpg"
+  },
+  "malevich": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/63/Casimir_Malevich_photo.jpg",
+    "width": 1306,
+    "height": 2000,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Casimir_Malevich_photo.jpg/{w}px-Casimir_Malevich_photo.jpg"
+  },
+  "de-kooning": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Willem%20de%20Kooning%201968.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/73/Willem_de_Kooning_1968.jpg",
+    "width": 1307,
+    "height": 1700,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willem_de_Kooning_1968.jpg/{w}px-Willem_de_Kooning_1968.jpg"
+  },
+  "banksy": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Banksy%20signature-removebg-preview.png?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/Banksy_signature-removebg-preview.png",
+    "width": 805,
+    "height": 193,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Banksy_signature-removebg-preview.png/{w}px-Banksy_signature-removebg-preview.png"
+  },
+  "kollwitz": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/K%C3%A4the%20Kollwitz%20by%20Hugo%20Erfurth%2C%201927.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/9e/K%C3%A4the_Kollwitz_by_Hugo_Erfurth%2C_1927.jpg",
+    "width": 642,
+    "height": 845,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/K%C3%A4the_Kollwitz_by_Hugo_Erfurth%2C_1927.jpg/{w}px-K%C3%A4the_Kollwitz_by_Hugo_Erfurth%2C_1927.jpg"
+  },
+  "lichtenstein": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Roy%20Lichtenstein%2C%20painter%201969%20%28cropped%29.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/28/Roy_Lichtenstein%2C_painter_1969_%28cropped%29.jpg",
+    "width": 1875,
+    "height": 2503,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Roy_Lichtenstein%2C_painter_1969_%28cropped%29.jpg/{w}px-Roy_Lichtenstein%2C_painter_1969_%28cropped%29.jpg"
+  },
+  "mondrian": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Piet%20Mondriaan.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/Piet_Mondriaan.jpg",
+    "width": 618,
+    "height": 826,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Piet_Mondriaan.jpg/{w}px-Piet_Mondriaan.jpg"
+  },
+  "picasso": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/1973%20Dokfilm%20Picasso%20de%20Lucien%20Clergue%20Condor%20Films.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/5e/1973_Dokfilm_Picasso_de_Lucien_Clergue_Condor_Films.jpg",
+    "width": 567,
+    "height": 444,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/1973_Dokfilm_Picasso_de_Lucien_Clergue_Condor_Films.jpg/{w}px-1973_Dokfilm_Picasso_de_Lucien_Clergue_Condor_Films.jpg"
+  },
+  "warhol": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Andy%20Warhol%20at%20the%20Jewish%20Museum%20%28by%20Bernard%20Gotfryd%29%20%E2%80%93%20LOC.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Andy_Warhol_at_the_Jewish_Museum_%28by_Bernard_Gotfryd%29_%E2%80%93_LOC.jpg",
+    "width": 3224,
+    "height": 4686,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Andy_Warhol_at_the_Jewish_Museum_%28by_Bernard_Gotfryd%29_%E2%80%93_LOC.jpg/{w}px-Andy_Warhol_at_the_Jewish_Museum_%28by_Bernard_Gotfryd%29_%E2%80%93_LOC.jpg"
+  },
+  "duchamp": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Marcel%20Duchamp%2001.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Marcel_Duchamp_01.jpg",
+    "width": 519,
+    "height": 764,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Marcel_Duchamp_01.jpg/{w}px-Marcel_Duchamp_01.jpg"
+  },
+  "magritte": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/46/Ren%C3%A9_Magritte_in_1961.jpg",
+    "width": 1983,
+    "height": 2614,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ren%C3%A9_Magritte_in_1961.jpg/{w}px-Ren%C3%A9_Magritte_in_1961.jpg"
+  },
+  "pollock": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jackson%20Pollock%20by%20Hans%20Namuth.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Jackson_Pollock_by_Hans_Namuth.jpg",
+    "width": 1832,
+    "height": 2440,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Jackson_Pollock_by_Hans_Namuth.jpg/{w}px-Jackson_Pollock_by_Hans_Namuth.jpg"
+  },
+  "paul-klee": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Klee%201911.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Paul_Klee_1911.jpg",
+    "width": 764,
+    "height": 1056,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Paul_Klee_1911.jpg/{w}px-Paul_Klee_1911.jpg"
+  },
+  "schiele": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Egon%20Schiele%20photo.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/14/Egon_Schiele_photo.jpg",
+    "width": 996,
+    "height": 1382,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Egon_Schiele_photo.jpg/{w}px-Egon_Schiele_photo.jpg"
+  },
+  "okeeffe": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Georgia%20O%27Keeffe%20MET%20DP230868.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Georgia_O%27Keeffe_MET_DP230868.jpg",
+    "width": 1541,
+    "height": 1908,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Georgia_O%27Keeffe_MET_DP230868.jpg/{w}px-Georgia_O%27Keeffe_MET_DP230868.jpg"
+  },
+  "robert-rauschenberg": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Rauschenberg%201999.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/20/Robert_Rauschenberg_1999.jpg",
+    "width": 283,
+    "height": 349
+  },
+  "diego-rivera": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/be/Diego_Rivera_-_Google_Art_Project_%28cropped%29.jpg",
+    "width": 1833,
+    "height": 2551,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Diego_Rivera_-_Google_Art_Project_%28cropped%29.jpg/{w}px-Diego_Rivera_-_Google_Art_Project_%28cropped%29.jpg"
+  },
+  "hopper": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Hopper%2C%20New%20York%20artist%20LCCN2016871478%20%28cropped%29.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Edward_Hopper%2C_New_York_artist_LCCN2016871478_%28cropped%29.jpg",
+    "width": 1883,
+    "height": 2821,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Edward_Hopper%2C_New_York_artist_LCCN2016871478_%28cropped%29.jpg/{w}px-Edward_Hopper%2C_New_York_artist_LCCN2016871478_%28cropped%29.jpg"
+  },
+  "grant-wood": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Grant%20Wood.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/02/Grant_Wood.jpg",
+    "width": 997,
+    "height": 1200,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Grant_Wood.jpg/{w}px-Grant_Wood.jpg"
+  },
+  "kirchner": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ernst%20Ludwig%20Kirchner%20-%20Selbstportr%C3%A4t%20in%20der%20Atelierwohnung%20in%20Berlin-Friedenau%20%281913-15%29.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Ernst_Ludwig_Kirchner_-_Selbstportr%C3%A4t_in_der_Atelierwohnung_in_Berlin-Friedenau_%281913-15%29.jpg",
+    "width": 1333,
+    "height": 1350,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Ernst_Ludwig_Kirchner_-_Selbstportr%C3%A4t_in_der_Atelierwohnung_in_Berlin-Friedenau_%281913-15%29.jpg/{w}px-Ernst_Ludwig_Kirchner_-_Selbstportr%C3%A4t_in_der_Atelierwohnung_in_Berlin-Friedenau_%281913-15%29.jpg"
+  },
+  "tamara-de-lempicka": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tamara%20%C5%81empicka%20ssj%2020060914%20-%20cropped.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Tamara_%C5%81empicka_ssj_20060914_-_cropped.jpg",
+    "width": 1240,
+    "height": 1812,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Tamara_%C5%81empicka_ssj_20060914_-_cropped.jpg/{w}px-Tamara_%C5%81empicka_ssj_20060914_-_cropped.jpg"
+  },
+  "cindy-sherman": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cindy%20Sherman%20%28cropped%29.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Cindy_Sherman_%28cropped%29.jpg",
+    "width": 283,
+    "height": 370
+  },
+  "yayoi-kusama": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/20130918Yayoi%20Kusama1.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f5/20130918Yayoi_Kusama1.jpg",
+    "width": 600,
+    "height": 396,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/20130918Yayoi_Kusama1.jpg/{w}px-20130918Yayoi_Kusama1.jpg"
+  },
+  "sonia-delaunay": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sonia%20Delaunay%20portrait%20photograph.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/15/Sonia_Delaunay_portrait_photograph.jpg",
+    "width": 1333,
+    "height": 2048,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Sonia_Delaunay_portrait_photograph.jpg/{w}px-Sonia_Delaunay_portrait_photograph.jpg"
+  },
+  "barbara-hepworth": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Barbara%20Hepworth%20%281966%29%20by%20Erling%20Mandelmann.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/63/Barbara_Hepworth_%281966%29_by_Erling_Mandelmann.jpg",
+    "width": 202,
+    "height": 300
+  },
+  "helen-frankenthaler": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2001%20National%20Medal%20of%20Arts%20Recipient%20Helen%20Frankenthaler%20%28cropped%29.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/14/2001_National_Medal_of_Arts_Recipient_Helen_Frankenthaler_%28cropped%29.jpg",
+    "width": 301,
+    "height": 531
+  },
+  "lee-krasner": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lee%20Krasner%2C%20artist%2C%20cropped.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/38/Lee_Krasner%2C_artist%2C_cropped.jpg",
+    "width": 2891,
+    "height": 4008,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Lee_Krasner%2C_artist%2C_cropped.jpg/{w}px-Lee_Krasner%2C_artist%2C_cropped.jpg"
+  },
+  "agnes-martin": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Agnes-Martin.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/20/Agnes-Martin.jpg",
+    "width": 2986,
+    "height": 3759,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Agnes-Martin.jpg/{w}px-Agnes-Martin.jpg"
+  },
+  "damien-hirst": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Damien-Hirst-1%20%282007%29.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/07/Damien-Hirst-1_%282007%29.jpg",
+    "width": 590,
+    "height": 777,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Damien-Hirst-1_%282007%29.jpg/{w}px-Damien-Hirst-1_%282007%29.jpg"
+  },
+  "jeff-koons": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jeff%20Koons%2001.JPG?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Jeff_Koons_01.JPG",
+    "width": 2365,
+    "height": 2984,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Jeff_Koons_01.JPG/{w}px-Jeff_Koons_01.JPG"
+  },
+  "andrew-wyeth": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Andrew%20Wyeth.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Andrew_Wyeth.jpg",
+    "width": 198,
+    "height": 186
+  },
+  "anish-kapoor": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Anish%20Kapoor%2001.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Anish_Kapoor_01.jpg",
+    "width": 2889,
+    "height": 2921,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Anish_Kapoor_01.jpg/{w}px-Anish_Kapoor_01.jpg"
+  },
+  "kehinde-wiley": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kehinde%20Wiley%20%282015%29%20%28cropped%29.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Kehinde_Wiley_%282015%29_%28cropped%29.jpg",
+    "width": 479,
+    "height": 689
+  },
+  "winslow-homer": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Winslow%20Homer%20by%20Sarony.jpeg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Winslow_Homer_by_Sarony.jpeg",
+    "width": 1129,
+    "height": 1564,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Winslow_Homer_by_Sarony.jpeg/{w}px-Winslow_Homer_by_Sarony.jpeg"
+  },
+  "takashi-murakami": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Takashi%20Murakami%20at%20Versailles%20Sept.%202010%20%28crop%29.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Takashi_Murakami_at_Versailles_Sept._2010_%28crop%29.jpg",
+    "width": 1691,
+    "height": 2161,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Takashi_Murakami_at_Versailles_Sept._2010_%28crop%29.jpg/{w}px-Takashi_Murakami_at_Versailles_Sept._2010_%28crop%29.jpg"
+  },
+  "jacob-lawrence": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Jacob%20Lawrence%20LCCN2004663191.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Portrait_of_Jacob_Lawrence_LCCN2004663191.jpg",
+    "width": 405,
+    "height": 640
+  },
+  "camille-claudel": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Camille%20nette.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Camille_nette.jpg",
+    "width": 1578,
+    "height": 1962,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Camille_nette.jpg/{w}px-Camille_nette.jpg"
+  },
+  "man-ray": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Man%20Ray%20Salvador%20Dali%20%28cropped%29.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Man_Ray_Salvador_Dali_%28cropped%29.jpg",
+    "width": 508,
+    "height": 786,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Man_Ray_Salvador_Dali_%28cropped%29.jpg/{w}px-Man_Ray_Salvador_Dali_%28cropped%29.jpg"
+  },
+  "odilon-redon": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Odilon%20Redon%20vers%201880.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Odilon_Redon_vers_1880.jpg",
+    "width": 2613,
+    "height": 3400,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Odilon_Redon_vers_1880.jpg/{w}px-Odilon_Redon_vers_1880.jpg"
+  },
+  "jasper-johns": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jasper%20Johns%2C%20Medal%20of%20Freedom%2C%202011.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Jasper_Johns%2C_Medal_of_Freedom%2C_2011.jpg",
+    "width": 197,
+    "height": 306
+  },
+  "van-dyck": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Anthony%20van%20Dyck%20-%20Self-portrait.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Sir_Anthony_van_Dyck_-_Self-portrait.jpg",
+    "width": 1257,
+    "height": 1593,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Sir_Anthony_van_Dyck_-_Self-portrait.jpg/{w}px-Sir_Anthony_van_Dyck_-_Self-portrait.jpg"
+  },
+  "poussin": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nicolas%20Poussin%20078.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Nicolas_Poussin_078.jpg",
+    "width": 1152,
+    "height": 1500,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Nicolas_Poussin_078.jpg/{w}px-Nicolas_Poussin_078.jpg"
+  },
+  "juan-gris": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Gris%2C%20portrait%20photograph%2C%20published%20in%20Les%20Peintres%20Cubistes%2C%201913.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Juan_Gris%2C_portrait_photograph%2C_published_in_Les_Peintres_Cubistes%2C_1913.jpg",
+    "width": 1296,
+    "height": 1800,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Juan_Gris%2C_portrait_photograph%2C_published_in_Les_Peintres_Cubistes%2C_1913.jpg/{w}px-Juan_Gris%2C_portrait_photograph%2C_published_in_Les_Peintres_Cubistes%2C_1913.jpg"
+  },
+  "boccioni": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Umberto%20Boccioni1914.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Umberto_Boccioni1914.jpg",
+    "width": 690,
+    "height": 950,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Umberto_Boccioni1914.jpg/{w}px-Umberto_Boccioni1914.jpg"
+  },
+  "derain": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Andr%C3%A9%20Derain%201928.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Andr%C3%A9_Derain_1928.jpg",
+    "width": 4398,
+    "height": 5736,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Andr%C3%A9_Derain_1928.jpg/{w}px-Andr%C3%A9_Derain_1928.jpg"
+  },
+  "leger": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fernand%20L%C3%A9ger.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/Fernand_L%C3%A9ger.jpg",
+    "width": 277,
+    "height": 402
+  },
+  "ilya-repin": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/86/Ilya_Repin_%281909%29.jpg",
+    "width": 495,
+    "height": 652
+  },
+  "canaletto": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Antonio%20Canal.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Giovanni_Antonio_Canal.jpg",
+    "width": 1034,
+    "height": 1335,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Giovanni_Antonio_Canal.jpg/{w}px-Giovanni_Antonio_Canal.jpg"
+  },
+  "jan-steen": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/1670%20Jan%20Havicksz.%20Steen%20-%20zelfportret.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d3/1670_Jan_Havicksz._Steen_-_zelfportret.jpg",
+    "width": 4272,
+    "height": 4962,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/1670_Jan_Havicksz._Steen_-_zelfportret.jpg/{w}px-1670_Jan_Havicksz._Steen_-_zelfportret.jpg"
+  },
+  "kuniyoshi": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Utagawa-Kuniyoshi%2C%20Self-Portrait%2C%20Shunga%20album%2C%201839.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/69/Utagawa-Kuniyoshi%2C_Self-Portrait%2C_Shunga_album%2C_1839.jpg",
+    "width": 1825,
+    "height": 2579,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Utagawa-Kuniyoshi%2C_Self-Portrait%2C_Shunga_album%2C_1839.jpg/{w}px-Utagawa-Kuniyoshi%2C_Self-Portrait%2C_Shunga_album%2C_1839.jpg"
+  },
+  "olafur-eliasson": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%93lafur%20El%C3%ADasson%20Internationale%20Jury%20Berlinale%202017%20%28cropped%29.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/13/%C3%93lafur_El%C3%ADasson_Internationale_Jury_Berlinale_2017_%28cropped%29.jpg",
+    "width": 2083,
+    "height": 3017,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/%C3%93lafur_El%C3%ADasson_Internationale_Jury_Berlinale_2017_%28cropped%29.jpg/{w}px-%C3%93lafur_El%C3%ADasson_Internationale_Jury_Berlinale_2017_%28cropped%29.jpg"
+  },
+  "el-anatsui": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/El%20Anatsui%20-%20Man%27s%20Cloth.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/8f/El_Anatsui_-_Man%27s_Cloth.jpg",
+    "width": 3776,
+    "height": 2520,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/El_Anatsui_-_Man%27s_Cloth.jpg/{w}px-El_Anatsui_-_Man%27s_Cloth.jpg"
+  },
+  "amy-sherald": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/AmySherald-byPhilipRomano.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/08/AmySherald-byPhilipRomano.jpg",
+    "width": 4024,
+    "height": 6048,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/AmySherald-byPhilipRomano.jpg/{w}px-AmySherald-byPhilipRomano.jpg"
+  },
+  "cy-twombly": {
+    "image": "https://en.wikipedia.org/wiki/Special:FilePath/Cy%20Twombly.jpg?width=1200",
+    "source": "wikipedia",
+    "src": "https://upload.wikimedia.org/wikipedia/en/4/43/Cy_Twombly.jpg",
+    "width": 408,
+    "height": 244
+  },
+  "name:masaccio": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Masaccio%20Self%20Portrait.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/96/Masaccio_Self_Portrait.jpg",
+    "width": 290,
+    "height": 470
+  },
+  "name:donatello": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Uffizi%20Donatello.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/65/Uffizi_Donatello.jpg",
+    "width": 878,
+    "height": 1254,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Uffizi_Donatello.jpg/{w}px-Uffizi_Donatello.jpg"
+  },
+  "name:piero-della-francesca": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Resurrection%20detail.JPG?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Resurrection_detail.JPG",
+    "width": 170,
+    "height": 187
+  },
+  "name:joshua-reynolds": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Joshua%20Reynolds%20-%20Self-Portrait%20-%20Google%20Art%20Project%20%282315517%29FXD.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Sir_Joshua_Reynolds_-_Self-Portrait_-_Google_Art_Project_%282315517%29FXD.jpg",
+    "width": 5050,
+    "height": 6748,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Sir_Joshua_Reynolds_-_Self-Portrait_-_Google_Art_Project_%282315517%29FXD.jpg/{w}px-Sir_Joshua_Reynolds_-_Self-Portrait_-_Google_Art_Project_%282315517%29FXD.jpg"
+  },
+  "name:george-romney": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/George%20Romney%20-%20Portrait%20de%20l%27artiste.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a3/George_Romney_-_Portrait_de_l%27artiste.jpg",
+    "width": 462,
+    "height": 610
+  },
+  "name:thomas-lawrence": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait-1788%29%20by%20Sir%20Thomas%20Lawrence%2C%20PRA.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/24/Self-Portrait-1788%29_by_Sir_Thomas_Lawrence%2C_PRA.jpg",
+    "width": 1600,
+    "height": 1883,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Self-Portrait-1788%29_by_Sir_Thomas_Lawrence%2C_PRA.jpg/{w}px-Self-Portrait-1788%29_by_Sir_Thomas_Lawrence%2C_PRA.jpg"
+  },
+  "name:giovanni-boldini": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Boldini%201926%20%282%29.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/af/Giovanni_Boldini_1926_%282%29.jpg",
+    "width": 3281,
+    "height": 3908,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Giovanni_Boldini_1926_%282%29.jpg/{w}px-Giovanni_Boldini_1926_%282%29.jpg"
+  },
+  "name:anders-zorn": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Zornself.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Zornself.jpg",
+    "width": 1187,
+    "height": 1600,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Zornself.jpg/{w}px-Zornself.jpg"
+  },
+  "name:charles-demuth": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Demuth-%20Self-Portrait%2C%201907.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/be/Charles_Demuth-_Self-Portrait%2C_1907.jpg",
+    "width": 305,
+    "height": 471
+  },
+  "name:arthur-dove": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arthur%20Dove%20by%20Alfred%20Stieglitz%201912.png?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/39/Arthur_Dove_by_Alfred_Stieglitz_1912.png",
+    "width": 344,
+    "height": 428
+  },
+  "name:marsden-hartley": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Marsden%20Hartley.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/21/Portrait_of_Marsden_Hartley.jpg",
+    "width": 2656,
+    "height": 3336,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Portrait_of_Marsden_Hartley.jpg/{w}px-Portrait_of_Marsden_Hartley.jpg"
+  },
+  "name:erte": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ert%C3%A9%20at%20the%20Sonnabend%20Gallery%2C%20New%20York%20City%201970.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Ert%C3%A9_at_the_Sonnabend_Gallery%2C_New_York_City_1970.jpg",
+    "width": 799,
+    "height": 1118,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ert%C3%A9_at_the_Sonnabend_Gallery%2C_New_York_City_1970.jpg/{w}px-Ert%C3%A9_at_the_Sonnabend_Gallery%2C_New_York_City_1970.jpg"
+  },
+  "name:jean-dupas": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacques-%C3%89mile%20Blanche%20-%20Portrait%20du%20peintre%20Jean%20Dupas%20%28cropped%29.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Jacques-%C3%89mile_Blanche_-_Portrait_du_peintre_Jean_Dupas_%28cropped%29.jpg",
+    "width": 3148,
+    "height": 4000,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Jacques-%C3%89mile_Blanche_-_Portrait_du_peintre_Jean_Dupas_%28cropped%29.jpg/{w}px-Jacques-%C3%89mile_Blanche_-_Portrait_du_peintre_Jean_Dupas_%28cropped%29.jpg"
+  },
+  "name:paul-manship": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Archives%20of%20American%20Art%20-%20Paul%20Manship%20-%202900.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Archives_of_American_Art_-_Paul_Manship_-_2900.jpg",
+    "width": 2511,
+    "height": 3254,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Archives_of_American_Art_-_Paul_Manship_-_2900.jpg/{w}px-Archives_of_American_Art_-_Paul_Manship_-_2900.jpg"
+  },
+  "name:shepard-fairey": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shepard-fairey-2011-westhollywood.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/Shepard-fairey-2011-westhollywood.jpg",
+    "width": 1770,
+    "height": 2655,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Shepard-fairey-2011-westhollywood.jpg/{w}px-Shepard-fairey-2011-westhollywood.jpg"
+  },
+  "name:jr": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JR%20%28artist%29%20%28cropped%29.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/fc/JR_%28artist%29_%28cropped%29.jpg",
+    "width": 741,
+    "height": 1118,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/JR_%28artist%29_%28cropped%29.jpg/{w}px-JR_%28artist%29_%28cropped%29.jpg"
+  },
+  "name:pontormo": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alessandro%20Allori%2C%20santissima%20trinit%C3%A0%2C%201567-1571%20circa%2C%20ritratto%20dei%20maestri%2C%20pontormo.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Alessandro_Allori%2C_santissima_trinit%C3%A0%2C_1567-1571_circa%2C_ritratto_dei_maestri%2C_pontormo.jpg",
+    "width": 2082,
+    "height": 3414,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Alessandro_Allori%2C_santissima_trinit%C3%A0%2C_1567-1571_circa%2C_ritratto_dei_maestri%2C_pontormo.jpg/{w}px-Alessandro_Allori%2C_santissima_trinit%C3%A0%2C_1567-1571_circa%2C_ritratto_dei_maestri%2C_pontormo.jpg"
+  },
+  "name:parmigianino": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Parmigianino%20Selfportrait.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Parmigianino_Selfportrait.jpg",
+    "width": 2613,
+    "height": 2609,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Parmigianino_Selfportrait.jpg/{w}px-Parmigianino_Selfportrait.jpg"
+  },
+  "name:bronzino": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alessandro%20Allori%2C%20santissima%20trinit%C3%A0%2C%201567-1571%20circa%2C%20ritratto%20dei%20maestri%2C%20bronzino%20%28cropped%29.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Alessandro_Allori%2C_santissima_trinit%C3%A0%2C_1567-1571_circa%2C_ritratto_dei_maestri%2C_bronzino_%28cropped%29.jpg",
+    "width": 1576,
+    "height": 2384,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Alessandro_Allori%2C_santissima_trinit%C3%A0%2C_1567-1571_circa%2C_ritratto_dei_maestri%2C_bronzino_%28cropped%29.jpg/{w}px-Alessandro_Allori%2C_santissima_trinit%C3%A0%2C_1567-1571_circa%2C_ritratto_dei_maestri%2C_bronzino_%28cropped%29.jpg"
+  },
+  "name:jacob-van-ruisdael": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ruisdael%20Jacob%20KunsthalleHamburg.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/19/Ruisdael_Jacob_KunsthalleHamburg.jpg",
+    "width": 2736,
+    "height": 3648,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Ruisdael_Jacob_KunsthalleHamburg.jpg/{w}px-Ruisdael_Jacob_KunsthalleHamburg.jpg"
+  },
+  "name:francois-boucher": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Boucher%20par%20Gustav%20Lundberg%201741.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Boucher_par_Gustav_Lundberg_1741.jpg",
+    "width": 1020,
+    "height": 1300,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Boucher_par_Gustav_Lundberg_1741.jpg/{w}px-Boucher_par_Gustav_Lundberg_1741.jpg"
+  },
+  "name:honore-daumier": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Honore%20Daumier-Nadar.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/03/Honore_Daumier-Nadar.jpg",
+    "width": 2245,
+    "height": 3000,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Honore_Daumier-Nadar.jpg/{w}px-Honore_Daumier-Nadar.jpg"
+  },
+  "name:william-holman-hunt": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/William%20Holman%20Hunt%20-%20Selfportrait.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/70/William_Holman_Hunt_-_Selfportrait.jpg",
+    "width": 845,
+    "height": 1200,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/William_Holman_Hunt_-_Selfportrait.jpg/{w}px-William_Holman_Hunt_-_Selfportrait.jpg"
+  },
+  "name:john-william-waterhouse": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20001.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/ba/John_William_Waterhouse_001.jpg",
+    "width": 400,
+    "height": 637
+  },
+  "name:gustave-moreau": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GustaveMoreau02.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b6/GustaveMoreau02.jpg",
+    "width": 587,
+    "height": 741,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/GustaveMoreau02.jpg/{w}px-GustaveMoreau02.jpg"
+  },
+  "name:maurice-de-vlaminck": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Maurice%20de%20Vlaminck%20en%201942.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/Maurice_de_Vlaminck_en_1942.jpg",
+    "width": 271,
+    "height": 405
+  },
+  "name:emil-nolde": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/WP%20Emil%20Nolde.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/61/WP_Emil_Nolde.jpg",
+    "width": 1536,
+    "height": 2169,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/WP_Emil_Nolde.jpg/{w}px-WP_Emil_Nolde.jpg"
+  },
+  "name:giacomo-balla": {
+    "image": "https://en.wikipedia.org/wiki/Special:FilePath/Giacomo%20Balla%2C%20Artistapl%C3%A1stico%2C%20Archivo%20del%20900%2C%20MART%2C%20Rovereto.jpg?width=1200",
+    "source": "wikipedia",
+    "src": "https://upload.wikimedia.org/wikipedia/en/f/fe/Giacomo_Balla%2C_Artistapl%C3%A1stico%2C_Archivo_del_900%2C_MART%2C_Rovereto.jpg",
+    "width": 235,
+    "height": 424
+  },
+  "name:gino-severini": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gino%20Severini.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Gino_Severini.jpg",
+    "width": 305,
+    "height": 400
+  },
+  "name:hannah-hoch": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hannah%20H%C3%B6ch%20%281974%29.tif?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/Hannah_H%C3%B6ch_%281974%29.tif",
+    "width": 3543,
+    "height": 3543,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Hannah_H%C3%B6ch_%281974%29.tif/lossless-page1-{w}px-Hannah_H%C3%B6ch_%281974%29.tif.png",
+    "render": true
+  },
+  "name:jean-arp": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Arp.JPG?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/14/Hans_Arp.JPG",
+    "width": 933,
+    "height": 1335,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Hans_Arp.JPG/{w}px-Hans_Arp.JPG"
+  },
+  "name:jose-clemente-orozco": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20Clemente%20Orozco%2C%20c1930.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/45/Jos%C3%A9_Clemente_Orozco%2C_c1930.jpg",
+    "width": 3774,
+    "height": 4375,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Jos%C3%A9_Clemente_Orozco%2C_c1930.jpg/{w}px-Jos%C3%A9_Clemente_Orozco%2C_c1930.jpg"
+  },
+  "name:david-alfaro-siqueiros": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/David%20Alfaro%20Siqueiros%20%28El%20Coronelazo%29.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/46/David_Alfaro_Siqueiros_%28El_Coronelazo%29.jpg",
+    "width": 495,
+    "height": 711
+  },
+  "name:aaron-douglas": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aaron%20Douglas%20-%20NARA%20-%20559198.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Aaron_Douglas_-_NARA_-_559198.jpg",
+    "width": 2044,
+    "height": 3000,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Aaron_Douglas_-_NARA_-_559198.jpg/{w}px-Aaron_Douglas_-_NARA_-_559198.jpg"
+  },
+  "name:archibald-motley": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Self%20Portrait%20of%20Archibald%20Motley.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Self_Portrait_of_Archibald_Motley.jpg",
+    "width": 552,
+    "height": 768,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Self_Portrait_of_Archibald_Motley.jpg/{w}px-Self_Portrait_of_Archibald_Motley.jpg"
+  },
+  "name:augusta-savage": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Archives%20of%20American%20Art%20-%20Augusta%20Savage%20-%202371%20CROPPED.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Archives_of_American_Art_-_Augusta_Savage_-_2371_CROPPED.jpg",
+    "width": 3013,
+    "height": 3842,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Archives_of_American_Art_-_Augusta_Savage_-_2371_CROPPED.jpg/{w}px-Archives_of_American_Art_-_Augusta_Savage_-_2371_CROPPED.jpg"
+  },
+  "name:thomas-hart-benton": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tom%20benton.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Tom_benton.jpg",
+    "width": 505,
+    "height": 640,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Tom_benton.jpg/{w}px-Tom_benton.jpg"
+  },
+  "name:claes-oldenburg": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Museum%20Ludwig%20-%20Pressekonferenz%20-%20Claes%20Oldenburg-3979.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/22/Museum_Ludwig_-_Pressekonferenz_-_Claes_Oldenburg-3979.jpg",
+    "width": 2704,
+    "height": 2704,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Museum_Ludwig_-_Pressekonferenz_-_Claes_Oldenburg-3979.jpg/{w}px-Museum_Ludwig_-_Pressekonferenz_-_Claes_Oldenburg-3979.jpg"
+  },
+  "name:donald-judd": {
+    "image": "https://en.wikipedia.org/wiki/Special:FilePath/Donald_Judd.png?width=1200",
+    "source": "wikipedia",
+    "src": "https://upload.wikimedia.org/wikipedia/en/e/ee/Donald_Judd.png",
+    "width": 320,
+    "height": 244
+  },
+  "name:frank-stella": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Frank%20Stella%20portrait%20%282012%29.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/35/Frank_Stella_portrait_%282012%29.jpg",
+    "width": 224,
+    "height": 299
+  },
+  "name:joseph-beuys": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Beuys-Feldman-Gallery.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Beuys-Feldman-Gallery.jpg",
+    "width": 476,
+    "height": 700
+  },
+  "name:sol-lewitt": {
+    "image": "https://en.wikipedia.org/wiki/Special:FilePath/Sol%20LeWitt.jpg?width=1200",
+    "source": "wikipedia",
+    "src": "https://upload.wikimedia.org/wikipedia/en/3/36/Sol_LeWitt.jpg",
+    "width": 317,
+    "height": 315
+  },
+  "name:georg-baselitz": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Georg%20Baselitz%20by%20Erling%20Mandelmann.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/65/Georg_Baselitz_by_Erling_Mandelmann.jpg",
+    "width": 300,
+    "height": 225
+  },
+  "name:julian-schnabel": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Julian%20Schnabel%20%28Hamptons%20International%20Film%20Festival%202010%29.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Julian_Schnabel_%28Hamptons_International_Film_Festival_2010%29.jpg",
+    "width": 384,
+    "height": 600
+  },
+  "name:kitagawa-utamaro": {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kitagawa%20Utamaro%20portrait%20%28cropped%29.jpg?width=600",
+    "source": "commons",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/46/Kitagawa_Utamaro_portrait_%28cropped%29.jpg",
+    "width": 4314,
+    "height": 3578,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Kitagawa_Utamaro_portrait_%28cropped%29.jpg/{w}px-Kitagawa_Utamaro_portrait_%28cropped%29.jpg"
+  }
+}
